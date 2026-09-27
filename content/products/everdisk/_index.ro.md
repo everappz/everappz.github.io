@@ -287,7 +287,7 @@ Transformă-ți iPhone-ul sau iPad-ul într-un disc wireless care partajează fi
 <div class="hx:mt-6"></div>
 
 <div class="hx:w-full">
-{{< ls-app-details heading="true" >}}
+{{< ls-app-details heading="true" footer="true" >}}
 </div>
 
 <div class="hx:mt-6"></div>

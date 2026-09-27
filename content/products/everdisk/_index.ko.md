@@ -287,7 +287,7 @@ iPhone이나 iPad를 무선 드라이브로 바꿔 <strong>네트워크의 모�
 <div class="hx:mt-6"></div>
 
 <div class="hx:w-full">
-{{< ls-app-details heading="true" >}}
+{{< ls-app-details heading="true" footer="true" >}}
 </div>
 
 <div class="hx:mt-6"></div>

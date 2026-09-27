@@ -167,7 +167,7 @@ Az Evertag egy zenei címke szerkesztő iPhone-ra és Macre, amelyet az Everappz
 <div class="hx:mt-6"></div>
 
 <div class="hx:w-full">
-{{< ls-app-details heading="true" >}}
+{{< ls-app-details heading="true" footer="true" >}}
 </div>
 
 <div class="hx:mt-6"></div>

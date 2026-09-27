@@ -287,7 +287,7 @@ Converteix el teu iPhone o iPad en una unitat sense fils que comparteix arxius a
 <div class="hx:mt-6"></div>
 
 <div class="hx:w-full">
-{{< ls-app-details heading="true" >}}
+{{< ls-app-details heading="true" footer="true" >}}
 </div>
 
 <div class="hx:mt-6"></div>

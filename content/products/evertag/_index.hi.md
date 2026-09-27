@@ -167,7 +167,7 @@ Evertag iPhone और Mac के लिए एक म्यूज़िक ट�
 <div class="hx:mt-6"></div>
 
 <div class="hx:w-full">
-{{< ls-app-details heading="true" >}}
+{{< ls-app-details heading="true" footer="true" >}}
 </div>
 
 <div class="hx:mt-6"></div>

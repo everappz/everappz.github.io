@@ -281,7 +281,7 @@ Evermusic는 스페인 소프트웨어 회사인 Everappz가 개발한 iPhone �
 <div class="hx:mt-6"></div>
 
 <div class="hx:w-full">
-{{< ls-app-details heading="true" >}}
+{{< ls-app-details heading="true" footer="true" >}}
 </div>
 
 <div class="hx:mt-6"></div>

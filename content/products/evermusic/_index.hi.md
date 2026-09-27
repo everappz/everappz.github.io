@@ -281,7 +281,7 @@ Evermusic iPhone और Mac के लिए एक निःशुल्क ऑ
 <div class="hx:mt-6"></div>
 
 <div class="hx:w-full">
-{{< ls-app-details heading="true" >}}
+{{< ls-app-details heading="true" footer="true" >}}
 </div>
 
 <div class="hx:mt-6"></div>

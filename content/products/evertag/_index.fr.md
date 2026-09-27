@@ -167,7 +167,7 @@ Evertag est un éditeur de tags musicaux pour iPhone et Mac développé par Ever
 <div class="hx:mt-6"></div>
 
 <div class="hx:w-full">
-{{< ls-app-details heading="true" >}}
+{{< ls-app-details heading="true" footer="true" >}}
 </div>
 
 <div class="hx:mt-6"></div>

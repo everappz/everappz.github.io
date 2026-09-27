@@ -281,7 +281,7 @@ Evermusic es un reproductor de música sin conexión gratuito para iPhone y Mac 
 <div class="hx:mt-6"></div>
 
 <div class="hx:w-full">
-{{< ls-app-details heading="true" >}}
+{{< ls-app-details heading="true" footer="true" >}}
 </div>
 
 <div class="hx:mt-6"></div>

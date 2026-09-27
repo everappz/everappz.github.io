@@ -287,7 +287,7 @@ Gör din iPhone eller iPad till en trådlös disk som delar filer med <strong>vi
 <div class="hx:mt-6"></div>
 
 <div class="hx:w-full">
-{{< ls-app-details heading="true" >}}
+{{< ls-app-details heading="true" footer="true" >}}
 </div>
 
 <div class="hx:mt-6"></div>

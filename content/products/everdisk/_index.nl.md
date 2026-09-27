@@ -287,7 +287,7 @@ Maak van je iPhone of iPad een draadloze schijf die bestanden deelt met <strong>
 <div class="hx:mt-6"></div>
 
 <div class="hx:w-full">
-{{< ls-app-details heading="true" >}}
+{{< ls-app-details heading="true" footer="true" >}}
 </div>
 
 <div class="hx:mt-6"></div>

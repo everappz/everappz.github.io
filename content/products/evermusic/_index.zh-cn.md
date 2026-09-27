@@ -281,7 +281,7 @@ Evermusic 是一款适用于 iPhone 和 Mac 的免费离线音乐播放器，由
 <div class="hx:mt-6"></div>
 
 <div class="hx:w-full">
-{{< ls-app-details heading="true" >}}
+{{< ls-app-details heading="true" footer="true" >}}
 </div>
 
 <div class="hx:mt-6"></div>

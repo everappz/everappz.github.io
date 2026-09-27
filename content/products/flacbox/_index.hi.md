@@ -255,7 +255,7 @@ USB फ्लैश ड्राइव या नेटवर्क स्टो
 <div class="hx:mt-6"></div>
 
 <div class="hx:w-full">
-{{< ls-app-details heading="true" >}}
+{{< ls-app-details heading="true" footer="true" >}}
 </div>
 
 <div class="hx:mt-6"></div>

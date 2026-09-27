@@ -167,7 +167,7 @@ Evertag er en musik-tag-editor til iPhone og Mac, udviklet af Everappz, en spans
 <div class="hx:mt-6"></div>
 
 <div class="hx:w-full">
-{{< ls-app-details heading="true" >}}
+{{< ls-app-details heading="true" footer="true" >}}
 </div>
 
 <div class="hx:mt-6"></div>

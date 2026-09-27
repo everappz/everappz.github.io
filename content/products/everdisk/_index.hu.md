@@ -287,7 +287,7 @@ Alakítsd iPhone-odat vagy iPad-edet vezeték nélküli meghajtóvá amely megos
 <div class="hx:mt-6"></div>
 
 <div class="hx:w-full">
-{{< ls-app-details heading="true" >}}
+{{< ls-app-details heading="true" footer="true" >}}
 </div>
 
 <div class="hx:mt-6"></div>

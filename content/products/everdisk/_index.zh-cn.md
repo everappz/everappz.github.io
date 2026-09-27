@@ -287,7 +287,7 @@ Everdisk 是 Everappz 为 iPhone 和 iPad 打造的无线硬盘应用。它把�
 <div class="hx:mt-6"></div>
 
 <div class="hx:w-full">
-{{< ls-app-details heading="true" >}}
+{{< ls-app-details heading="true" footer="true" >}}
 </div>
 
 <div class="hx:mt-6"></div>
