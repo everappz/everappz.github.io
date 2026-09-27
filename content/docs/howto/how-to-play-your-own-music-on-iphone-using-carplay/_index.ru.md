@@ -24,10 +24,7 @@ readingTime: 5
 
 Эти приложения идеально подходят для всех, кто хочет полного контроля над своей музыкальной библиотекой.
 
-{{< cards cols="2">}}
-{{< ls-card link="https://apps.apple.com/app/apple-store/id885367198?pt=95781850&ct=everappzcom&mt=8" title="Скачать Evermusic" icon="download" tag="Free" >}}
-{{< ls-card link="https://apps.apple.com/app/apple-store/id1097564256?pt=95781850&ct=everappzcom&mt=8" title="Скачать Flacbox" icon="download" tag="Free" >}}
-{{< /cards >}}
+{{< ls-app-details ids="885367198, 1097564256" notes="false" >}}
 
 ## Добавьте файлы в приложение
 

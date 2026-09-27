@@ -23,12 +23,7 @@ keywords: ["πώς να αναπαράγετε τοπική μουσική στ�
 
 Για να ξεκινήσετε το ταξίδι σας στον κόσμο της τοπικής μουσικής στο iPhone και Mac σας, ξεκινήστε εγκαθιστώντας είτε το Evermusic (για τυπικές μορφές ήχου όπως mp3 και wav) είτε το Flacbox (για μουσική χωρίς απώλειες σε dsd και flac). Και οι δύο εφαρμογές είναι διαθέσιμες για iOS και macOS και μπορείτε να τις κατεβάσετε δωρεάν.
 
-{{< cards >}}
-  {{< ls-card link="https://apps.apple.com/us/app/evermusic-cloud-music-player/id885367198?pt=95781850&ct=everappzcom&mt=8" title="Λήψη Evermusic για iOS" tag="iOS" >}}
-  {{< ls-card link="https://apps.apple.com/us/app/flacbox-hi-res-equalizer/id1097564256?pt=95781850&ct=everappzcom&mt=8" title="Λήψη Flacbox για iOS" tag="iOS" >}}
-  {{< ls-card link="https://apps.apple.com/us/app/evermusic-hi-res-music-player/id1564384601?pt=95781850&ct=everappzcom&mt=8" title="Λήψη Evermusic για Mac" tag="macOS" >}}
-  {{< ls-card link="https://apps.apple.com/us/app/flacbox-hi-res-music-player/id1594027432?pt=95781850&ct=everappzcom&mt=8" title="Λήψη Flacbox για Mac" tag="macOS" >}}
-{{< /cards >}}
+{{< ls-app-details ids="885367198, 1097564256, 1564384601, 1594027432" notes="false" >}}
 
 
 ## Βήμα 2: Αναπαραγωγή τοπικών αρχείων στη συσκευή σας

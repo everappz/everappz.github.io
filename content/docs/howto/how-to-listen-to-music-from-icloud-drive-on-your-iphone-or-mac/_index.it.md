@@ -28,19 +28,13 @@ Prima di poter iniziare a goderti la musica di iCloud Drive sul tuo iPhone o Mac
 
 1. Vai sull'App Store e scarica **Evermusic** se la tua musica è archiviata in formati audio standard come mp3 o wav. Se hai musica lossless in dsd o flac, scegli **Flacbox**. Entrambe le app sono disponibili per iOS e MacOS.
 
-{{< cards >}}
-  {{< ls-card link="https://apps.apple.com/us/app/evermusic-cloud-music-player/id885367198" title="Scarica Evermusic per iOS" icon="download" tag="Gratis" >}}
-  {{< ls-card link="https://apps.apple.com/us/app/flacbox-flac-player-equalizer/id1097564256" title="Scarica Flacbox per iOS" icon="download" tag="Gratis" >}}
-{{< /cards >}}
+{{< ls-app-details ids="885367198, 1097564256" notes="false" >}}
 
 - Per MacOS:
 
 1. Visita l'App Store sul tuo Mac e installa **Evermusic** o **Flacbox** in base alle tue preferenze di formato musicale.
 
-{{< cards >}}
-  {{< ls-card link="https://apps.apple.com/us/app/evermusic-cloud-music-player/id1564384601" title="Scarica Evermusic per Mac" icon="download" tag="Gratis" >}}
-  {{< ls-card link="https://apps.apple.com/us/app/flacbox-hires-music-player/id1594027432" title="Scarica Flacbox per Mac" icon="download" tag="Gratis" >}}
-{{< /cards >}}
+{{< ls-app-details ids="1564384601, 1594027432" notes="false" >}}
 
 Una volta installata l'app sul tuo iPhone o Mac, sei pronto per procedere.
 

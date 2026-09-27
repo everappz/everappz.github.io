@@ -34,7 +34,7 @@ Flacbox ialah pemain muzik hi-res untuk iPhone, iPad, dan Mac. Ia mengubah stora
 
 Flacbox ialah muat turun percuma dan berjalan pada iPhone, iPad, dan Mac.
 
-{{< ls-app-details product="flacbox" >}}
+{{< ls-app-details product="flacbox" notes="false" >}}
 
 ### Langkah 2. Masukkan Fail FLAC Anda
 
@@ -127,7 +127,7 @@ Apabila anda mahu muzik bersama anda, pengurus muat turun terbina dalam menyimpa
 
 Flacbox percuma untuk dimuat turun. Premium mengeluarkan had versi percuma pada akaun awan, senarai main, dan folder luar talian, dan ia tersedia sebagai pembelian seumur hidup satu kali atau langganan bulanan atau tahunan, dengan Perkongsian Keluarga.
 
-{{< ls-app-details product="flacbox" >}}
+{{< ls-app-details product="flacbox" notes="false" >}}
 
 ## Pilihan 2: Tukar FLAC kepada ALAC untuk Aplikasi Music
 

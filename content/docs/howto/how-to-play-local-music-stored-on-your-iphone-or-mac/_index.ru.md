@@ -23,12 +23,7 @@ keywords: ["как воспроизводить локальную музыку 
 
 Чтобы начать путешествие в мир локальной музыки на iPhone и Mac, установите Evermusic (для стандартных аудиоформатов, таких как mp3 и wav) или Flacbox (для музыки без потерь в dsd и flac). Оба приложения доступны для iOS и MacOS, и вы можете скачать их бесплатно.
 
-{{< cards >}}
-  {{< ls-card link="https://apps.apple.com/us/app/evermusic-cloud-music-player/id885367198?pt=95781850&ct=everappzcom&mt=8" title="Скачать Evermusic для iOS" tag="iOS" >}}
-  {{< ls-card link="https://apps.apple.com/us/app/flacbox-hi-res-equalizer/id1097564256?pt=95781850&ct=everappzcom&mt=8" title="Скачать Flacbox для iOS" tag="iOS" >}}
-  {{< ls-card link="https://apps.apple.com/us/app/evermusic-hi-res-music-player/id1564384601?pt=95781850&ct=everappzcom&mt=8" title="Скачать Evermusic для Mac" tag="macOS" >}}
-  {{< ls-card link="https://apps.apple.com/us/app/flacbox-hi-res-music-player/id1594027432?pt=95781850&ct=everappzcom&mt=8" title="Скачать Flacbox для Mac" tag="macOS" >}}
-{{< /cards >}}
+{{< ls-app-details ids="885367198, 1097564256, 1564384601, 1594027432" notes="false" >}}
 
 
 ## Шаг 2: Воспроизведение локальных файлов на вашем устройстве

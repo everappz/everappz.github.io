@@ -23,12 +23,7 @@ Apple 기기에서 로컬 음악을 원활하게 재생하는 방법과 도구�
 
 iPhone과 Mac에서 로컬 음악의 세계로 여행을 시작하려면, Evermusic(mp3, wav 같은 표준 오디오 형식용) 또는 Flacbox(dsd, flac의 무손실 음악용)를 설치하세요. 두 앱 모두 iOS와 MacOS에서 사용할 수 있으며, 무료로 다운로드할 수 있습니다.
 
-{{< cards >}}
-  {{< ls-card link="https://apps.apple.com/us/app/evermusic-cloud-music-player/id885367198?pt=95781850&ct=everappzcom&mt=8" title="iOS용 Evermusic 다운로드" tag="iOS" >}}
-  {{< ls-card link="https://apps.apple.com/us/app/flacbox-hi-res-equalizer/id1097564256?pt=95781850&ct=everappzcom&mt=8" title="iOS용 Flacbox 다운로드" tag="iOS" >}}
-  {{< ls-card link="https://apps.apple.com/us/app/evermusic-hi-res-music-player/id1564384601?pt=95781850&ct=everappzcom&mt=8" title="Mac용 Evermusic 다운로드" tag="macOS" >}}
-  {{< ls-card link="https://apps.apple.com/us/app/flacbox-hi-res-music-player/id1594027432?pt=95781850&ct=everappzcom&mt=8" title="Mac용 Flacbox 다운로드" tag="macOS" >}}
-{{< /cards >}}
+{{< ls-app-details ids="885367198, 1097564256, 1564384601, 1594027432" notes="false" >}}
 
 
 ## 2단계: 기기에 있는 로컬 파일 재생하기

@@ -20,18 +20,13 @@ readingTime: 2
 
 В то время как многие настольные приложения предлагают редактирование метаданных, Evermusic и Flacbox выводят простоту на новый уровень, включая редактор ID3-тегов. Теперь вы можете использовать одно приложение для создания музыкальной библиотеки, прослушивания треков и исправления аудио-тегов.
 
-{{< cards cols="2">}}
-{{< ls-card link="https://apps.apple.com/app/apple-store/id885367198?pt=95781850&ct=everappzcom&mt=8" title="Скачать Evermusic" icon="download" tag="Free" >}}
-{{< ls-card link="https://apps.apple.com/app/apple-store/id1097564256?pt=95781850&ct=everappzcom&mt=8" title="Скачать Flacbox" icon="download" tag="Free" >}}
-{{< /cards >}}
+{{< ls-app-details ids="885367198, 1097564256" notes="false" >}}
 
 ## Профессиональный редактор
 
 Но перед началом обратите внимание на приложение **Evertag** — оно поддерживает **более 120 аудио-тегов**, **более 30 аудио-форматов** и предлагает мощное **пакетное редактирование**. Если вы ищете полнофункциональный инструмент управления тегами, Evertag — лучший выбор. Однако, если вам нужен только **простой редактор тегов**, продолжайте с этим руководством.
 
-{{< cards >}}
-{{< ls-card link="https://apps.apple.com/app/apple-store/id1450763230?pt=95781850&ct=everappzcom&mt=8" title="Скачать Evertag" icon="download" tag="Free" >}}
-{{< /cards >}}
+{{< ls-app-details ids="1450763230" notes="false" >}}
 
 
 ## Подключите облачный аккаунт  

@@ -146,10 +146,7 @@ Kodi अब आपके लोकल Wi-Fi नेटवर्क पर DLNA �
 
 दोनों ऐप **iOS** और **macOS** के लिए उपलब्ध हैं, और मुफ्त हैं।
 
-{{< cards cols="1">}}
-{{< ls-card link="https://apps.apple.com/app/apple-store/id885367198?pt=95781850&ct=everappzcom&mt=8" title="Evermusic डाउनलोड करें" icon="download" tag="Free" >}}
-{{< ls-card link="https://apps.apple.com/app/apple-store/id1097564256?pt=95781850&ct=everappzcom&mt=8" title="Flacbox डाउनलोड करें" icon="download" tag="Free" >}}
-{{< /cards >}}
+{{< ls-app-details ids="885367198, 1097564256" notes="false" >}}
 
 ## DLNA स्रोत जोड़ें
 
@@ -297,10 +294,7 @@ Evermusic Kodi के माध्यम से शेयर किए गए �
 
 चाहे आप ऑडियोफाइल हों या कैजुअल श्रोता, Evermusic और Flacbox निर्बाध संगीत स्ट्रीमिंग और संगठन के लिए आपको जो कुछ भी चाहिए वह प्रदान करते हैं।
 
-{{< cards cols="1">}}
-{{< ls-card link="https://apps.apple.com/app/apple-store/id885367198?pt=95781850&ct=everappzcom&mt=8" title="Evermusic डाउनलोड करें" icon="download" tag="Free" >}}
-{{< ls-card link="https://apps.apple.com/app/apple-store/id1097564256?pt=95781850&ct=everappzcom&mt=8" title="Flacbox डाउनलोड करें" icon="download" tag="Free" >}}
-{{< /cards >}}
+{{< ls-app-details ids="885367198, 1097564256" notes="false" >}}
 
 आज ही अपना व्यक्तिगत संगीत अनुभव बनाना शुरू करें।
 

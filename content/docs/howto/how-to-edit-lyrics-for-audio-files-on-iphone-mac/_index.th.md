@@ -22,10 +22,7 @@ readingTime: 2
 
 เริ่มต้นด้วยการดาวน์โหลดแอป **Evertag** จาก App Store มีให้ใช้งานทั้งบน **iOS** และ **macOS** และใช้งานได้ฟรี
 
-{{< cards cols="2">}}
-{{< ls-card link="https://apps.apple.com/app/apple-store/id1450763230?pt=95781850&ct=everappzcom&mt=8" title="Evertag สำหรับ iOS" icon="download" tag="Free" >}}
-{{< ls-card link="https://apps.apple.com/app/apple-store/id1594027661?pt=95781850&ct=everappzcom&mt=8" title="Evertag สำหรับ macOS" icon="download" tag="Free" >}}
-{{< /cards >}}
+{{< ls-app-details ids="1450763230, 1594027661" notes="false" >}}
 
 ## เชื่อมต่อบัญชีคลาวด์ของคุณ
 

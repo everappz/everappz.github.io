@@ -23,12 +23,7 @@ Nous explorerons des méthodes et des outils pour lire de manière fluide votre 
 
 Pour commencer votre voyage dans le monde de la musique locale sur votre iPhone et Mac, commencez par installer soit Evermusic (pour les formats audio standard comme mp3 et wav) soit Flacbox (pour la musique sans perte en dsd et flac). Ces deux applications sont disponibles pour iOS et macOS, et vous pouvez les télécharger gratuitement.
 
-{{< cards >}}
-  {{< ls-card link="https://apps.apple.com/us/app/evermusic-cloud-music-player/id885367198?pt=95781850&ct=everappzcom&mt=8" title="Télécharger Evermusic pour iOS" tag="iOS" >}}
-  {{< ls-card link="https://apps.apple.com/us/app/flacbox-hi-res-equalizer/id1097564256?pt=95781850&ct=everappzcom&mt=8" title="Télécharger Flacbox pour iOS" tag="iOS" >}}
-  {{< ls-card link="https://apps.apple.com/us/app/evermusic-hi-res-music-player/id1564384601?pt=95781850&ct=everappzcom&mt=8" title="Télécharger Evermusic pour Mac" tag="macOS" >}}
-  {{< ls-card link="https://apps.apple.com/us/app/flacbox-hi-res-music-player/id1594027432?pt=95781850&ct=everappzcom&mt=8" title="Télécharger Flacbox pour Mac" tag="macOS" >}}
-{{< /cards >}}
+{{< ls-app-details ids="885367198, 1097564256, 1564384601, 1594027432" notes="false" >}}
 
 
 ## Étape 2 : Lecture des fichiers locaux situés sur votre appareil

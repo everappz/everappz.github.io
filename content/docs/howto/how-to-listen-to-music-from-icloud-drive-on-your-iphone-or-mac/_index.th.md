@@ -28,19 +28,13 @@ iPhone ของคุณสามารถเข้าถึงไลบรา�
 
 1. ไปที่ App Store และดาวน์โหลด **Evermusic** หากเพลงของคุณจัดเก็บในรูปแบบเสียงมาตรฐานเช่น mp3 หรือ wav หากคุณมีเพลงแบบ lossless ในรูปแบบ dsd หรือ flac ให้เลือก **Flacbox** ทั้งสองแอปมีให้บริการทั้งบน iOS และ MacOS
 
-{{< cards >}}
-  {{< ls-card link="https://apps.apple.com/us/app/evermusic-cloud-music-player/id885367198" title="ดาวน์โหลด Evermusic สำหรับ iOS" icon="download" tag="ฟรี" >}}
-  {{< ls-card link="https://apps.apple.com/us/app/flacbox-flac-player-equalizer/id1097564256" title="ดาวน์โหลด Flacbox สำหรับ iOS" icon="download" tag="ฟรี" >}}
-{{< /cards >}}
+{{< ls-app-details ids="885367198, 1097564256" notes="false" >}}
 
 - สำหรับ MacOS:
 
 1. เข้าไปที่ App Store บน Mac ของคุณและติดตั้ง **Evermusic** หรือ **Flacbox** ตามรูปแบบเพลงที่คุณต้องการ
 
-{{< cards >}}
-  {{< ls-card link="https://apps.apple.com/us/app/evermusic-cloud-music-player/id1564384601" title="ดาวน์โหลด Evermusic สำหรับ Mac" icon="download" tag="ฟรี" >}}
-  {{< ls-card link="https://apps.apple.com/us/app/flacbox-hires-music-player/id1594027432" title="ดาวน์โหลด Flacbox สำหรับ Mac" icon="download" tag="ฟรี" >}}
-{{< /cards >}}
+{{< ls-app-details ids="1564384601, 1594027432" notes="false" >}}
 
 เมื่อคุณติดตั้งแอปบน iPhone หรือ Mac แล้ว คุณก็พร้อมดำเนินการต่อ
 

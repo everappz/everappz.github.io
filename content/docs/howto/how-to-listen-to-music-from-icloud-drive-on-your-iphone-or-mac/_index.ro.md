@@ -28,19 +28,13 @@ Așadar, dacă sunteți gata să vă bucurați de comoditatea transmiterii muzic
 
 1. Mergeți la App Store și descărcați **Evermusic** dacă muzica dvs. este stocată în formate audio standard precum mp3 sau wav. Dacă aveți muzică fără pierderi în format dsd sau flac, optați pentru **Flacbox**. Ambele aplicații sunt disponibile pentru iOS și MacOS.
 
-{{< cards >}}
-  {{< ls-card link="https://apps.apple.com/us/app/evermusic-cloud-music-player/id885367198" title="Descărcați Evermusic pentru iOS" icon="download" tag="Gratuit" >}}
-  {{< ls-card link="https://apps.apple.com/us/app/flacbox-flac-player-equalizer/id1097564256" title="Descărcați Flacbox pentru iOS" icon="download" tag="Gratuit" >}}
-{{< /cards >}}
+{{< ls-app-details ids="885367198, 1097564256" notes="false" >}}
 
 - Pentru MacOS:
 
 1. Vizitați App Store pe Mac-ul dvs. și instalați **Evermusic** sau **Flacbox** în funcție de preferințele dvs. de format muzical.
 
-{{< cards >}}
-  {{< ls-card link="https://apps.apple.com/us/app/evermusic-cloud-music-player/id1564384601" title="Descărcați Evermusic pentru Mac" icon="download" tag="Gratuit" >}}
-  {{< ls-card link="https://apps.apple.com/us/app/flacbox-hires-music-player/id1594027432" title="Descărcați Flacbox pentru Mac" icon="download" tag="Gratuit" >}}
-{{< /cards >}}
+{{< ls-app-details ids="1564384601, 1594027432" notes="false" >}}
 
 După ce ați instalat aplicația pe iPhone sau Mac, sunteți gata să continuați.
 

@@ -68,10 +68,7 @@ Vælg destinationen, hvor M3U-filen skal gemmes.
 
 Download en af apps fra Mac App Store:
 
-{{< cards cols="1">}}
-{{< ls-card link="https://apps.apple.com/app/apple-store/id1564384601?pt=95781850&ct=everappzcom&mt=8" title="Evermusic" icon="download" tag="Free" >}}
-{{< ls-card link="https://apps.apple.com/app/apple-store/id1594027432?pt=95781850&ct=everappzcom&mt=8" title="Flacbox" icon="download" tag="Free" >}}
-{{< /cards >}}
+{{< ls-app-details ids="1564384601, 1594027432" notes="false" >}}
 
 Åbn fanen **Playlister** i appen.
 

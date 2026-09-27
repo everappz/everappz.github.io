@@ -62,7 +62,7 @@ Evermusic와 Evermusic Premium은 동일한 음악 재생기 애플리케이션�
 
 ### App Store에서 다운로드하기
 
-{{< ls-app-details ids="885367198, 905746421, 1564384601" >}}
+{{< ls-app-details ids="885367198, 905746421, 1564384601" notes="false" >}}
 
 ### App Store 패키징
 

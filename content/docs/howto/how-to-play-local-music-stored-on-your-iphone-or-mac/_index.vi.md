@@ -23,12 +23,7 @@ Chung ta se kham pha cac phuong phap va cong cu de phat nhac cuc bo cua ban mot 
 
 De bat dau hanh trinh vao the gioi nhac cuc bo tren iPhone va Mac, hay bat dau bang cach cai dat Evermusic (cho cac dinh dang am thanh tieu chuan nhu mp3 va wav) hoac Flacbox (cho nhac khong mat du lieu trong dsd va flac). Ca hai ung dung deu co san cho iOS va MacOS, va ban co the tai chung mien phi.
 
-{{< cards >}}
-  {{< ls-card link="https://apps.apple.com/us/app/evermusic-cloud-music-player/id885367198?pt=95781850&ct=everappzcom&mt=8" title="Tai Evermusic cho iOS" tag="iOS" >}}
-  {{< ls-card link="https://apps.apple.com/us/app/flacbox-hi-res-equalizer/id1097564256?pt=95781850&ct=everappzcom&mt=8" title="Tai Flacbox cho iOS" tag="iOS" >}}
-  {{< ls-card link="https://apps.apple.com/us/app/evermusic-hi-res-music-player/id1564384601?pt=95781850&ct=everappzcom&mt=8" title="Tai Evermusic cho Mac" tag="macOS" >}}
-  {{< ls-card link="https://apps.apple.com/us/app/flacbox-hi-res-music-player/id1594027432?pt=95781850&ct=everappzcom&mt=8" title="Tai Flacbox cho Mac" tag="macOS" >}}
-{{< /cards >}}
+{{< ls-app-details ids="885367198, 1097564256, 1564384601, 1594027432" notes="false" >}}
 
 
 ## Buoc 2: Phat tap tin cuc bo tren thiet bi cua ban

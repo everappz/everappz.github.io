@@ -62,7 +62,7 @@ Mavi ile kırmızı arasındaki fark **App Store'da nasıl paketlendikleri**, he
 
 ### App Store'dan İndirin
 
-{{< ls-app-details ids="885367198, 905746421, 1564384601" >}}
+{{< ls-app-details ids="885367198, 905746421, 1564384601" notes="false" >}}
 
 ### App Store paketlemesi
 

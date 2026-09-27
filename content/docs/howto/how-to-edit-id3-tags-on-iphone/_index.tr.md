@@ -20,18 +20,13 @@ Müzik kitaplığınıza şarkılar aktardığınızda, bunlar sanatçılara, al
 
 Birçok masaüstü uygulama meta veri düzenleme sunarken, Evermusic ve Flacbox bir ID3 etiket düzenleyici ekleyerek basitliği bir sonraki seviyeye taşır. Artık müzik kitaplığınızı oluşturmak, parçalarınızın keyfini çıkarmak ve ses etiketlerini düzeltmek için tek bir uygulama kullanabilirsiniz.
 
-{{< cards cols="2">}}
-{{< ls-card link="https://apps.apple.com/app/apple-store/id885367198?pt=95781850&ct=everappzcom&mt=8" title="Evermusic İndir" icon="download" tag="Free" >}}
-{{< ls-card link="https://apps.apple.com/app/apple-store/id1097564256?pt=95781850&ct=everappzcom&mt=8" title="Flacbox İndir" icon="download" tag="Free" >}}
-{{< /cards >}}
+{{< ls-app-details ids="885367198, 1097564256" notes="false" >}}
 
 ## Profesyonel Düzenleyici
 
 Ancak başlamadan önce **Evertag** uygulamasına göz atın — **120'den fazla ses etiketi**, **30'dan fazla ses formatı** destekler ve güçlü **toplu düzenleme** sunar. Tam özellikli bir etiket yönetim aracı arıyorsanız, Evertag doğru seçimdir. Ancak, yalnızca **basit bir etiket düzenleyiciye** ihtiyacınız varsa, bu kılavuzla devam edin.
 
-{{< cards >}}
-{{< ls-card link="https://apps.apple.com/app/apple-store/id1450763230?pt=95781850&ct=everappzcom&mt=8" title="Evertag İndir" icon="download" tag="Free" >}}
-{{< /cards >}}
+{{< ls-app-details ids="1450763230" notes="false" >}}
 
 
 ## Bulut Hesabınızı Bağlayın  

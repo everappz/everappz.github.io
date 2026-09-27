@@ -34,7 +34,7 @@ Flacbox เป็นเครื่องเล่นเพลงความล
 
 Flacbox ดาวน์โหลดได้ฟรีและทำงานบน iPhone, iPad และ Mac
 
-{{< ls-app-details product="flacbox" >}}
+{{< ls-app-details product="flacbox" notes="false" >}}
 
 ### ขั้นตอนที่ 2. นำไฟล์ FLAC ของคุณเข้ามา
 
@@ -127,7 +127,7 @@ Flacbox มีเครื่องแสดงภาพเพลงในตั
 
 Flacbox ดาวน์โหลดได้ฟรี Premium จะลบข้อจำกัดของเวอร์ชันฟรีเกี่ยวกับบัญชีคลาวด์ เพลย์ลิสต์ และโฟลเดอร์ออฟไลน์ และมีให้เลือกเป็นการซื้อครั้งเดียวแบบตลอดชีพ หรือการสมัครสมาชิกรายเดือนหรือรายปี พร้อมการแชร์กันในครอบครัว
 
-{{< ls-app-details product="flacbox" >}}
+{{< ls-app-details product="flacbox" notes="false" >}}
 
 ## ตัวเลือกที่ 2: แปลง FLAC เป็น ALAC สำหรับแอปเพลง
 

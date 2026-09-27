@@ -23,12 +23,7 @@ Istražit ćemo metode i alate za besprijekorno reproduciranje vaše lokalne gla
 
 Da biste započeli svoje putovanje u svijet lokalne glazbe na svom iPhoneu i Macu, počnite instaliranjem Evermusica (za standardne audio formate poput mp3 i wav) ili Flacboxa (za glazbu bez gubitaka u dsd i flac formatima). Obje aplikacije dostupne su za iOS i macOS, a možete ih preuzeti besplatno.
 
-{{< cards >}}
-  {{< ls-card link="https://apps.apple.com/us/app/evermusic-cloud-music-player/id885367198?pt=95781850&ct=everappzcom&mt=8" title="Preuzmi Evermusic za iOS" tag="iOS" >}}
-  {{< ls-card link="https://apps.apple.com/us/app/flacbox-hi-res-equalizer/id1097564256?pt=95781850&ct=everappzcom&mt=8" title="Preuzmi Flacbox za iOS" tag="iOS" >}}
-  {{< ls-card link="https://apps.apple.com/us/app/evermusic-hi-res-music-player/id1564384601?pt=95781850&ct=everappzcom&mt=8" title="Preuzmi Evermusic za Mac" tag="macOS" >}}
-  {{< ls-card link="https://apps.apple.com/us/app/flacbox-hi-res-music-player/id1594027432?pt=95781850&ct=everappzcom&mt=8" title="Preuzmi Flacbox za Mac" tag="macOS" >}}
-{{< /cards >}}
+{{< ls-app-details ids="885367198, 1097564256, 1564384601, 1594027432" notes="false" >}}
 
 
 ## Korak 2: Reproduciranje lokalnih datoteka na vašem uređaju

@@ -146,10 +146,7 @@ Obtén una aplicació client DLNA gratuïta per a iOS que et permet transmetre m
 
 Ambdues aplicacions estan disponibles per a **iOS** i **macOS**, i són gratuïtes.
 
-{{< cards cols="1">}}
-{{< ls-card link="https://apps.apple.com/app/apple-store/id885367198?pt=95781850&ct=everappzcom&mt=8" title="Descarregar Evermusic" icon="download" tag="Free" >}}
-{{< ls-card link="https://apps.apple.com/app/apple-store/id1097564256?pt=95781850&ct=everappzcom&mt=8" title="Descarregar Flacbox" icon="download" tag="Free" >}}
-{{< /cards >}}
+{{< ls-app-details ids="885367198, 1097564256" notes="false" >}}
 
 ## Afegir font DLNA
 
@@ -297,10 +294,7 @@ Amb **Evermusic** i **Flacbox**, convertir el teu iPhone, iPad o Mac en un poten
 
 Tant si ets un audiòfil com un oient casual, Evermusic i Flacbox ofereixen tot el que necessites per a una transmissió i organització musical sense interrupcions.
 
-{{< cards cols="1">}}
-{{< ls-card link="https://apps.apple.com/app/apple-store/id885367198?pt=95781850&ct=everappzcom&mt=8" title="Descarregar Evermusic" icon="download" tag="Free" >}}
-{{< ls-card link="https://apps.apple.com/app/apple-store/id1097564256?pt=95781850&ct=everappzcom&mt=8" title="Descarregar Flacbox" icon="download" tag="Free" >}}
-{{< /cards >}}
+{{< ls-app-details ids="885367198, 1097564256" notes="false" >}}
 
 Comença a construir la teva experiència musical personal avui.
 

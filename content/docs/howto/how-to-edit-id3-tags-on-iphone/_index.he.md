@@ -20,18 +20,13 @@ readingTime: 2
 
 בעוד שאפליקציות שולחן עבודה רבות מציעות עריכת מטא-נתונים, Evermusic ו-Flacbox לוקחים את הפשטות לרמה הבאה על ידי הכללת עורך תגיות ID3. כעת, תוכל להשתמש באפליקציה אחת כדי לבנות את ספריית המוזיקה שלך, ליהנות מהרצועות שלך ולתקן תגיות שמע.
 
-{{< cards cols="2">}}
-{{< ls-card link="https://apps.apple.com/app/apple-store/id885367198?pt=95781850&ct=everappzcom&mt=8" title="הורד Evermusic" icon="download" tag="Free" >}}
-{{< ls-card link="https://apps.apple.com/app/apple-store/id1097564256?pt=95781850&ct=everappzcom&mt=8" title="הורד Flacbox" icon="download" tag="Free" >}}
-{{< /cards >}}
+{{< ls-app-details ids="885367198, 1097564256" notes="false" >}}
 
 ## עורך מקצועי
 
 אך לפני שתתחיל, בדוק את אפליקציית **Evertag** — היא תומכת ב-**יותר מ-120 תגיות שמע**, **יותר מ-30 פורמטי שמע**, ומציעה **עריכה בכמויות** עוצמתית. אם אתה מחפש כלי מלא לניהול תגיות, Evertag הוא הבחירה הנכונה. עם זאת, אם אתה רק צריך **עורך תגיות פשוט**, המשך עם המדריך הזה.
 
-{{< cards >}}
-{{< ls-card link="https://apps.apple.com/app/apple-store/id1450763230?pt=95781850&ct=everappzcom&mt=8" title="הורד Evertag" icon="download" tag="Free" >}}
-{{< /cards >}}
+{{< ls-app-details ids="1450763230" notes="false" >}}
 
 
 ## חבר את חשבון הענן שלך  

@@ -145,10 +145,7 @@ Kodi теперь работает как DLNA сервер в вашей лок
 
 Оба приложения доступны для **iOS** и **macOS** и бесплатны.
 
-{{< cards cols="1">}}
-{{< ls-card link="https://apps.apple.com/app/apple-store/id885367198?pt=95781850&ct=everappzcom&mt=8" title="Скачать Evermusic" icon="download" tag="Free" >}}
-{{< ls-card link="https://apps.apple.com/app/apple-store/id1097564256?pt=95781850&ct=everappzcom&mt=8" title="Скачать Flacbox" icon="download" tag="Free" >}}
-{{< /cards >}}
+{{< ls-app-details ids="885367198, 1097564256" notes="false" >}}
 
 ## Добавьте DLNA-источник
 
@@ -296,10 +293,7 @@ Evermusic отобразит папки библиотеки, общие чер�
 
 Будь вы аудиофилом или обычным слушателем, Evermusic и Flacbox предлагают всё необходимое для бесперебойного стриминга и организации музыки.
 
-{{< cards cols="1">}}
-{{< ls-card link="https://apps.apple.com/app/apple-store/id885367198?pt=95781850&ct=everappzcom&mt=8" title="Скачать Evermusic" icon="download" tag="Free" >}}
-{{< ls-card link="https://apps.apple.com/app/apple-store/id1097564256?pt=95781850&ct=everappzcom&mt=8" title="Скачать Flacbox" icon="download" tag="Free" >}}
-{{< /cards >}}
+{{< ls-app-details ids="885367198, 1097564256" notes="false" >}}
 
 Начните создавать свой персональный музыкальный опыт уже сегодня.
 

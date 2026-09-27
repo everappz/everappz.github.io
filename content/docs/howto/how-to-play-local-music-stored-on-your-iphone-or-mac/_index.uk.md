@@ -23,12 +23,7 @@ keywords: ["як відтворювати локальну музику на iPh
 
 Щоб почати подорож у світ локальної музики на iPhone та Mac, встановіть Evermusic (для стандартних аудіоформатів, таких як mp3 та wav) або Flacbox (для музики без втрат у dsd та flac). Обидва додатки доступні для iOS та MacOS, і ви можете завантажити їх безкоштовно.
 
-{{< cards >}}
-  {{< ls-card link="https://apps.apple.com/us/app/evermusic-cloud-music-player/id885367198?pt=95781850&ct=everappzcom&mt=8" title="Завантажити Evermusic для iOS" tag="iOS" >}}
-  {{< ls-card link="https://apps.apple.com/us/app/flacbox-hi-res-equalizer/id1097564256?pt=95781850&ct=everappzcom&mt=8" title="Завантажити Flacbox для iOS" tag="iOS" >}}
-  {{< ls-card link="https://apps.apple.com/us/app/evermusic-hi-res-music-player/id1564384601?pt=95781850&ct=everappzcom&mt=8" title="Завантажити Evermusic для Mac" tag="macOS" >}}
-  {{< ls-card link="https://apps.apple.com/us/app/flacbox-hi-res-music-player/id1594027432?pt=95781850&ct=everappzcom&mt=8" title="Завантажити Flacbox для Mac" tag="macOS" >}}
-{{< /cards >}}
+{{< ls-app-details ids="885367198, 1097564256, 1564384601, 1594027432" notes="false" >}}
 
 
 ## Крок 2: Відтворення локальних файлів на вашому пристрої

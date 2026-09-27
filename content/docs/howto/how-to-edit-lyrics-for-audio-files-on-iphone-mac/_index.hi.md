@@ -22,10 +22,7 @@ readingTime: 2
 
 App Store से **Evertag** ऐप डाउनलोड करके शुरू करें। यह **iOS** और **macOS** दोनों के लिए उपलब्ध है, और उपयोग करने के लिए मुफ्त है।
 
-{{< cards cols="2">}}
-{{< ls-card link="https://apps.apple.com/app/apple-store/id1450763230?pt=95781850&ct=everappzcom&mt=8" title="Evertag iOS के लिए" icon="download" tag="Free" >}}
-{{< ls-card link="https://apps.apple.com/app/apple-store/id1594027661?pt=95781850&ct=everappzcom&mt=8" title="Evertag macOS के लिए" icon="download" tag="Free" >}}
-{{< /cards >}}
+{{< ls-app-details ids="1450763230, 1594027661" notes="false" >}}
 
 ## अपना क्लाउड खाता कनेक्ट करें
 

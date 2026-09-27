@@ -24,10 +24,7 @@ readingTime: 3
 
 เริ่มต้นด้วยการดาวน์โหลดแอป **Evertag** จาก App Store ใช้งานฟรีและมีให้ทั้งบน **iOS** และ **macOS**
 
-{{< cards cols="2">}}
-{{< ls-card link="https://apps.apple.com/app/apple-store/id1450763230?pt=95781850&ct=everappzcom&mt=8" title="Evertag สำหรับ iOS" icon="download" tag="Free" >}}
-{{< ls-card link="https://apps.apple.com/app/apple-store/id1594027661?pt=95781850&ct=everappzcom&mt=8" title="Evertag สำหรับ macOS" icon="download" tag="Free" >}}
-{{< /cards >}}
+{{< ls-app-details ids="1450763230, 1594027661" notes="false" >}}
 
 ## เปิดใช้งานไลบรารีในเครื่องใน Spotify
 

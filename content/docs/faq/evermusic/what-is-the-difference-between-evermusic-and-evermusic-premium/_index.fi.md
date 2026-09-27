@@ -62,7 +62,7 @@ Sinisen ja punaisen välillä eroaa se, **miten ne on paketoitu App Storeen**, m
 
 ### Lataa App Storesta
 
-{{< ls-app-details ids="885367198, 905746421, 1564384601" >}}
+{{< ls-app-details ids="885367198, 905746421, 1564384601" notes="false" >}}
 
 ### App Store -paketointi
 

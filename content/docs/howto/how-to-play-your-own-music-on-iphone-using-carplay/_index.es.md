@@ -24,10 +24,7 @@ En esta guía, te mostraremos cómo preparar tus archivos de música para CarPla
 
 Estas aplicaciones son perfectas para cualquiera que quiera control total sobre su biblioteca musical.
 
-{{< cards cols="2">}}
-{{< ls-card link="https://apps.apple.com/app/apple-store/id885367198?pt=95781850&ct=everappzcom&mt=8" title="Descargar Evermusic" icon="download" tag="Free" >}}
-{{< ls-card link="https://apps.apple.com/app/apple-store/id1097564256?pt=95781850&ct=everappzcom&mt=8" title="Descargar Flacbox" icon="download" tag="Free" >}}
-{{< /cards >}}
+{{< ls-app-details ids="885367198, 1097564256" notes="false" >}}
 
 ## Añadir archivos a la aplicación
 

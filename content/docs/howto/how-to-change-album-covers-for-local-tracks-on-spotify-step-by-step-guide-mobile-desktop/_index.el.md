@@ -24,10 +24,7 @@ readingTime: 3
 
 Ξεκινήστε κατεβάζοντας την εφαρμογή **Evertag** από το App Store. Είναι δωρεάν και διαθέσιμη τόσο σε **iOS** όσο και σε **macOS**.
 
-{{< cards cols="2">}}
-{{< ls-card link="https://apps.apple.com/app/apple-store/id1450763230?pt=95781850&ct=everappzcom&mt=8" title="Evertag για iOS" icon="download" tag="Free" >}}
-{{< ls-card link="https://apps.apple.com/app/apple-store/id1594027661?pt=95781850&ct=everappzcom&mt=8" title="Evertag για macOS" icon="download" tag="Free" >}}
-{{< /cards >}}
+{{< ls-app-details ids="1450763230, 1594027661" notes="false" >}}
 
 ## Ενεργοποίηση τοπικής βιβλιοθήκης στο Spotify
 

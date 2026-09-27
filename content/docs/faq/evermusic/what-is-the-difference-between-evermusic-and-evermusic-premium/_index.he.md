@@ -62,7 +62,7 @@ tags: ["Evermusic", "Premium", "Pro", "חינם לעומת בתשלום", "אפ�
 
 ### הורדה ב-App Store
 
-{{< ls-app-details ids="885367198, 905746421, 1564384601" >}}
+{{< ls-app-details ids="885367198, 905746421, 1564384601" notes="false" >}}
 
 ### אריזה ב-App Store
 

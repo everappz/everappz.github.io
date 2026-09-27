@@ -146,10 +146,7 @@ Získejte bezplatnou iOS DLNA klientskou aplikaci, která vám umožní streamov
 
 Obě aplikace jsou dostupné pro **iOS** a **macOS** a jsou zdarma k použití.
 
-{{< cards cols="1">}}
-{{< ls-card link="https://apps.apple.com/app/apple-store/id885367198?pt=95781850&ct=everappzcom&mt=8" title="Stáhnout Evermusic" icon="download" tag="Free" >}}
-{{< ls-card link="https://apps.apple.com/app/apple-store/id1097564256?pt=95781850&ct=everappzcom&mt=8" title="Stáhnout Flacbox" icon="download" tag="Free" >}}
-{{< /cards >}}
+{{< ls-app-details ids="885367198, 1097564256" notes="false" >}}
 
 ## Přidání zdroje DLNA
 
@@ -297,10 +294,7 @@ S **Evermusic** a **Flacbox** je proměna vašeho iPhone, iPad nebo Mac v výkon
 
 Ať už jste audiofil nebo příležitostný posluchač, Evermusic a Flacbox nabízejí vše, co potřebujete pro bezproblémové streamování a organizaci hudby.
 
-{{< cards cols="1">}}
-{{< ls-card link="https://apps.apple.com/app/apple-store/id885367198?pt=95781850&ct=everappzcom&mt=8" title="Stáhnout Evermusic" icon="download" tag="Free" >}}
-{{< ls-card link="https://apps.apple.com/app/apple-store/id1097564256?pt=95781850&ct=everappzcom&mt=8" title="Stáhnout Flacbox" icon="download" tag="Free" >}}
-{{< /cards >}}
+{{< ls-app-details ids="885367198, 1097564256" notes="false" >}}
 
 Začněte budovat svůj osobní hudební zážitek ještě dnes.
 

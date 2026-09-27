@@ -23,12 +23,7 @@ Prozkoumáme metody a nástroje pro bezproblémové přehrávání lokální hud
 
 Chcete-li začít svou cestu do světa lokální hudby na iPhonu a Macu, začněte instalací Evermusic (pro standardní audio formáty jako mp3 a wav) nebo Flacbox (pro bezztrátovou hudbu v dsd a flac). Obě tyto aplikace jsou dostupné pro iOS a macOS a můžete si je stáhnout zdarma.
 
-{{< cards >}}
-  {{< ls-card link="https://apps.apple.com/us/app/evermusic-cloud-music-player/id885367198?pt=95781850&ct=everappzcom&mt=8" title="Stáhnout Evermusic pro iOS" tag="iOS" >}}
-  {{< ls-card link="https://apps.apple.com/us/app/flacbox-hi-res-equalizer/id1097564256?pt=95781850&ct=everappzcom&mt=8" title="Stáhnout Flacbox pro iOS" tag="iOS" >}}
-  {{< ls-card link="https://apps.apple.com/us/app/evermusic-hi-res-music-player/id1564384601?pt=95781850&ct=everappzcom&mt=8" title="Stáhnout Evermusic pro Mac" tag="macOS" >}}
-  {{< ls-card link="https://apps.apple.com/us/app/flacbox-hi-res-music-player/id1594027432?pt=95781850&ct=everappzcom&mt=8" title="Stáhnout Flacbox pro Mac" tag="macOS" >}}
-{{< /cards >}}
+{{< ls-app-details ids="885367198, 1097564256, 1564384601, 1594027432" notes="false" >}}
 
 
 ## Krok 2: Přehrávání lokálních souborů umístěných na vašem zařízení

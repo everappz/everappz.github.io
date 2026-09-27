@@ -146,10 +146,7 @@ Hanki ilmainen iOS DLNA -asiakassovellus, jonka avulla voit suoratoistaa musiikk
 
 Molemmat sovellukset ovat saatavilla **iOS**:lle ja **macOS**:lle, ja ne ovat ilmaisia käyttää.
 
-{{< cards cols="1">}}
-{{< ls-card link="https://apps.apple.com/app/apple-store/id885367198?pt=95781850&ct=everappzcom&mt=8" title="Lataa Evermusic" icon="download" tag="Free" >}}
-{{< ls-card link="https://apps.apple.com/app/apple-store/id1097564256?pt=95781850&ct=everappzcom&mt=8" title="Lataa Flacbox" icon="download" tag="Free" >}}
-{{< /cards >}}
+{{< ls-app-details ids="885367198, 1097564256" notes="false" >}}
 
 ## Lisää DLNA-lähde
 
@@ -297,10 +294,7 @@ Napauta **Lisää toimintoja** -painiketta tutkiaksesi lisävaihtoehtoja. Voit:
 
 Oletpa audiofiilin tai satunnainen kuuntelija, Evermusic ja Flacbox tarjoavat kaiken tarvitsemasi saumattomaan musiikin suoratoistoon ja järjestämiseen.
 
-{{< cards cols="1">}}
-{{< ls-card link="https://apps.apple.com/app/apple-store/id885367198?pt=95781850&ct=everappzcom&mt=8" title="Lataa Evermusic" icon="download" tag="Free" >}}
-{{< ls-card link="https://apps.apple.com/app/apple-store/id1097564256?pt=95781850&ct=everappzcom&mt=8" title="Lataa Flacbox" icon="download" tag="Free" >}}
-{{< /cards >}}
+{{< ls-app-details ids="885367198, 1097564256" notes="false" >}}
 
 Aloita henkilökohtaisen musiikkikokemuksesi rakentaminen tänään.
 

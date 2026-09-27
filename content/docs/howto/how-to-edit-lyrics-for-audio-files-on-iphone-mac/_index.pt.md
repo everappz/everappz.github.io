@@ -22,10 +22,7 @@ Para demonstração, usaremos o aplicativo **Evertag**. Ele suporta **mais de 12
 
 Comece baixando o aplicativo **Evertag** na App Store. Está disponível para **iOS** e **macOS**, e é gratuito.
 
-{{< cards cols="2">}}
-{{< ls-card link="https://apps.apple.com/app/apple-store/id1450763230?pt=95781850&ct=everappzcom&mt=8" title="Evertag para iOS" icon="download" tag="Free" >}}
-{{< ls-card link="https://apps.apple.com/app/apple-store/id1594027661?pt=95781850&ct=everappzcom&mt=8" title="Evertag para macOS" icon="download" tag="Free" >}}
-{{< /cards >}}
+{{< ls-app-details ids="1450763230, 1594027661" notes="false" >}}
 
 ## Conectar sua conta na nuvem
 

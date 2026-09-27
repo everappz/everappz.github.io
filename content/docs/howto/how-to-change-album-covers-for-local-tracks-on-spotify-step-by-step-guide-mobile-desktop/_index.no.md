@@ -24,10 +24,7 @@ For å gjøre ting enklere viser vi hvordan du redigerer albumkunstverk med **Ev
 
 Start med å laste ned **Evertag**-appen fra App Store. Den er gratis og tilgjengelig på både **iOS** og **macOS**.
 
-{{< cards cols="2">}}
-{{< ls-card link="https://apps.apple.com/app/apple-store/id1450763230?pt=95781850&ct=everappzcom&mt=8" title="Evertag for iOS" icon="download" tag="Free" >}}
-{{< ls-card link="https://apps.apple.com/app/apple-store/id1594027661?pt=95781850&ct=everappzcom&mt=8" title="Evertag for macOS" icon="download" tag="Free" >}}
-{{< /cards >}}
+{{< ls-app-details ids="1450763230, 1594027661" notes="false" >}}
 
 ## Aktiver lokalt bibliotek i Spotify
 

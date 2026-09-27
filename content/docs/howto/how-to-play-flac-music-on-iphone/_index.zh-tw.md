@@ -34,7 +34,7 @@ Flacbox是一款適用於iPhone、iPad和Mac的高解析度音樂播放器。它
 
 Flacbox可免費下載,並可在iPhone、iPad和Mac上執行。
 
-{{< ls-app-details product="flacbox" >}}
+{{< ls-app-details product="flacbox" notes="false" >}}
 
 ### 第2步。匯入你的FLAC檔案
 
@@ -127,7 +127,7 @@ Flacbox內建一個音樂視覺化工具,可隨著你的音樂節奏繪製流動
 
 Flacbox可免費下載。Premium會解除免費版對雲端帳戶、播放列表和離線資料夾的限制,並提供一次性終身購買或按月/按年訂閱,支援家人共享。
 
-{{< ls-app-details product="flacbox" >}}
+{{< ls-app-details product="flacbox" notes="false" >}}
 
 ## 選擇2:將FLAC轉換為ALAC以用於Music應用程式
 

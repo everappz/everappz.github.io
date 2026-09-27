@@ -24,10 +24,7 @@ Untuk memudahkan, kami akan menunjukkan cara mengedit karya seni album menggunak
 
 Mulakan dengan memuat turun aplikasi **Evertag** dari App Store. Ia percuma dan tersedia pada kedua-dua **iOS** dan **macOS**.
 
-{{< cards cols="2">}}
-{{< ls-card link="https://apps.apple.com/app/apple-store/id1450763230?pt=95781850&ct=everappzcom&mt=8" title="Evertag untuk iOS" icon="download" tag="Free" >}}
-{{< ls-card link="https://apps.apple.com/app/apple-store/id1594027661?pt=95781850&ct=everappzcom&mt=8" title="Evertag untuk macOS" icon="download" tag="Free" >}}
-{{< /cards >}}
+{{< ls-app-details ids="1450763230, 1594027661" notes="false" >}}
 
 ## Aktifkan Pustaka Tempatan di Spotify
 

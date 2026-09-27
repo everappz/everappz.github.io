@@ -24,10 +24,7 @@ Dans ce guide, nous vous montrerons comment préparer vos fichiers musicaux pour
 
 Ces applications sont parfaites pour quiconque souhaite un contrôle total sur sa bibliothèque musicale.
 
-{{< cards cols="2">}}
-{{< ls-card link="https://apps.apple.com/app/apple-store/id885367198?pt=95781850&ct=everappzcom&mt=8" title="Télécharger Evermusic" icon="download" tag="Free" >}}
-{{< ls-card link="https://apps.apple.com/app/apple-store/id1097564256?pt=95781850&ct=everappzcom&mt=8" title="Télécharger Flacbox" icon="download" tag="Free" >}}
-{{< /cards >}}
+{{< ls-app-details ids="885367198, 1097564256" notes="false" >}}
 
 ## Ajouter des fichiers à l'application
 

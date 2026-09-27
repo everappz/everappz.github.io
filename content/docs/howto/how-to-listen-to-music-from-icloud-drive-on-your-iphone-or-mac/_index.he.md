@@ -28,19 +28,13 @@ readingTime: 5
 
 1. גשו ל-App Store והורידו את **Evermusic** אם המוזיקה שלכם מאוחסנת בפורמטים סטנדרטיים כמו mp3 או wav. אם יש לכם מוזיקה ללא אובדן ב-dsd או flac, בחרו ב-**Flacbox**. שתי האפליקציות זמינות ל-iOS ול-MacOS.
 
-{{< cards >}}
-  {{< ls-card link="https://apps.apple.com/us/app/evermusic-cloud-music-player/id885367198" title="הורדת Evermusic ל-iOS" icon="download" tag="חינם" >}}
-  {{< ls-card link="https://apps.apple.com/us/app/flacbox-flac-player-equalizer/id1097564256" title="הורדת Flacbox ל-iOS" icon="download" tag="חינם" >}}
-{{< /cards >}}
+{{< ls-app-details ids="885367198, 1097564256" notes="false" >}}
 
 - עבור MacOS:
 
 1. בקרו ב-App Store במק שלכם והתקינו את **Evermusic** או **Flacbox** בהתאם להעדפות הפורמט המוזיקלי שלכם.
 
-{{< cards >}}
-  {{< ls-card link="https://apps.apple.com/us/app/evermusic-cloud-music-player/id1564384601" title="הורדת Evermusic למק" icon="download" tag="חינם" >}}
-  {{< ls-card link="https://apps.apple.com/us/app/flacbox-hires-music-player/id1594027432" title="הורדת Flacbox למק" icon="download" tag="חינם" >}}
-{{< /cards >}}
+{{< ls-app-details ids="1564384601, 1594027432" notes="false" >}}
 
 לאחר שהתקנתם את האפליקציה באייפון או במק שלכם, אתם מוכנים להמשיך.
 

@@ -145,10 +145,7 @@ Tải ứng dụng DLNA miễn phí cho iOS cho phép bạn phát nhạc từ nh
 
 Cả hai ứng dụng đều có sẵn cho **iOS** và **macOS**, và miễn phí.
 
-{{< cards cols="1">}}
-{{< ls-card link="https://apps.apple.com/app/apple-store/id885367198?pt=95781850&ct=everappzcom&mt=8" title="Tải xuống Evermusic" icon="download" tag="Free" >}}
-{{< ls-card link="https://apps.apple.com/app/apple-store/id1097564256?pt=95781850&ct=everappzcom&mt=8" title="Tải xuống Flacbox" icon="download" tag="Free" >}}
-{{< /cards >}}
+{{< ls-app-details ids="885367198, 1097564256" notes="false" >}}
 
 ## Thêm nguồn DLNA
 
@@ -296,10 +293,7 @@ Với **Evermusic** và **Flacbox**, biến iPhone, iPad hoặc Mac thành trìn
 
 Dù bạn là người yêu âm thanh hay người nghe bình thường, Evermusic và Flacbox cung cấp mọi thứ bạn cần cho phát nhạc và tổ chức mượt mà.
 
-{{< cards cols="1">}}
-{{< ls-card link="https://apps.apple.com/app/apple-store/id885367198?pt=95781850&ct=everappzcom&mt=8" title="Tải xuống Evermusic" icon="download" tag="Free" >}}
-{{< ls-card link="https://apps.apple.com/app/apple-store/id1097564256?pt=95781850&ct=everappzcom&mt=8" title="Tải xuống Flacbox" icon="download" tag="Free" >}}
-{{< /cards >}}
+{{< ls-app-details ids="885367198, 1097564256" notes="false" >}}
 
 Bắt đầu xây dựng trải nghiệm âm nhạc cá nhân của bạn ngay hôm nay.
 

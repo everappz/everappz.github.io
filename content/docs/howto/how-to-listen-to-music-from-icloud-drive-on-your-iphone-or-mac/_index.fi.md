@@ -28,19 +28,13 @@ Ennen kuin voit alkaa nauttia iCloud Drive -musiikistasi iPhonella tai Macilla, 
 
 1. Siirry App Storeen ja lataa **Evermusic**, jos musiikkisi on tallennettu vakioäänimuodoissa kuten mp3 tai wav. Jos sinulla on häviötöntä musiikkia dsd- tai flac-muodossa, valitse **Flacbox**. Molemmat sovellukset ovat saatavilla iOS:lle ja MacOS:lle.
 
-{{< cards >}}
-  {{< ls-card link="https://apps.apple.com/us/app/evermusic-cloud-music-player/id885367198" title="Lataa Evermusic iOS:lle" icon="download" tag="Ilmainen" >}}
-  {{< ls-card link="https://apps.apple.com/us/app/flacbox-flac-player-equalizer/id1097564256" title="Lataa Flacbox iOS:lle" icon="download" tag="Ilmainen" >}}
-{{< /cards >}}
+{{< ls-app-details ids="885367198, 1097564256" notes="false" >}}
 
 - MacOS:lle:
 
 1. Käy App Storessa Macillasi ja asenna **Evermusic** tai **Flacbox** musiikkimuototoiveidesi mukaan.
 
-{{< cards >}}
-  {{< ls-card link="https://apps.apple.com/us/app/evermusic-cloud-music-player/id1564384601" title="Lataa Evermusic Macille" icon="download" tag="Ilmainen" >}}
-  {{< ls-card link="https://apps.apple.com/us/app/flacbox-hires-music-player/id1594027432" title="Lataa Flacbox Macille" icon="download" tag="Ilmainen" >}}
-{{< /cards >}}
+{{< ls-app-details ids="1564384601, 1594027432" notes="false" >}}
 
 Kun olet asentanut sovelluksen iPhonellesi tai Macillesi, olet valmis jatkamaan.
 

@@ -20,18 +20,13 @@ Wenn Sie Songs in Ihre Musikbibliothek importieren, werden sie intelligent nach 
 
 Während viele Desktop-Apps Metadaten-Bearbeitung anbieten, bringen Evermusic und Flacbox die Einfachheit auf die nächste Stufe, indem sie einen ID3-Tag-Editor enthalten. Jetzt können Sie eine App verwenden, um Ihre Musikbibliothek aufzubauen, Ihre Titel zu genießen und Audio-Tags zu korrigieren.
 
-{{< cards cols="2">}}
-{{< ls-card link="https://apps.apple.com/app/apple-store/id885367198?pt=95781850&ct=everappzcom&mt=8" title="Evermusic herunterladen" icon="download" tag="Free" >}}
-{{< ls-card link="https://apps.apple.com/app/apple-store/id1097564256?pt=95781850&ct=everappzcom&mt=8" title="Flacbox herunterladen" icon="download" tag="Free" >}}
-{{< /cards >}}
+{{< ls-app-details ids="885367198, 1097564256" notes="false" >}}
 
 ## Professioneller Editor
 
 Bevor Sie beginnen, schauen Sie sich die **Evertag**-App an — sie unterstützt **120+ Audio-Tags**, **30+ Audioformate** und bietet leistungsstarke **Stapelbearbeitung**. Wenn Sie ein voll ausgestattetes Tag-Verwaltungswerkzeug suchen, ist Evertag die richtige Wahl. Wenn Sie jedoch nur einen **einfachen Tag-Editor** benötigen, fahren Sie mit dieser Anleitung fort.
 
-{{< cards >}}
-{{< ls-card link="https://apps.apple.com/app/apple-store/id1450763230?pt=95781850&ct=everappzcom&mt=8" title="Evertag herunterladen" icon="download" tag="Free" >}}
-{{< /cards >}}
+{{< ls-app-details ids="1450763230" notes="false" >}}
 
 
 ## Verbinden Sie Ihr Cloud-Konto  

@@ -23,12 +23,7 @@ Megvizsgáljuk azokat a módszereket és eszközöket, amelyekkel zökkenőmente
 
 A helyi zene világába való utazásod megkezdéséhez iPhone-on és Mac-en, kezdd az Evermusic (szabványos hangformátumokhoz, mint mp3 és wav) vagy a Flacbox (veszteségmentes zenéhez dsd és flac formátumban) telepítésével. Mindkét alkalmazás elérhető iOS-re és macOS-re, és ingyenesen letöltheted őket.
 
-{{< cards >}}
-  {{< ls-card link="https://apps.apple.com/us/app/evermusic-cloud-music-player/id885367198?pt=95781850&ct=everappzcom&mt=8" title="Evermusic letöltése iOS-re" tag="iOS" >}}
-  {{< ls-card link="https://apps.apple.com/us/app/flacbox-hi-res-equalizer/id1097564256?pt=95781850&ct=everappzcom&mt=8" title="Flacbox letöltése iOS-re" tag="iOS" >}}
-  {{< ls-card link="https://apps.apple.com/us/app/evermusic-hi-res-music-player/id1564384601?pt=95781850&ct=everappzcom&mt=8" title="Evermusic letöltése Mac-re" tag="macOS" >}}
-  {{< ls-card link="https://apps.apple.com/us/app/flacbox-hi-res-music-player/id1594027432?pt=95781850&ct=everappzcom&mt=8" title="Flacbox letöltése Mac-re" tag="macOS" >}}
-{{< /cards >}}
+{{< ls-app-details ids="885367198, 1097564256, 1564384601, 1594027432" notes="false" >}}
 
 
 ## 2. lépés: Az eszközödön található helyi fájlok lejátszása

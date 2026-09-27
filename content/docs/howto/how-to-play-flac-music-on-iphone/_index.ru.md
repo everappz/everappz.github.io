@@ -34,7 +34,7 @@ Flacbox это hi-res музыкальный плеер для iPhone, iPad и M
 
 Flacbox можно скачать бесплатно, и он работает на iPhone, iPad и Mac.
 
-{{< ls-app-details product="flacbox" >}}
+{{< ls-app-details product="flacbox" notes="false" >}}
 
 ### Шаг 2. Добавьте свои файлы FLAC
 
@@ -127,7 +127,7 @@ Flacbox включает 10-полосный графический эквала
 
 Flacbox можно скачать бесплатно. Premium снимает ограничения бесплатной версии на облачные аккаунты, плейлисты и офлайн папки, и он доступен как разовая пожизненная покупка или как ежемесячная либо годовая подписка, с Семейным доступом.
 
-{{< ls-app-details product="flacbox" >}}
+{{< ls-app-details product="flacbox" notes="false" >}}
 
 ## Вариант 2: Конвертировать FLAC в ALAC для приложения Музыка
 

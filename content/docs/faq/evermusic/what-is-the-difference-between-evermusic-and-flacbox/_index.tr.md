@@ -11,7 +11,7 @@ Evermusic ve Flacbox, Everappz'ın iPhone, iPad ve Mac için sunduğu iki geliş
 
 **Kısa yanıt:** En akıcı genel dinleme deneyimini, kesintisiz boşluksuz ve çapraz geçişleri ve Apple Music kütüphanenize erişimi istiyorsanız **Evermusic**'i seçin. Derinlemesine ses şekillendirme (efekt seti ve DSP zinciri), seçilebilir profesyonel bir ses motoru ve DSD, APE ve WavPack dahil azami yüksek çözünürlüklü ve kayıpsız biçim kapsamı isteyen bir audiophile iseniz **Flacbox**'ı seçin.
 
-{{< ls-app-details ids="885367198, 1097564256" >}}
+{{< ls-app-details ids="885367198, 1097564256" notes="false" >}}
 
 ## Özellik Karşılaştırma Tablosu
 

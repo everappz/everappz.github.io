@@ -62,7 +62,7 @@ Sau khi bạn nâng cấp ứng dụng, bạn sẽ thấy màn hình trạng th�
 
 ### Tải xuống trên App Store
 
-{{< ls-app-details ids="885367198, 905746421, 1564384601" >}}
+{{< ls-app-details ids="885367198, 905746421, 1564384601" notes="false" >}}
 
 ### Đóng gói trên App Store
 

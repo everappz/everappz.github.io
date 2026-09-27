@@ -314,12 +314,19 @@
     display: none;
 }
 
+/* Match the stock global search empty state (.hextra-search-empty):
+   centered, generous top/bottom padding, text-sm, gray. */
 .ls-docs-search-no-result {
     display: block;
-    padding: 20px 16px;
+    padding: 2.5rem 0.75rem;
     text-align: center;
     color: #6b7280;
-    font-size: 14px;
+    font-size: 0.875rem;
+    line-height: 1.25rem;
+}
+
+:is(.dark) .ls-docs-search-no-result {
+    color: #9ca3af;
 }
 
 /* Grouped results: page (parent) row + indented section (child) rows — like the stock search. */

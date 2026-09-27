@@ -145,10 +145,7 @@ Ayarlar penceresini kapatmak ve Kodi ana kitaplığını açmak için sağ tıkl
 
 Her iki uygulama da **iOS** ve **macOS** için mevcuttur ve ücretsizdir.
 
-{{< cards cols="1">}}
-{{< ls-card link="https://apps.apple.com/app/apple-store/id885367198?pt=95781850&ct=everappzcom&mt=8" title="Evermusic İndir" icon="download" tag="Free" >}}
-{{< ls-card link="https://apps.apple.com/app/apple-store/id1097564256?pt=95781850&ct=everappzcom&mt=8" title="Flacbox İndir" icon="download" tag="Free" >}}
-{{< /cards >}}
+{{< ls-app-details ids="885367198, 1097564256" notes="false" >}}
 
 ## DLNA kaynağı ekleyin
 
@@ -296,10 +293,7 @@ Ek seçenekleri keşfetmek için **Daha fazla eylem** düğmesine dokunun. Şunl
 
 İster bir ses tutkunusu ister sıradan bir dinleyici olun, Evermusic ve Flacbox sorunsuz müzik yayını ve organizasyon için ihtiyacınız olan her şeyi sunar.
 
-{{< cards cols="1">}}
-{{< ls-card link="https://apps.apple.com/app/apple-store/id885367198?pt=95781850&ct=everappzcom&mt=8" title="Evermusic İndir" icon="download" tag="Free" >}}
-{{< ls-card link="https://apps.apple.com/app/apple-store/id1097564256?pt=95781850&ct=everappzcom&mt=8" title="Flacbox İndir" icon="download" tag="Free" >}}
-{{< /cards >}}
+{{< ls-app-details ids="885367198, 1097564256" notes="false" >}}
 
 Kişisel müzik deneyiminizi bugün oluşturmaya başlayın.
 

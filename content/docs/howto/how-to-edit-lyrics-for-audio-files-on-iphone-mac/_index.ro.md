@@ -22,10 +22,7 @@ Pentru demonstrație, vom folosi aplicația **Evertag**. Aceasta suportă **pest
 
 Începe prin descărcarea aplicației **Evertag** din App Store. Este disponibilă atât pentru **iOS**, cât și pentru **macOS**, și este gratuită.
 
-{{< cards cols="2">}}
-{{< ls-card link="https://apps.apple.com/app/apple-store/id1450763230?pt=95781850&ct=everappzcom&mt=8" title="Evertag pentru iOS" icon="download" tag="Free" >}}
-{{< ls-card link="https://apps.apple.com/app/apple-store/id1594027661?pt=95781850&ct=everappzcom&mt=8" title="Evertag pentru macOS" icon="download" tag="Free" >}}
-{{< /cards >}}
+{{< ls-app-details ids="1450763230, 1594027661" notes="false" >}}
 
 ## Conectează contul tău cloud
 

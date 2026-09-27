@@ -24,10 +24,7 @@ Bu kılavuzda, müzik dosyalarınızı CarPlay için nasıl hazırlayacağınız
 
 Bu uygulamalar, müzik kitaplığı üzerinde tam kontrol isteyen herkes için mükemmeldir.
 
-{{< cards cols="2">}}
-{{< ls-card link="https://apps.apple.com/app/apple-store/id885367198?pt=95781850&ct=everappzcom&mt=8" title="Evermusic İndir" icon="download" tag="Free" >}}
-{{< ls-card link="https://apps.apple.com/app/apple-store/id1097564256?pt=95781850&ct=everappzcom&mt=8" title="Flacbox İndir" icon="download" tag="Free" >}}
-{{< /cards >}}
+{{< ls-app-details ids="885367198, 1097564256" notes="false" >}}
 
 ## Dosyaları Uygulamaya Ekleyin
 

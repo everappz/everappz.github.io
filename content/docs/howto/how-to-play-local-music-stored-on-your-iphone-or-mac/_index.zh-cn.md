@@ -23,12 +23,7 @@ keywords: ["如何在iPhone上播放本地音乐", "从设备存储播放音乐"
 
 要开始在iPhone和Mac上探索本地音乐世界，首先安装Evermusic（用于mp3和wav等标准音频格式）或Flacbox（用于dsd和flac无损音乐）。这两款应用均适用于iOS和MacOS，您可以免费下载。
 
-{{< cards >}}
-  {{< ls-card link="https://apps.apple.com/us/app/evermusic-cloud-music-player/id885367198?pt=95781850&ct=everappzcom&mt=8" title="下载iOS版Evermusic" tag="iOS" >}}
-  {{< ls-card link="https://apps.apple.com/us/app/flacbox-hi-res-equalizer/id1097564256?pt=95781850&ct=everappzcom&mt=8" title="下载iOS版Flacbox" tag="iOS" >}}
-  {{< ls-card link="https://apps.apple.com/us/app/evermusic-hi-res-music-player/id1564384601?pt=95781850&ct=everappzcom&mt=8" title="下载Mac版Evermusic" tag="macOS" >}}
-  {{< ls-card link="https://apps.apple.com/us/app/flacbox-hi-res-music-player/id1594027432?pt=95781850&ct=everappzcom&mt=8" title="下载Mac版Flacbox" tag="macOS" >}}
-{{< /cards >}}
+{{< ls-app-details ids="885367198, 1097564256, 1564384601, 1594027432" notes="false" >}}
 
 
 ## 第2步：播放设备上的本地文件

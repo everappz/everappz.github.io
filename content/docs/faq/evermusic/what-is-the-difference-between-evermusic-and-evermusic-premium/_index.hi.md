@@ -62,7 +62,7 @@ Evermusic और Evermusic Premium एक ही म्यूज़िक प्
 
 ### App Store पर डाउनलोड करें
 
-{{< ls-app-details ids="885367198, 905746421, 1564384601" >}}
+{{< ls-app-details ids="885367198, 905746421, 1564384601" notes="false" >}}
 
 ### App Store पैकेजिंग
 

@@ -34,7 +34,7 @@ Flacbox هو مشغّل موسيقى عالي الدقة لأجهزة iPhone وi
 
 Flacbox متاح للتنزيل مجانًا ويعمل على iPhone وiPad وMac.
 
-{{< ls-app-details product="flacbox" >}}
+{{< ls-app-details product="flacbox" notes="false" >}}
 
 ### الخطوة 2. إدخال ملفات FLAC الخاصة بك
 
@@ -127,7 +127,7 @@ Flacbox متاح للتنزيل مجانًا ويعمل على iPhone وiPad وM
 
 Flacbox مجاني للتنزيل. تزيل النسخة المميزة قيود النسخة المجانية على الحسابات السحابية وقوائم التشغيل والمجلدات غير المتصلة، وهي متاحة كعملية شراء لمرة واحدة مدى الحياة أو اشتراك شهري أو سنوي، مع مشاركة العائلة.
 
-{{< ls-app-details product="flacbox" >}}
+{{< ls-app-details product="flacbox" notes="false" >}}
 
 ## الخيار 2: تحويل FLAC إلى ALAC لتطبيق Music
 

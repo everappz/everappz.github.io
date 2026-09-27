@@ -124,10 +124,7 @@ readingTime: 3
 
 Для воспроизведения скачанного файла `.m3u` на устройстве Apple используйте приложение **Evermusic** (бесплатная загрузка):
 
-{{< cards cols="1">}}
-{{< ls-card link="https://apps.apple.com/app/apple-store/id1564384601?pt=95781850&ct=everappzcom&mt=8" title="Evermusic macOS" icon="download" tag="Free" >}}
-{{< ls-card link="https://apps.apple.com/app/apple-store/id885367198?pt=95781850&ct=everappzcom&mt=8" title="Evermusic iOS" icon="download" tag="Free" >}}
-{{< /cards >}}
+{{< ls-app-details ids="1564384601, 885367198" notes="false" >}}
 
 ### 1. Откройте Evermusic и перейдите в Плейлисты
 

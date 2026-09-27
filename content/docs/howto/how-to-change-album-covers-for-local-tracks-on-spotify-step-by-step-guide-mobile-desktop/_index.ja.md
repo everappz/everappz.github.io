@@ -24,10 +24,7 @@ Spotifyの音楽コレクションをカスタムアルバムアートワーク�
 
 App Storeから**Evertag** アプリをダウンロードして始めましょう。無料で使用でき、**iOS**と**macOS**の両方で利用できます。
 
-{{< cards cols="2">}}
-{{< ls-card link="https://apps.apple.com/app/apple-store/id1450763230?pt=95781850&ct=everappzcom&mt=8" title="Evertag iOS版" icon="download" tag="Free" >}}
-{{< ls-card link="https://apps.apple.com/app/apple-store/id1594027661?pt=95781850&ct=everappzcom&mt=8" title="Evertag macOS版" icon="download" tag="Free" >}}
-{{< /cards >}}
+{{< ls-app-details ids="1450763230, 1594027661" notes="false" >}}
 
 ## Spotifyでローカルライブラリを有効にする
 

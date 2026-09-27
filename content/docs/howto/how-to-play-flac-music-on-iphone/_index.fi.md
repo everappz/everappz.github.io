@@ -34,7 +34,7 @@ Flacbox on hi-res-musiikkisoitin iPhonelle, iPadille ja Macille. Se muuttaa pilv
 
 Flacbox on ilmainen ladata ja toimii iPhonella, iPadilla ja Macilla.
 
-{{< ls-app-details product="flacbox" >}}
+{{< ls-app-details product="flacbox" notes="false" >}}
 
 ### Vaihe 2. Tuo FLAC-tiedostosi sisään
 
@@ -127,7 +127,7 @@ Kun haluat musiikkisi mukaan, sisäänrakennettu latauksenhallinta tallentaa kok
 
 Flacbox on ilmainen ladata. Premium poistaa ilmaisversion rajoitukset pilvitileiltä, soittolistoilta ja offline-kansioilta, ja se on saatavilla kertaluonteisena elinikäisenä ostoksena tai kuukausi- tai vuositilauksena, mukana Perhejako.
 
-{{< ls-app-details product="flacbox" >}}
+{{< ls-app-details product="flacbox" notes="false" >}}
 
 ## Vaihtoehto 2: Muunna FLAC ALAC:ksi Musiikki-sovellusta varten
 

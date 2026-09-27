@@ -22,10 +22,7 @@ Pour la démonstration, nous utiliserons l'application **Evertag**. Elle prend e
 
 Commencez par télécharger l'application **Evertag** depuis l'App Store. Elle est disponible pour **iOS** et **macOS**, et gratuite.
 
-{{< cards cols="2">}}
-{{< ls-card link="https://apps.apple.com/app/apple-store/id1450763230?pt=95781850&ct=everappzcom&mt=8" title="Evertag pour iOS" icon="download" tag="Free" >}}
-{{< ls-card link="https://apps.apple.com/app/apple-store/id1594027661?pt=95781850&ct=everappzcom&mt=8" title="Evertag pour macOS" icon="download" tag="Free" >}}
-{{< /cards >}}
+{{< ls-app-details ids="1450763230, 1594027661" notes="false" >}}
 
 ## Connecter votre compte cloud
 

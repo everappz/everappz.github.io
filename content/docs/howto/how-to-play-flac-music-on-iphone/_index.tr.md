@@ -34,7 +34,7 @@ Flacbox, iPhone, iPad ve Mac için yüksek çözünürlüklü bir müzik çalard
 
 Flacbox ücretsiz indirilir ve iPhone, iPad ve Mac üzerinde çalışır.
 
-{{< ls-app-details product="flacbox" >}}
+{{< ls-app-details product="flacbox" notes="false" >}}
 
 ### Adım 2. FLAC Dosyalarınızı İçeri Alın
 
@@ -127,7 +127,7 @@ Müziğinizi yanınızda istediğinizde, yerleşik indirme yöneticisi çevrimd�
 
 Flacbox ücretsiz indirilir. Premium, bulut hesapları, çalma listeleri ve çevrimdışı klasörler üzerindeki ücretsiz sürüm sınırlarını kaldırır ve Aile Paylaşımı ile birlikte tek seferlik ömür boyu satın alma veya aylık ya da yıllık abonelik olarak sunulur.
 
-{{< ls-app-details product="flacbox" >}}
+{{< ls-app-details product="flacbox" notes="false" >}}
 
 ## Seçenek 2: Müzik Uygulaması için FLAC'ı ALAC'a Dönüştürün
 

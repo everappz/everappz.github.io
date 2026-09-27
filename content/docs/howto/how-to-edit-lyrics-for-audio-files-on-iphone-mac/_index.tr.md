@@ -22,10 +22,7 @@ Gösterim için **Evertag** uygulamasını kullanacağız. **120'den fazla ses e
 
 App Store'dan **Evertag** uygulamasını indirerek başlayın. Hem **iOS** hem de **macOS** için mevcuttur ve ücretsizdir.
 
-{{< cards cols="2">}}
-{{< ls-card link="https://apps.apple.com/app/apple-store/id1450763230?pt=95781850&ct=everappzcom&mt=8" title="Evertag iOS için" icon="download" tag="Free" >}}
-{{< ls-card link="https://apps.apple.com/app/apple-store/id1594027661?pt=95781850&ct=everappzcom&mt=8" title="Evertag macOS için" icon="download" tag="Free" >}}
-{{< /cards >}}
+{{< ls-app-details ids="1450763230, 1594027661" notes="false" >}}
 
 ## Bulut Hesabınızı Bağlayın
 

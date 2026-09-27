@@ -24,10 +24,7 @@ Apple CarPlay का उपयोग करके कार में अपन�
 
 ये ऐप्स उन सभी के लिए एकदम सही हैं जो अपनी संगीत लाइब्रेरी पर पूर्ण नियंत्रण चाहते हैं।
 
-{{< cards cols="2">}}
-{{< ls-card link="https://apps.apple.com/app/apple-store/id885367198?pt=95781850&ct=everappzcom&mt=8" title="Evermusic डाउनलोड करें" icon="download" tag="Free" >}}
-{{< ls-card link="https://apps.apple.com/app/apple-store/id1097564256?pt=95781850&ct=everappzcom&mt=8" title="Flacbox डाउनलोड करें" icon="download" tag="Free" >}}
-{{< /cards >}}
+{{< ls-app-details ids="885367198, 1097564256" notes="false" >}}
 
 ## ऐप में फ़ाइलें जोड़ें
 

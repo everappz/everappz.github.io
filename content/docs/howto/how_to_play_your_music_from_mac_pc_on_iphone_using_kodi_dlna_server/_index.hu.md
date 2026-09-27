@@ -144,10 +144,7 @@ Szerezzen be egy ingyenes iOS DLNA kliens alkalmazást, amely lehetővé teszi a
 
 Mindkét alkalmazás elérhető **iOS**-re és **macOS**-re, és ingyenesen használható.
 
-{{< cards cols="1">}}
-{{< ls-card link="https://apps.apple.com/app/apple-store/id885367198?pt=95781850&ct=everappzcom&mt=8" title="Evermusic letöltése" icon="download" tag="Free" >}}
-{{< ls-card link="https://apps.apple.com/app/apple-store/id1097564256?pt=95781850&ct=everappzcom&mt=8" title="Flacbox letöltése" icon="download" tag="Free" >}}
-{{< /cards >}}
+{{< ls-app-details ids="885367198, 1097564256" notes="false" >}}
 
 ## DLNA forrás hozzáadása
 
@@ -294,10 +291,7 @@ Az **Evermusic** és **Flacbox** segítségével iPhone-ja, iPad-je vagy Mac-je 
 
 Akár audiofil, akár alkalmi hallgató, az Evermusic és Flacbox mindent kínál, amire szüksége van a zökkenőmentes zene streameléshez és rendezéshez.
 
-{{< cards cols="1">}}
-{{< ls-card link="https://apps.apple.com/app/apple-store/id885367198?pt=95781850&ct=everappzcom&mt=8" title="Evermusic letöltése" icon="download" tag="Free" >}}
-{{< ls-card link="https://apps.apple.com/app/apple-store/id1097564256?pt=95781850&ct=everappzcom&mt=8" title="Flacbox letöltése" icon="download" tag="Free" >}}
-{{< /cards >}}
+{{< ls-app-details ids="885367198, 1097564256" notes="false" >}}
 
 Kezdje el személyes zenei élményének építését még ma.
 

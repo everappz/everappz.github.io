@@ -34,7 +34,7 @@ A Flacbox egy hi-res zenelejátszó iPhone-ra, iPadre és Macre. A felhőtárhel
 
 A Flacbox ingyenesen letölthető, és iPhone-on, iPaden és Macen fut.
 
-{{< ls-app-details product="flacbox" >}}
+{{< ls-app-details product="flacbox" notes="false" >}}
 
 ### 2. lépés. A FLAC fájljaid behozása
 
@@ -127,7 +127,7 @@ Amikor magaddal akarod vinni a zenédet, a beépített letöltéskezelő teljes 
 
 A Flacbox ingyenesen letölthető. A Premium eltávolítja az ingyenes verzió korlátait a felhőfiókokra, lejátszási listákra és offline mappákra vonatkozóan, és elérhető egyszeri, élethosszig tartó vásárlásként vagy havi, illetve éves előfizetésként, Családi megosztással.
 
-{{< ls-app-details product="flacbox" >}}
+{{< ls-app-details product="flacbox" notes="false" >}}
 
 ## 2. lehetőség: FLAC konvertálása ALAC-ra a Zene alkalmazáshoz
 

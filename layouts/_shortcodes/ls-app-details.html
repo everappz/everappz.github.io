@@ -102,6 +102,8 @@
   {{- end -}}
 {{- end -}}
 {{- $country := .Get "country" | default "us" -}}
+{{- /* notes="false" renders a plain card without the "What's New"/release-notes section. */ -}}
+{{- $showNotes := ne (.Get "notes") "false" -}}
 
 {{- /* Map the current site language to an iTunes "lang" code so Apple returns
      localized metadata (release notes, category, price) where the developer has
@@ -211,7 +213,7 @@
              present, the whole app-header becomes the <summary> of a native <details>
              (reusing the FAQ shortcode's collapsible presentation) and the notes open
              right beneath it. Not added to the FAQPage schema store — not FAQs. */ -}}
-        {{- $notes := $app.releaseNotes -}}
+        {{- $notes := cond $showNotes $app.releaseNotes "" -}}
         {{- $tag := "div" -}}{{- if $notes -}}{{- $tag = "summary" -}}{{- end -}}
 <div class="app-details not-prose">
 {{- if $notes }}

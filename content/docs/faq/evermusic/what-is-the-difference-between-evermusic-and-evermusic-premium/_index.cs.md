@@ -62,7 +62,7 @@ Co se mezi modrou a červenou liší, je **způsob jejich zabalení v App Store*
 
 ### Stáhnout z App Store
 
-{{< ls-app-details ids="885367198, 905746421, 1564384601" >}}
+{{< ls-app-details ids="885367198, 905746421, 1564384601" notes="false" >}}
 
 ### Zabalení v App Store
 

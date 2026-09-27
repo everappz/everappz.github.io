@@ -68,10 +68,7 @@ macOS पर Apple Music आपको न केवल अपनी Apple Music 
 
 Mac App Store से कोई एक ऐप डाउनलोड करें:
 
-{{< cards cols="1">}}
-{{< ls-card link="https://apps.apple.com/app/apple-store/id1564384601?pt=95781850&ct=everappzcom&mt=8" title="Evermusic" icon="download" tag="Free" >}}
-{{< ls-card link="https://apps.apple.com/app/apple-store/id1594027432?pt=95781850&ct=everappzcom&mt=8" title="Flacbox" icon="download" tag="Free" >}}
-{{< /cards >}}
+{{< ls-app-details ids="1564384601, 1594027432" notes="false" >}}
 
 ऐप में **प्लेलिस्ट टैब** खोलें।
 

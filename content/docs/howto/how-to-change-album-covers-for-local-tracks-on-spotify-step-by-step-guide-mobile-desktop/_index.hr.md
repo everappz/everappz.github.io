@@ -24,10 +24,7 @@ Kako bismo olakšali stvari, pokazat ćemo kako urediti omote albuma koristeći 
 
 Započnite preuzimanjem aplikacije **Evertag** iz App Storea. Besplatna je za korištenje i dostupna na **iOS** i **macOS**.
 
-{{< cards cols="2">}}
-{{< ls-card link="https://apps.apple.com/app/apple-store/id1450763230?pt=95781850&ct=everappzcom&mt=8" title="Evertag za iOS" icon="download" tag="Free" >}}
-{{< ls-card link="https://apps.apple.com/app/apple-store/id1594027661?pt=95781850&ct=everappzcom&mt=8" title="Evertag za macOS" icon="download" tag="Free" >}}
-{{< /cards >}}
+{{< ls-app-details ids="1450763230, 1594027661" notes="false" >}}
 
 ## Aktivirajte lokalnu knjižnicu u Spotifyju
 

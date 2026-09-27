@@ -24,10 +24,7 @@ readingTime: 3
 
 App Store에서 **Evertag** 앱을 다운로드하여 시작하세요. 무료이며 **iOS**와 **macOS** 모두에서 사용할 수 있습니다.
 
-{{< cards cols="2">}}
-{{< ls-card link="https://apps.apple.com/app/apple-store/id1450763230?pt=95781850&ct=everappzcom&mt=8" title="Evertag iOS용" icon="download" tag="Free" >}}
-{{< ls-card link="https://apps.apple.com/app/apple-store/id1594027661?pt=95781850&ct=everappzcom&mt=8" title="Evertag macOS용" icon="download" tag="Free" >}}
-{{< /cards >}}
+{{< ls-app-details ids="1450763230, 1594027661" notes="false" >}}
 
 ## Spotify에서 로컬 라이브러리 활성화
 

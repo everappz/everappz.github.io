@@ -20,18 +20,13 @@ Keď importujete piesne do hudobnej knižnice, sú inteligentne zoskupené podľ
 
 Zatiaľ čo mnohé desktopové aplikácie ponúkajú úpravu metadát, Evermusic a Flacbox posúvajú jednoduchosť na vyššiu úroveň zahrnutím editora ID3 tagov. Teraz môžete používať jednu aplikáciu na budovanie hudobnej knižnice, počúvanie skladieb a opravu audio tagov.
 
-{{< cards cols="2">}}
-{{< ls-card link="https://apps.apple.com/app/apple-store/id885367198?pt=95781850&ct=everappzcom&mt=8" title="Stiahnuť Evermusic" icon="download" tag="Free" >}}
-{{< ls-card link="https://apps.apple.com/app/apple-store/id1097564256?pt=95781850&ct=everappzcom&mt=8" title="Stiahnuť Flacbox" icon="download" tag="Free" >}}
-{{< /cards >}}
+{{< ls-app-details ids="885367198, 1097564256" notes="false" >}}
 
 ## Profesionálny editor
 
 Predtým, než začnete, pozrite si aplikáciu **Evertag** — podporuje **120+ audio tagov**, **30+ audio formátov** a ponúka výkonnú **hromadnú úpravu**. Ak hľadáte plne vybavený nástroj na správu tagov, Evertag je tou správnou voľbou. Ak však potrebujete iba **jednoduchý editor tagov**, pokračujte s týmto návodom.
 
-{{< cards >}}
-{{< ls-card link="https://apps.apple.com/app/apple-store/id1450763230?pt=95781850&ct=everappzcom&mt=8" title="Stiahnuť Evertag" icon="download" tag="Free" >}}
-{{< /cards >}}
+{{< ls-app-details ids="1450763230" notes="false" >}}
 
 
 ## Pripojte svoj cloudový účet  

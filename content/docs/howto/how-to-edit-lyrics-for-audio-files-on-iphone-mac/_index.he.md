@@ -22,10 +22,7 @@ readingTime: 2
 
 התחילו בהורדת אפליקציית **Evertag** מ-App Store. היא זמינה הן ל-**iOS** והן ל-**macOS**, וחינמית לשימוש.
 
-{{< cards cols="2">}}
-{{< ls-card link="https://apps.apple.com/app/apple-store/id1450763230?pt=95781850&ct=everappzcom&mt=8" title="Evertag ל-iOS" icon="download" tag="Free" >}}
-{{< ls-card link="https://apps.apple.com/app/apple-store/id1594027661?pt=95781850&ct=everappzcom&mt=8" title="Evertag ל-macOS" icon="download" tag="Free" >}}
-{{< /cards >}}
+{{< ls-app-details ids="1450763230, 1594027661" notes="false" >}}
 
 ## חיבור חשבון הענן שלכם
 

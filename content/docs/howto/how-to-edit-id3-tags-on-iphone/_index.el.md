@@ -20,18 +20,13 @@ readingTime: 2
 
 Ενώ πολλές εφαρμογές desktop προσφέρουν επεξεργασία μεταδεδομένων, τα Evermusic και Flacbox ανεβάζουν την απλότητα σε νέο επίπεδο με τον ενσωματωμένο επεξεργαστή ID3 tags. Τώρα, μπορείτε να χρησιμοποιήσετε μία εφαρμογή για να δημιουργήσετε τη μουσική βιβλιοθήκη σας, να απολαύσετε τα κομμάτια σας και να διορθώσετε τα audio tags.
 
-{{< cards cols="2">}}
-{{< ls-card link="https://apps.apple.com/app/apple-store/id885367198?pt=95781850&ct=everappzcom&mt=8" title="Λήψη Evermusic" icon="download" tag="Free" >}}
-{{< ls-card link="https://apps.apple.com/app/apple-store/id1097564256?pt=95781850&ct=everappzcom&mt=8" title="Λήψη Flacbox" icon="download" tag="Free" >}}
-{{< /cards >}}
+{{< ls-app-details ids="885367198, 1097564256" notes="false" >}}
 
 ## Επαγγελματικός επεξεργαστής
 
 Αλλά πριν ξεκινήσετε, δείτε την εφαρμογή **Evertag** — υποστηρίζει **120+ audio tags**, **30+ μορφές ήχου** και προσφέρει ισχυρή **μαζική επεξεργασία**. Αν ψάχνετε ένα πλήρες εργαλείο διαχείρισης tags, το Evertag είναι η σωστή επιλογή. Ωστόσο, αν χρειάζεστε μόνο έναν **απλό επεξεργαστή tags**, συνεχίστε με αυτόν τον οδηγό.
 
-{{< cards >}}
-{{< ls-card link="https://apps.apple.com/app/apple-store/id1450763230?pt=95781850&ct=everappzcom&mt=8" title="Λήψη Evertag" icon="download" tag="Free" >}}
-{{< /cards >}}
+{{< ls-app-details ids="1450763230" notes="false" >}}
 
 
 ## Συνδέστε τον λογαριασμό cloud σας  

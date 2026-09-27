@@ -22,10 +22,7 @@ Trong hướng dẫn này, bạn sẽ học cách chỉnh sửa **Lời bài há
 
 Bắt đầu bằng cách tải ứng dụng **Evertag** từ App Store. Nó có sẵn cho cả **iOS** và **macOS**, và miễn phí sử dụng.
 
-{{< cards cols="2">}}
-{{< ls-card link="https://apps.apple.com/app/apple-store/id1450763230?pt=95781850&ct=everappzcom&mt=8" title="Evertag cho iOS" icon="download" tag="Free" >}}
-{{< ls-card link="https://apps.apple.com/app/apple-store/id1594027661?pt=95781850&ct=everappzcom&mt=8" title="Evertag cho macOS" icon="download" tag="Free" >}}
-{{< /cards >}}
+{{< ls-app-details ids="1450763230, 1594027661" notes="false" >}}
 
 ## Kết nối tài khoản đám mây
 

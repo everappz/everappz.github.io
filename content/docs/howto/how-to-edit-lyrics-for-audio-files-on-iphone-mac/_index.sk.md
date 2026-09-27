@@ -22,10 +22,7 @@ Na demonštráciu použijeme aplikáciu **Evertag**. Podporuje **viac ako 120 au
 
 Začnite stiahnutím aplikácie **Evertag** z App Store. Je dostupná pre **iOS** aj **macOS** a je zadarmo.
 
-{{< cards cols="2">}}
-{{< ls-card link="https://apps.apple.com/app/apple-store/id1450763230?pt=95781850&ct=everappzcom&mt=8" title="Evertag pre iOS" icon="download" tag="Free" >}}
-{{< ls-card link="https://apps.apple.com/app/apple-store/id1594027661?pt=95781850&ct=everappzcom&mt=8" title="Evertag pre macOS" icon="download" tag="Free" >}}
-{{< /cards >}}
+{{< ls-app-details ids="1450763230, 1594027661" notes="false" >}}
 
 ## Pripojiť cloudový účet
 

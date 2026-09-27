@@ -20,18 +20,13 @@ Saat Anda mengimpor lagu ke perpustakaan musik, lagu-lagu tersebut dikelompokkan
 
 Sementara banyak aplikasi desktop menawarkan pengeditan metadata, Evermusic dan Flacbox membawa kesederhanaan ke level berikutnya dengan menyertakan editor tag ID3. Sekarang, Anda dapat menggunakan satu aplikasi untuk membangun perpustakaan musik, menikmati trek, dan memperbaiki tag audio.
 
-{{< cards cols="2">}}
-{{< ls-card link="https://apps.apple.com/app/apple-store/id885367198?pt=95781850&ct=everappzcom&mt=8" title="Unduh Evermusic" icon="download" tag="Free" >}}
-{{< ls-card link="https://apps.apple.com/app/apple-store/id1097564256?pt=95781850&ct=everappzcom&mt=8" title="Unduh Flacbox" icon="download" tag="Free" >}}
-{{< /cards >}}
+{{< ls-app-details ids="885367198, 1097564256" notes="false" >}}
 
 ## Editor Profesional
 
 Tapi sebelum Anda mulai, lihat aplikasi **Evertag** — mendukung **120+ tag audio**, **30+ format audio**, dan menawarkan **pengeditan massal** yang canggih. Jika Anda mencari alat manajemen tag lengkap, Evertag adalah pilihan yang tepat. Namun, jika Anda hanya membutuhkan **editor tag sederhana**, silakan lanjutkan dengan panduan ini.
 
-{{< cards >}}
-{{< ls-card link="https://apps.apple.com/app/apple-store/id1450763230?pt=95781850&ct=everappzcom&mt=8" title="Unduh Evertag" icon="download" tag="Free" >}}
-{{< /cards >}}
+{{< ls-app-details ids="1450763230" notes="false" >}}
 
 
 ## Hubungkan Akun Cloud Anda  

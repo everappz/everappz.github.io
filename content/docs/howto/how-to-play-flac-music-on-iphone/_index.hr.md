@@ -34,7 +34,7 @@ Flacbox je hi-res glazbeni reproduktor za iPhone, iPad i Mac. Pretvara vašu poh
 
 Flacbox je besplatan za preuzimanje i radi na iPhoneu, iPadu i Macu.
 
-{{< ls-app-details product="flacbox" >}}
+{{< ls-app-details product="flacbox" notes="false" >}}
 
 ### Korak 2. Unesite svoje FLAC datoteke
 
@@ -127,7 +127,7 @@ Kada želite glazbu sa sobom, ugrađeni upravitelj preuzimanja sprema cijele pop
 
 Flacbox je besplatan za preuzimanje. Premium uklanja ograničenja besplatne verzije na račune u oblaku, popise pjesama i mape izvan mreže, a dostupan je kao jednokratna doživotna kupnja ili kao mjesečna ili godišnja pretplata, uz Obiteljsko dijeljenje.
 
-{{< ls-app-details product="flacbox" >}}
+{{< ls-app-details product="flacbox" notes="false" >}}
 
 ## Mogućnost 2: pretvorite FLAC u ALAC za aplikaciju Glazba
 

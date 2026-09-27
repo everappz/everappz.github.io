@@ -62,7 +62,7 @@ Evermusic та Evermusic Premium — це дві різні версії одн�
 
 ### Завантажте в App Store
 
-{{< ls-app-details ids="885367198, 905746421, 1564384601" >}}
+{{< ls-app-details ids="885367198, 905746421, 1564384601" notes="false" >}}
 
 ### Упаковка в App Store
 

@@ -124,10 +124,7 @@ Click **Download Playlist** to save the `.m3u` file to your device. No login or 
 
 To play the downloaded `.m3u` file on your Apple device, use the **Evermusic** app (free download):
 
-{{< cards cols="1">}}
-{{< ls-card link="https://apps.apple.com/app/apple-store/id1564384601?pt=95781850&ct=everappzcom&mt=8" title="Evermusic macOS" icon="download" tag="Free" >}}
-{{< ls-card link="https://apps.apple.com/app/apple-store/id885367198?pt=95781850&ct=everappzcom&mt=8" title="Evermusic iOS" icon="download" tag="Free" >}}
-{{< /cards >}}
+{{< ls-app-details ids="1564384601, 885367198" notes="false" >}}
 
 ### 1. Open Evermusic and Go to Playlists
 

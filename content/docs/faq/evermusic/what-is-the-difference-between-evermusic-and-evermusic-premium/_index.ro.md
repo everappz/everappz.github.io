@@ -62,7 +62,7 @@ Ceea ce diferă între albastru și roșu este **modul în care sunt împachetat
 
 ### Descărcați din App Store
 
-{{< ls-app-details ids="885367198, 905746421, 1564384601" >}}
+{{< ls-app-details ids="885367198, 905746421, 1564384601" notes="false" >}}
 
 ### Împachetarea în App Store
 

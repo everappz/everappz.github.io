@@ -23,12 +23,7 @@ keywords: ["كيفية تشغيل الموسيقى المحلية على iPhone"
 
 لبدء رحلتك في عالم الموسيقى المحلية على iPhone وMac، ابدأ بتثبيت إما Evermusic (لصيغ الصوت القياسية مثل mp3 وwav) أو Flacbox (للموسيقى عالية الجودة بصيغ dsd وflac). كلا التطبيقين متاحان لنظامي iOS وmacOS، ويمكنك تحميلهما مجاناً.
 
-{{< cards >}}
-  {{< ls-card link="https://apps.apple.com/us/app/evermusic-cloud-music-player/id885367198?pt=95781850&ct=everappzcom&mt=8" title="تحميل Evermusic لنظام iOS" tag="iOS" >}}
-  {{< ls-card link="https://apps.apple.com/us/app/flacbox-hi-res-equalizer/id1097564256?pt=95781850&ct=everappzcom&mt=8" title="تحميل Flacbox لنظام iOS" tag="iOS" >}}
-  {{< ls-card link="https://apps.apple.com/us/app/evermusic-hi-res-music-player/id1564384601?pt=95781850&ct=everappzcom&mt=8" title="تحميل Evermusic لنظام Mac" tag="macOS" >}}
-  {{< ls-card link="https://apps.apple.com/us/app/flacbox-hi-res-music-player/id1594027432?pt=95781850&ct=everappzcom&mt=8" title="تحميل Flacbox لنظام Mac" tag="macOS" >}}
-{{< /cards >}}
+{{< ls-app-details ids="885367198, 1097564256, 1564384601, 1594027432" notes="false" >}}
 
 
 ## الخطوة 2: تشغيل الملفات المحلية الموجودة على جهازك

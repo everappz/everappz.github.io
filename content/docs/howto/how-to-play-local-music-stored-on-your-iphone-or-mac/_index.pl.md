@@ -23,12 +23,7 @@ Zbadamy metody i narzedzia do plynnego odtwarzania lokalnej muzyki na urzadzenia
 
 Aby rozpoczac podróz do swiata lokalnej muzyki na iPhonie i Macu, zacznij od zainstalowania Evermusic (dla standardowych formatow audio, takich jak mp3 i wav) lub Flacbox (dla bezstratnej muzyki w dsd i flac). Obie aplikacje sa dostepne na iOS i MacOS i mozesz je pobrac za darmo.
 
-{{< cards >}}
-  {{< ls-card link="https://apps.apple.com/us/app/evermusic-cloud-music-player/id885367198?pt=95781850&ct=everappzcom&mt=8" title="Pobierz Evermusic na iOS" tag="iOS" >}}
-  {{< ls-card link="https://apps.apple.com/us/app/flacbox-hi-res-equalizer/id1097564256?pt=95781850&ct=everappzcom&mt=8" title="Pobierz Flacbox na iOS" tag="iOS" >}}
-  {{< ls-card link="https://apps.apple.com/us/app/evermusic-hi-res-music-player/id1564384601?pt=95781850&ct=everappzcom&mt=8" title="Pobierz Evermusic na Maca" tag="macOS" >}}
-  {{< ls-card link="https://apps.apple.com/us/app/flacbox-hi-res-music-player/id1594027432?pt=95781850&ct=everappzcom&mt=8" title="Pobierz Flacbox na Maca" tag="macOS" >}}
-{{< /cards >}}
+{{< ls-app-details ids="885367198, 1097564256, 1564384601, 1594027432" notes="false" >}}
 
 
 ## Krok 2: Odtwarzanie lokalnych plikow znajdujacych sie na Twoim urzadzeniu

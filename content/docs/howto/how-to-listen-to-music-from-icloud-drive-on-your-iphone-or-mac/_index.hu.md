@@ -28,19 +28,13 @@ Mielőtt elkezdheti élvezni iCloud Drive zenéjét iPhone-ján vagy Mac-jén, t
 
 1. Lépjen az App Store-ba és töltse le az **Evermusic**-ot, ha zenéje szabványos hangformátumokban, például mp3 vagy wav formátumban van tárolva. Ha veszteségmentes zenéje van dsd vagy flac formátumban, válassza a **Flacbox**-ot. Mindkét alkalmazás elérhető iOS-re és MacOS-re.
 
-{{< cards >}}
-  {{< ls-card link="https://apps.apple.com/us/app/evermusic-cloud-music-player/id885367198" title="Evermusic letöltése iOS-re" icon="download" tag="Ingyenes" >}}
-  {{< ls-card link="https://apps.apple.com/us/app/flacbox-flac-player-equalizer/id1097564256" title="Flacbox letöltése iOS-re" icon="download" tag="Ingyenes" >}}
-{{< /cards >}}
+{{< ls-app-details ids="885367198, 1097564256" notes="false" >}}
 
 - MacOS-hez:
 
 1. Látogassa meg az App Store-t Mac-jén, és telepítse az **Evermusic**-ot vagy a **Flacbox**-ot zenei formátum preferenciái alapján.
 
-{{< cards >}}
-  {{< ls-card link="https://apps.apple.com/us/app/evermusic-cloud-music-player/id1564384601" title="Evermusic letöltése Mac-re" icon="download" tag="Ingyenes" >}}
-  {{< ls-card link="https://apps.apple.com/us/app/flacbox-hires-music-player/id1594027432" title="Flacbox letöltése Mac-re" icon="download" tag="Ingyenes" >}}
-{{< /cards >}}
+{{< ls-app-details ids="1564384601, 1594027432" notes="false" >}}
 
 Miután telepítette az alkalmazást iPhone-jára vagy Mac-jére, készen áll a folytatásra.
 

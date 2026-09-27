@@ -62,7 +62,7 @@ Lo que difiere entre el azul y el rojo es **cómo se empaquetan en el App Store*
 
 ### Descargar en el App Store
 
-{{< ls-app-details ids="885367198, 905746421, 1564384601" >}}
+{{< ls-app-details ids="885367198, 905746421, 1564384601" notes="false" >}}
 
 ### Empaquetado en el App Store
 

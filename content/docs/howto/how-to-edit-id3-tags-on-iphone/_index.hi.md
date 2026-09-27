@@ -20,18 +20,13 @@ readingTime: 2
 
 जबकि कई डेस्कटॉप ऐप्स मेटाडेटा एडिटिंग प्रदान करते हैं, Evermusic और Flacbox एक ID3 टैग एडिटर शामिल करके सरलता को अगले स्तर पर ले जाते हैं। अब, आप एक ही ऐप का उपयोग अपनी म्यूजिक लाइब्रेरी बनाने, अपने ट्रैक्स का आनंद लेने और ऑडियो टैग ठीक करने के लिए कर सकते हैं।
 
-{{< cards cols="2">}}
-{{< ls-card link="https://apps.apple.com/app/apple-store/id885367198?pt=95781850&ct=everappzcom&mt=8" title="Evermusic डाउनलोड करें" icon="download" tag="Free" >}}
-{{< ls-card link="https://apps.apple.com/app/apple-store/id1097564256?pt=95781850&ct=everappzcom&mt=8" title="Flacbox डाउनलोड करें" icon="download" tag="Free" >}}
-{{< /cards >}}
+{{< ls-app-details ids="885367198, 1097564256" notes="false" >}}
 
 ## प्रो एडिटर
 
 लेकिन शुरू करने से पहले, **Evertag** ऐप देखें — यह **120+ ऑडियो टैग**, **30+ ऑडियो फॉर्मेट** सपोर्ट करता है, और शक्तिशाली **बैच एडिटिंग** प्रदान करता है। यदि आप एक पूर्ण-विशेषताओं वाला टैग प्रबंधन टूल ढूंढ रहे हैं, तो Evertag सही विकल्प है। हालांकि, यदि आपको बस एक **सरल टैग एडिटर** चाहिए, तो इस गाइड के साथ जारी रखें।
 
-{{< cards >}}
-{{< ls-card link="https://apps.apple.com/app/apple-store/id1450763230?pt=95781850&ct=everappzcom&mt=8" title="Evertag डाउनलोड करें" icon="download" tag="Free" >}}
-{{< /cards >}}
+{{< ls-app-details ids="1450763230" notes="false" >}}
 
 
 ## अपना क्लाउड अकाउंट कनेक्ट करें  

@@ -20,18 +20,13 @@ Kun tuot kappaleita musiikkikirjastoosi, ne ryhmitetään älykkäästi artistie
 
 Vaikka monet työpöytäsovellukset tarjoavat metatietojen muokkausta, Evermusic ja Flacbox vievät yksinkertaisuuden uudelle tasolle sisältämällä ID3-tagieditorin. Nyt voit käyttää yhtä sovellusta musiikkikirjastosi rakentamiseen, kappaleidesi kuunteluun ja äänitagien korjaamiseen.
 
-{{< cards cols="2">}}
-{{< ls-card link="https://apps.apple.com/app/apple-store/id885367198?pt=95781850&ct=everappzcom&mt=8" title="Lataa Evermusic" icon="download" tag="Free" >}}
-{{< ls-card link="https://apps.apple.com/app/apple-store/id1097564256?pt=95781850&ct=everappzcom&mt=8" title="Lataa Flacbox" icon="download" tag="Free" >}}
-{{< /cards >}}
+{{< ls-app-details ids="885367198, 1097564256" notes="false" >}}
 
 ## Ammattimainen editori
 
 Mutta ennen kuin aloitat, tutustu **Evertag**-sovellukseen — se tukee **yli 120 äänitagia**, **yli 30 ääniformaattia** ja tarjoaa tehokkaan **erämuokkauksen**. Jos etsit monipuolista tagien hallintatyökalua, Evertag on oikea valinta. Jos kuitenkin tarvitset vain **yksinkertaisen tagieditorin**, jatka tämän oppaan kanssa.
 
-{{< cards >}}
-{{< ls-card link="https://apps.apple.com/app/apple-store/id1450763230?pt=95781850&ct=everappzcom&mt=8" title="Lataa Evertag" icon="download" tag="Free" >}}
-{{< /cards >}}
+{{< ls-app-details ids="1450763230" notes="false" >}}
 
 
 ## Yhdistä pilvitilisi  

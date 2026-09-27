@@ -68,10 +68,7 @@ Válassza ki a célhelyet, ahová az M3U fájl mentésre kerül.
 
 Töltse le az egyik alkalmazást a Mac App Store-ból:
 
-{{< cards cols="1">}}
-{{< ls-card link="https://apps.apple.com/app/apple-store/id1564384601?pt=95781850&ct=everappzcom&mt=8" title="Evermusic" icon="download" tag="Free" >}}
-{{< ls-card link="https://apps.apple.com/app/apple-store/id1594027432?pt=95781850&ct=everappzcom&mt=8" title="Flacbox" icon="download" tag="Free" >}}
-{{< /cards >}}
+{{< ls-app-details ids="1564384601, 1594027432" notes="false" >}}
 
 Nyissa meg a **Lejátszási listák fület** az alkalmazásban.
 

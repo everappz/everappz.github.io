@@ -124,10 +124,7 @@ Klikk **Download Playlist** for å lagre `.m3u`-filen på enheten din. Ingen inn
 
 For å spille av den nedlastede `.m3u`-filen på Apple-enheten din, bruk **Evermusic**-appen (gratis nedlasting):
 
-{{< cards cols="1">}}
-{{< ls-card link="https://apps.apple.com/app/apple-store/id1564384601?pt=95781850&ct=everappzcom&mt=8" title="Evermusic macOS" icon="download" tag="Free" >}}
-{{< ls-card link="https://apps.apple.com/app/apple-store/id885367198?pt=95781850&ct=everappzcom&mt=8" title="Evermusic iOS" icon="download" tag="Free" >}}
-{{< /cards >}}
+{{< ls-app-details ids="1564384601, 885367198" notes="false" >}}
 
 ### 1. Åpne Evermusic og gå til Spillelister
 

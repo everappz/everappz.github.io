@@ -62,7 +62,7 @@ Ce qui diffère entre le bleu et le rouge, c'est **la manière dont ils sont pac
 
 ### Télécharger sur l'App Store
 
-{{< ls-app-details ids="885367198, 905746421, 1564384601" >}}
+{{< ls-app-details ids="885367198, 905746421, 1564384601" notes="false" >}}
 
 ### Packaging sur l'App Store
 

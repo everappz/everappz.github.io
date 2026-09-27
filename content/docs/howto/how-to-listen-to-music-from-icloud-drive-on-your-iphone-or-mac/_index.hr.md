@@ -28,19 +28,13 @@ Prije nego što počnete uživati u glazbi s iCloud Drivea na iPhoneu ili Macu, 
 
 1. Idite u App Store i preuzmite **Evermusic** ako je vaša glazba pohranjena u standardnim audio formatima poput mp3 ili wav. Ako imate glazbu bez gubitaka u dsd ili flac formatu, odaberite **Flacbox**. Obje aplikacije su dostupne za iOS i MacOS.
 
-{{< cards >}}
-  {{< ls-card link="https://apps.apple.com/us/app/evermusic-cloud-music-player/id885367198" title="Preuzmi Evermusic za iOS" icon="download" tag="Besplatno" >}}
-  {{< ls-card link="https://apps.apple.com/us/app/flacbox-flac-player-equalizer/id1097564256" title="Preuzmi Flacbox za iOS" icon="download" tag="Besplatno" >}}
-{{< /cards >}}
+{{< ls-app-details ids="885367198, 1097564256" notes="false" >}}
 
 - Za MacOS:
 
 1. Posjetite App Store na svom Macu i instalirajte **Evermusic** ili **Flacbox** prema vašim preferencijama formata glazbe.
 
-{{< cards >}}
-  {{< ls-card link="https://apps.apple.com/us/app/evermusic-cloud-music-player/id1564384601" title="Preuzmi Evermusic za Mac" icon="download" tag="Besplatno" >}}
-  {{< ls-card link="https://apps.apple.com/us/app/flacbox-hires-music-player/id1594027432" title="Preuzmi Flacbox za Mac" icon="download" tag="Besplatno" >}}
-{{< /cards >}}
+{{< ls-app-details ids="1564384601, 1594027432" notes="false" >}}
 
 Nakon što instalirate aplikaciju na iPhone ili Mac, spremni ste za nastavak.
 

@@ -134,10 +134,7 @@ Dapatkan aplikasi klien DLNA percuma untuk iOS yang membolehkan anda menstrim mu
 
 Kedua-dua aplikasi tersedia untuk **iOS** dan **macOS**, dan percuma untuk digunakan.
 
-{{< cards cols="1">}}
-{{< ls-card link="https://apps.apple.com/app/apple-store/id885367198?pt=95781850&ct=everappzcom&mt=8" title="Muat Turun Evermusic" icon="download" tag="Free" >}}
-{{< ls-card link="https://apps.apple.com/app/apple-store/id1097564256?pt=95781850&ct=everappzcom&mt=8" title="Muat Turun Flacbox" icon="download" tag="Free" >}}
-{{< /cards >}}
+{{< ls-app-details ids="885367198, 1097564256" notes="false" >}}
 
 ## Tambah Sumber DLNA
 
@@ -276,10 +273,7 @@ Dengan **Evermusic** dan **Flacbox**, menukar iPhone, iPad atau Mac anda menjadi
 
 Sama ada anda seorang audiofil atau pendengar kasual, Evermusic dan Flacbox menawarkan semua yang anda perlukan untuk strim dan pengaturan muzik yang lancar.
 
-{{< cards cols="1">}}
-{{< ls-card link="https://apps.apple.com/app/apple-store/id885367198?pt=95781850&ct=everappzcom&mt=8" title="Muat Turun Evermusic" icon="download" tag="Free" >}}
-{{< ls-card link="https://apps.apple.com/app/apple-store/id1097564256?pt=95781850&ct=everappzcom&mt=8" title="Muat Turun Flacbox" icon="download" tag="Free" >}}
-{{< /cards >}}
+{{< ls-app-details ids="885367198, 1097564256" notes="false" >}}
 
 Mulakan membina pengalaman muzik peribadi anda hari ini.
 

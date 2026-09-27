@@ -24,10 +24,7 @@ Om het makkelijker te maken, laten we zien hoe je albumafbeeldingen bewerkt met 
 
 Begin met het downloaden van de **Evertag**-app uit de App Store. Het is gratis en beschikbaar op zowel **iOS** als **macOS**.
 
-{{< cards cols="2">}}
-{{< ls-card link="https://apps.apple.com/app/apple-store/id1450763230?pt=95781850&ct=everappzcom&mt=8" title="Evertag voor iOS" icon="download" tag="Free" >}}
-{{< ls-card link="https://apps.apple.com/app/apple-store/id1594027661?pt=95781850&ct=everappzcom&mt=8" title="Evertag voor macOS" icon="download" tag="Free" >}}
-{{< /cards >}}
+{{< ls-app-details ids="1450763230, 1594027661" notes="false" >}}
 
 ## Activeer de lokale bibliotheek in Spotify
 

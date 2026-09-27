@@ -24,10 +24,7 @@ Apple CarPlayを使って車で自分の音楽を再生したいですか？曲�
 
 これらのアプリは、音楽ライブラリを完全にコントロールしたい方に最適です。
 
-{{< cards cols="2">}}
-{{< ls-card link="https://apps.apple.com/app/apple-store/id885367198?pt=95781850&ct=everappzcom&mt=8" title="Evermusigをダウンロード" icon="download" tag="Free" >}}
-{{< ls-card link="https://apps.apple.com/app/apple-store/id1097564256?pt=95781850&ct=everappzcom&mt=8" title="Flacboxをダウンロード" icon="download" tag="Free" >}}
-{{< /cards >}}
+{{< ls-app-details ids="885367198, 1097564256" notes="false" >}}
 
 ## アプリにファイルを追加する
 

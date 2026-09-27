@@ -24,10 +24,7 @@ Apple CarPlay를 사용하여 차에서 나만의 음악을 재생하고 싶으�
 
 이 앱들은 음악 라이브러리를 완전히 제어하고 싶은 모든 분에게 완벽합니다.
 
-{{< cards cols="2">}}
-{{< ls-card link="https://apps.apple.com/app/apple-store/id885367198?pt=95781850&ct=everappzcom&mt=8" title="Evermusic 다운로드" icon="download" tag="Free" >}}
-{{< ls-card link="https://apps.apple.com/app/apple-store/id1097564256?pt=95781850&ct=everappzcom&mt=8" title="Flacbox 다운로드" icon="download" tag="Free" >}}
-{{< /cards >}}
+{{< ls-app-details ids="885367198, 1097564256" notes="false" >}}
 
 ## 앱에 파일 넣기
 

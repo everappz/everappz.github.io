@@ -23,12 +23,7 @@ Vom explora metode si instrumente pentru a reda fara probleme muzica locala pe d
 
 Pentru a incepe calatoria in lumea muzicii locale pe iPhone si Mac, incepe prin a instala fie Evermusic (pentru formate audio standard precum mp3 si wav), fie Flacbox (pentru muzica fara pierderi in dsd si flac). Ambele aplicatii sunt disponibile pentru iOS si MacOS si le poti descarca gratuit.
 
-{{< cards >}}
-  {{< ls-card link="https://apps.apple.com/us/app/evermusic-cloud-music-player/id885367198?pt=95781850&ct=everappzcom&mt=8" title="Descarca Evermusic pentru iOS" tag="iOS" >}}
-  {{< ls-card link="https://apps.apple.com/us/app/flacbox-hi-res-equalizer/id1097564256?pt=95781850&ct=everappzcom&mt=8" title="Descarca Flacbox pentru iOS" tag="iOS" >}}
-  {{< ls-card link="https://apps.apple.com/us/app/evermusic-hi-res-music-player/id1564384601?pt=95781850&ct=everappzcom&mt=8" title="Descarca Evermusic pentru Mac" tag="macOS" >}}
-  {{< ls-card link="https://apps.apple.com/us/app/flacbox-hi-res-music-player/id1594027432?pt=95781850&ct=everappzcom&mt=8" title="Descarca Flacbox pentru Mac" tag="macOS" >}}
-{{< /cards >}}
+{{< ls-app-details ids="885367198, 1097564256, 1564384601, 1594027432" notes="false" >}}
 
 
 ## Pasul 2: Redarea fisierelor locale de pe dispozitivul tau

@@ -20,18 +20,13 @@ Když importujete písně do hudební knihovny, jsou inteligentně seskupeny pod
 
 Zatímco mnoho desktopových aplikací nabízí úpravu metadat, Evermusic a Flacbox posouvají jednoduchost na další úroveň zahrnutím editoru ID3 tagů. Nyní můžete používat jednu aplikaci k budování hudební knihovny, poslouchání skladeb a opravě audio tagů.
 
-{{< cards cols="2">}}
-{{< ls-card link="https://apps.apple.com/app/apple-store/id885367198?pt=95781850&ct=everappzcom&mt=8" title="Stáhnout Evermusic" icon="download" tag="Free" >}}
-{{< ls-card link="https://apps.apple.com/app/apple-store/id1097564256?pt=95781850&ct=everappzcom&mt=8" title="Stáhnout Flacbox" icon="download" tag="Free" >}}
-{{< /cards >}}
+{{< ls-app-details ids="885367198, 1097564256" notes="false" >}}
 
 ## Profesionální editor
 
 Než začnete, podívejte se na aplikaci **Evertag** — podporuje **120+ audio tagů**, **30+ audio formátů** a nabízí výkonnou **hromadnou úpravu**. Pokud hledáte plně vybavený nástroj pro správu tagů, Evertag je tou správnou volbou. Pokud ale potřebujete pouze **jednoduchý editor tagů**, pokračujte s tímto návodem.
 
-{{< cards >}}
-{{< ls-card link="https://apps.apple.com/app/apple-store/id1450763230?pt=95781850&ct=everappzcom&mt=8" title="Stáhnout Evertag" icon="download" tag="Free" >}}
-{{< /cards >}}
+{{< ls-app-details ids="1450763230" notes="false" >}}
 
 
 ## Připojte svůj cloudový účet  

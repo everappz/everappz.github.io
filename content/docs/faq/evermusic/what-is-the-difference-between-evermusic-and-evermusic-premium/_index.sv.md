@@ -62,7 +62,7 @@ Det som skiljer blått och rött åt är **hur de är paketerade i App Store**, 
 
 ### Ladda ner i App Store
 
-{{< ls-app-details ids="885367198, 905746421, 1564384601" >}}
+{{< ls-app-details ids="885367198, 905746421, 1564384601" notes="false" >}}
 
 ### App Store-paketering
 

@@ -20,18 +20,13 @@ readingTime: 2
 
 多くのデスクトップアプリがメタデータ編集を提供していますが、EvermusicとFlacboxはID3タグエディタを搭載することで、シンプルさを次のレベルに引き上げています。これで、1つのアプリで音楽ライブラリの構築、トラックの再生、オーディオタグの修正ができます。
 
-{{< cards cols="2">}}
-{{< ls-card link="https://apps.apple.com/app/apple-store/id885367198?pt=95781850&ct=everappzcom&mt=8" title="Evermusicをダウンロード" icon="download" tag="Free" >}}
-{{< ls-card link="https://apps.apple.com/app/apple-store/id1097564256?pt=95781850&ct=everappzcom&mt=8" title="Flacboxをダウンロード" icon="download" tag="Free" >}}
-{{< /cards >}}
+{{< ls-app-details ids="885367198, 1097564256" notes="false" >}}
 
 ## プロエディタ
 
 始める前に、**Evertag**アプリをチェックしてください — **120以上のオーディオタグ**、**30以上のオーディオフォーマット**をサポートし、強力な**バッチ編集**を提供します。フル機能のタグ管理ツールをお探しなら、Evertagが最適です。ただし、**シンプルなタグエディタ**だけが必要な場合は、このガイドを続けてください。
 
-{{< cards >}}
-{{< ls-card link="https://apps.apple.com/app/apple-store/id1450763230?pt=95781850&ct=everappzcom&mt=8" title="Evertagをダウンロード" icon="download" tag="Free" >}}
-{{< /cards >}}
+{{< ls-app-details ids="1450763230" notes="false" >}}
 
 
 ## クラウドアカウントを接続する  

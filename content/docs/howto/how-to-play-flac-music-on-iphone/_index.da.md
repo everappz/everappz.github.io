@@ -34,7 +34,7 @@ Flacbox er en hi-res-musikafspiller til iPhone, iPad og Mac. Den forvandler dit 
 
 Flacbox er en gratis download og kører på iPhone, iPad og Mac.
 
-{{< ls-app-details product="flacbox" >}}
+{{< ls-app-details product="flacbox" notes="false" >}}
 
 ### Trin 2. Få dine FLAC-filer ind
 
@@ -127,7 +127,7 @@ Når du vil have din musik med dig, gemmer den indbyggede downloadmanager hele p
 
 Flacbox er gratis at downloade. Premium fjerner gratisversionens begrænsninger på skykonti, playlister og offline-mapper, og den fås som et engangskøb for livet eller et månedligt eller årligt abonnement, med Deling i familie.
 
-{{< ls-app-details product="flacbox" >}}
+{{< ls-app-details product="flacbox" notes="false" >}}
 
 ## Mulighed 2: Konverter FLAC til ALAC til Musik-appen
 

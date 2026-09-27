@@ -24,10 +24,7 @@ Trong hướng dẫn này, chúng tôi sẽ chỉ cho bạn cách chuẩn bị c
 
 Các ứng dụng này hoàn hảo cho bất kỳ ai muốn kiểm soát hoàn toàn thư viện nhạc của mình.
 
-{{< cards cols="2">}}
-{{< ls-card link="https://apps.apple.com/app/apple-store/id885367198?pt=95781850&ct=everappzcom&mt=8" title="Tải Evermusic" icon="download" tag="Free" >}}
-{{< ls-card link="https://apps.apple.com/app/apple-store/id1097564256?pt=95781850&ct=everappzcom&mt=8" title="Tải Flacbox" icon="download" tag="Free" >}}
-{{< /cards >}}
+{{< ls-app-details ids="885367198, 1097564256" notes="false" >}}
 
 ## Thêm tệp vào ứng dụng
 

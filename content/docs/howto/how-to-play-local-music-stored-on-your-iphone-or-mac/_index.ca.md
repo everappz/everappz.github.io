@@ -23,12 +23,7 @@ Explorarem mètodes i eines per reproduir sense problemes la teva música local 
 
 Per començar el teu viatge al món de la música local al teu iPhone i Mac, comença instal·lant Evermusic (per a formats d'àudio estàndard com mp3 i wav) o Flacbox (per a música sense pèrdua en dsd i flac). Ambdues aplicacions estan disponibles per a iOS i macOS, i les pots descarregar gratuïtament.
 
-{{< cards >}}
-  {{< ls-card link="https://apps.apple.com/us/app/evermusic-cloud-music-player/id885367198?pt=95781850&ct=everappzcom&mt=8" title="Descarregar Evermusic per a iOS" tag="iOS" >}}
-  {{< ls-card link="https://apps.apple.com/us/app/flacbox-hi-res-equalizer/id1097564256?pt=95781850&ct=everappzcom&mt=8" title="Descarregar Flacbox per a iOS" tag="iOS" >}}
-  {{< ls-card link="https://apps.apple.com/us/app/evermusic-hi-res-music-player/id1564384601?pt=95781850&ct=everappzcom&mt=8" title="Descarregar Evermusic per a Mac" tag="macOS" >}}
-  {{< ls-card link="https://apps.apple.com/us/app/flacbox-hi-res-music-player/id1594027432?pt=95781850&ct=everappzcom&mt=8" title="Descarregar Flacbox per a Mac" tag="macOS" >}}
-{{< /cards >}}
+{{< ls-app-details ids="885367198, 1097564256, 1564384601, 1594027432" notes="false" >}}
 
 
 ## Pas 2: Reproduir fitxers locals ubicats al teu dispositiu

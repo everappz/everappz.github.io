@@ -24,10 +24,7 @@ readingTime: 5
 
 هذه التطبيقات مثالية لأي شخص يريد التحكم الكامل في مكتبته الموسيقية.
 
-{{< cards cols="2">}}
-{{< ls-card link="https://apps.apple.com/app/apple-store/id885367198?pt=95781850&ct=everappzcom&mt=8" title="تحميل Evermusic" icon="download" tag="Free" >}}
-{{< ls-card link="https://apps.apple.com/app/apple-store/id1097564256?pt=95781850&ct=everappzcom&mt=8" title="تحميل Flacbox" icon="download" tag="Free" >}}
-{{< /cards >}}
+{{< ls-app-details ids="885367198, 1097564256" notes="false" >}}
 
 ## إضافة الملفات إلى التطبيق
 

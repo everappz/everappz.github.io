@@ -11,7 +11,7 @@ Evermusic와 Flacbox는 Everappz에서 만든 iPhone, iPad, Mac용 고급 음악
 
 **간단한 답변:** 가장 매끄러운 종합 청취 경험, 끊김 없는 갭리스 및 크로스페이드 전환, Apple Music 라이브러리 접근을 원한다면 **Evermusic**을 선택하세요. 깊이 있는 사운드 조정(이펙트 랙과 DSP 체인), 선택 가능한 전문 오디오 엔진, 그리고 DSD, APE, WavPack을 포함한 최대한의 하이레스 및 무손실 포맷 지원을 원하는 오디오파일이라면 **Flacbox**를 선택하세요.
 
-{{< ls-app-details ids="885367198, 1097564256" >}}
+{{< ls-app-details ids="885367198, 1097564256" notes="false" >}}
 
 ## 기능 비교표
 

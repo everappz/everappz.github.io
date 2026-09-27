@@ -34,7 +34,7 @@ Flacbox là trình phát nhạc hi-res dành cho iPhone, iPad và Mac. Nó biế
 
 Flacbox miễn phí để tải xuống và chạy trên iPhone, iPad và Mac.
 
-{{< ls-app-details product="flacbox" >}}
+{{< ls-app-details product="flacbox" notes="false" >}}
 
 ### Bước 2. Đưa các tệp FLAC của bạn vào
 
@@ -127,7 +127,7 @@ Khi bạn muốn mang nhạc theo bên mình, trình quản lý tải xuống t�
 
 Flacbox miễn phí để tải xuống. Premium loại bỏ các giới hạn của phiên bản miễn phí đối với tài khoản đám mây, danh sách phát và thư mục ngoại tuyến, và nó có sẵn dưới dạng mua trọn đời một lần hoặc đăng ký hàng tháng hay hàng năm, với Chia sẻ trong gia đình.
 
-{{< ls-app-details product="flacbox" >}}
+{{< ls-app-details product="flacbox" notes="false" >}}
 
 ## Lựa chọn 2: Chuyển đổi FLAC sang ALAC cho ứng dụng Music
 

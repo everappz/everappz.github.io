@@ -20,18 +20,13 @@ Amikor dalokat importálsz a zenei könyvtáradba, azok intelligensen csoportos�
 
 Míg sok asztali alkalmazás kínál metaadat-szerkesztést, az Evermusic és Flacbox az egyszerűséget a következő szintre emeli egy ID3 címkeszerkesztő beépítésével. Most egyetlen alkalmazást használhatsz a zenei könyvtárad felépítéséhez, a számaid élvezetéhez és az audió címkék javításához.
 
-{{< cards cols="2">}}
-{{< ls-card link="https://apps.apple.com/app/apple-store/id885367198?pt=95781850&ct=everappzcom&mt=8" title="Evermusic letöltése" icon="download" tag="Free" >}}
-{{< ls-card link="https://apps.apple.com/app/apple-store/id1097564256?pt=95781850&ct=everappzcom&mt=8" title="Flacbox letöltése" icon="download" tag="Free" >}}
-{{< /cards >}}
+{{< ls-app-details ids="885367198, 1097564256" notes="false" >}}
 
 ## Profi szerkesztő
 
 De mielőtt elkezdenéd, nézd meg az **Evertag** alkalmazást — **120+ audió címkét**, **30+ audió formátumot** támogat, és hatékony **kötegelt szerkesztést** kínál. Ha teljes funkcionalitású címkekezelő eszközt keresel, az Evertag a legjobb választás. Ha azonban csak egy **egyszerű címkeszerkesztőre** van szükséged, folytasd ezzel az útmutatóval.
 
-{{< cards >}}
-{{< ls-card link="https://apps.apple.com/app/apple-store/id1450763230?pt=95781850&ct=everappzcom&mt=8" title="Evertag letöltése" icon="download" tag="Free" >}}
-{{< /cards >}}
+{{< ls-app-details ids="1450763230" notes="false" >}}
 
 
 ## Csatlakoztasd a felhőfiókodat  

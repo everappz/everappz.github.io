@@ -34,7 +34,7 @@ readingTime: 8
 
 Το Flacbox είναι δωρεάν λήψη και λειτουργεί σε iPhone, iPad και Mac.
 
-{{< ls-app-details product="flacbox" >}}
+{{< ls-app-details product="flacbox" notes="false" >}}
 
 ### Βήμα 2. Εισαγάγετε τα αρχεία FLAC σας
 
@@ -127,7 +127,7 @@ readingTime: 8
 
 Το Flacbox είναι δωρεάν για λήψη. Το Premium αφαιρεί τα όρια της δωρεάν έκδοσης σε λογαριασμούς cloud, λίστες αναπαραγωγής και φακέλους εκτός σύνδεσης, και είναι διαθέσιμο ως εφάπαξ αγορά διά βίου ή ως μηνιαία ή ετήσια συνδρομή, με Οικογενειακή κοινή χρήση.
 
-{{< ls-app-details product="flacbox" >}}
+{{< ls-app-details product="flacbox" notes="false" >}}
 
 ## Επιλογή 2: Μετατροπή FLAC σε ALAC για την εφαρμογή Μουσική
 

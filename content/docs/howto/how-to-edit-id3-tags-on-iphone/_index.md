@@ -23,18 +23,13 @@ When you import songs into your music library, they are intelligently grouped by
 
 While many desktop apps offer metadata editing, Evermusic and Flacbox take simplicity to the next level by including an ID3 tag editor. Now, you can use one app to build your music library, enjoy your tracks, and fix audio tags.
 
-{{< cards cols="2">}}
-{{< ls-card link="https://apps.apple.com/app/apple-store/id885367198?pt=95781850&ct=everappzcom&mt=8" title="Download Evermusic" icon="download" tag="Free" >}}
-{{< ls-card link="https://apps.apple.com/app/apple-store/id1097564256?pt=95781850&ct=everappzcom&mt=8" title="Download Flacbox" icon="download" tag="Free" >}}
-{{< /cards >}}
+{{< ls-app-details ids="885367198, 1097564256" notes="false" >}}
 
 ## Pro Editor
 
 But before you begin, check out the **Evertag** app — it supports **120+ audio tags**, **30+ audio formats**, and offers powerful **batch editing**. If you're looking for a full-featured tag management tool, Evertag is the way to go. However, if you just need a **simple tag editor**, feel free to continue with this guide.
 
-{{< cards >}}
-{{< ls-card link="https://apps.apple.com/app/apple-store/id1450763230?pt=95781850&ct=everappzcom&mt=8" title="Download Evertag" icon="download" tag="Free" >}}
-{{< /cards >}}
+{{< ls-app-details ids="1450763230" notes="false" >}}
 
 
 ## Connect Your Cloud Account  

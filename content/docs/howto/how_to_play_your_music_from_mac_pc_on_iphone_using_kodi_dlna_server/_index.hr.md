@@ -146,10 +146,7 @@ Nabavite besplatnu iOS DLNA klijentsku aplikaciju koja vam omogućuje streamanje
 
 Obje aplikacije dostupne su za **iOS** i **macOS**, i besplatne su za korištenje.
 
-{{< cards cols="1">}}
-{{< ls-card link="https://apps.apple.com/app/apple-store/id885367198?pt=95781850&ct=everappzcom&mt=8" title="Preuzmite Evermusic" icon="download" tag="Free" >}}
-{{< ls-card link="https://apps.apple.com/app/apple-store/id1097564256?pt=95781850&ct=everappzcom&mt=8" title="Preuzmite Flacbox" icon="download" tag="Free" >}}
-{{< /cards >}}
+{{< ls-app-details ids="885367198, 1097564256" notes="false" >}}
 
 ## Dodajte DLNA izvor
 
@@ -297,10 +294,7 @@ S **Evermusic** i **Flacbox**, pretvaranje vašeg iPhone, iPad ili Mac u moćan 
 
 Bilo da ste audiofil ili povremeni slušatelj, Evermusic i Flacbox nude sve što vam treba za besprijekorno streamanje i organiziranje glazbe.
 
-{{< cards cols="1">}}
-{{< ls-card link="https://apps.apple.com/app/apple-store/id885367198?pt=95781850&ct=everappzcom&mt=8" title="Preuzmite Evermusic" icon="download" tag="Free" >}}
-{{< ls-card link="https://apps.apple.com/app/apple-store/id1097564256?pt=95781850&ct=everappzcom&mt=8" title="Preuzmite Flacbox" icon="download" tag="Free" >}}
-{{< /cards >}}
+{{< ls-app-details ids="885367198, 1097564256" notes="false" >}}
 
 Počnite graditi svoje osobno glazbeno iskustvo danas.
 

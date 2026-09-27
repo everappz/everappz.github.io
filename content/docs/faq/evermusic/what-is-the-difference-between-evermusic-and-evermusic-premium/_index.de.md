@@ -62,7 +62,7 @@ Was sich zwischen Blau und Rot unterscheidet, ist, **wie sie im App Store gebün
 
 ### Im App Store herunterladen
 
-{{< ls-app-details ids="885367198, 905746421, 1564384601" >}}
+{{< ls-app-details ids="885367198, 905746421, 1564384601" notes="false" >}}
 
 ### App-Store-Bündelung
 

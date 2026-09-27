@@ -20,18 +20,13 @@ Når du importerer sanger til musikkbiblioteket ditt, grupperes de intelligent e
 
 Mens mange skrivebordsprogrammer tilbyr redigering av metadata, tar Evermusic og Flacbox enkelheten til neste nivå ved å inkludere en ID3 tag-editor. Nå kan du bruke én app til å bygge musikkbiblioteket ditt, nyte sporene dine og fikse lydtagger.
 
-{{< cards cols="2">}}
-{{< ls-card link="https://apps.apple.com/app/apple-store/id885367198?pt=95781850&ct=everappzcom&mt=8" title="Last ned Evermusic" icon="download" tag="Free" >}}
-{{< ls-card link="https://apps.apple.com/app/apple-store/id1097564256?pt=95781850&ct=everappzcom&mt=8" title="Last ned Flacbox" icon="download" tag="Free" >}}
-{{< /cards >}}
+{{< ls-app-details ids="885367198, 1097564256" notes="false" >}}
 
 ## Profesjonell editor
 
 Men før du begynner, sjekk ut **Evertag**-appen — den støtter **120+ lydtagger**, **30+ lydformater** og tilbyr kraftig **masseredigering**. Hvis du leter etter et fullverdig tagadministrasjonsverktøy, er Evertag veien å gå. Hvis du bare trenger en **enkel tag-editor**, kan du fortsette med denne guiden.
 
-{{< cards >}}
-{{< ls-card link="https://apps.apple.com/app/apple-store/id1450763230?pt=95781850&ct=everappzcom&mt=8" title="Last ned Evertag" icon="download" tag="Free" >}}
-{{< /cards >}}
+{{< ls-app-details ids="1450763230" notes="false" >}}
 
 
 ## Koble til skykontoen din  

@@ -144,10 +144,7 @@ Kodi에 음악 소스를 추가합니다.
 
 두 앱 모두 **iOS**와 **macOS**에서 사용 가능하며 무료입니다.
 
-{{< cards cols="1">}}
-{{< ls-card link="https://apps.apple.com/app/apple-store/id885367198?pt=95781850&ct=everappzcom&mt=8" title="Evermusic 다운로드" icon="download" tag="Free" >}}
-{{< ls-card link="https://apps.apple.com/app/apple-store/id1097564256?pt=95781850&ct=everappzcom&mt=8" title="Flacbox 다운로드" icon="download" tag="Free" >}}
-{{< /cards >}}
+{{< ls-app-details ids="885367198, 1097564256" notes="false" >}}
 
 ## DLNA 소스 추가
 
@@ -294,10 +291,7 @@ Evermusic이 Kodi를 통해 공유된 라이브러리 폴더를 표시합니다.
 
 오디오파일이든 캐주얼 리스너이든, Evermusic과 Flacbox는 원활한 음악 스트리밍과 정리에 필요한 모든 것을 제공합니다.
 
-{{< cards cols="1">}}
-{{< ls-card link="https://apps.apple.com/app/apple-store/id885367198?pt=95781850&ct=everappzcom&mt=8" title="Evermusic 다운로드" icon="download" tag="Free" >}}
-{{< ls-card link="https://apps.apple.com/app/apple-store/id1097564256?pt=95781850&ct=everappzcom&mt=8" title="Flacbox 다운로드" icon="download" tag="Free" >}}
-{{< /cards >}}
+{{< ls-app-details ids="885367198, 1097564256" notes="false" >}}
 
 오늘부터 개인 음악 경험을 만들어 보세요.
 

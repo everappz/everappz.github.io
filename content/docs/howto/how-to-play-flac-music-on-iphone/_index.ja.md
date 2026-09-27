@@ -34,7 +34,7 @@ Flacboxは、iPhone、iPad、Mac向けのハイレゾ音楽プレーヤーです
 
 Flacboxは無料でダウンロードでき、iPhone、iPad、Macで動作します。
 
-{{< ls-app-details product="flacbox" >}}
+{{< ls-app-details product="flacbox" notes="false" >}}
 
 ### ステップ2. FLACファイルを取り込む
 
@@ -127,7 +127,7 @@ iCloud Drive、Google Drive、Dropbox、OneDrive、Box、MEGA、pCloud、Proton 
 
 Flacboxは無料でダウンロードできます。Premiumは、クラウドアカウント、プレイリスト、オフラインフォルダーに関する無料版の制限を解除し、買い切りのライフタイム購入、または月額もしくは年額のサブスクリプションとして、ファミリー共有付きで利用できます。
 
-{{< ls-app-details product="flacbox" >}}
+{{< ls-app-details product="flacbox" notes="false" >}}
 
 ## オプション2: ミュージックアプリ用にFLACをALACに変換する
 

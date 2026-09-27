@@ -34,7 +34,7 @@ Flacbox adalah pemutar musik hi-res untuk iPhone, iPad, dan Mac. Ia mengubah pen
 
 Flacbox dapat diunduh secara gratis dan berjalan di iPhone, iPad, dan Mac.
 
-{{< ls-app-details product="flacbox" >}}
+{{< ls-app-details product="flacbox" notes="false" >}}
 
 ### Langkah 2. Masukkan File FLAC Anda
 
@@ -127,7 +127,7 @@ Ketika Anda ingin membawa musik Anda, pengelola unduhan bawaan menyimpan seluruh
 
 Flacbox gratis untuk diunduh. Premium menghapus batasan versi gratis pada akun cloud, daftar putar, dan folder offline, dan tersedia sebagai pembelian seumur hidup sekali bayar atau langganan bulanan atau tahunan, dengan Berbagi Keluarga.
 
-{{< ls-app-details product="flacbox" >}}
+{{< ls-app-details product="flacbox" notes="false" >}}
 
 ## Opsi 2: Konversikan FLAC ke ALAC untuk Aplikasi Musik
 

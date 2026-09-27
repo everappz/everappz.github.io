@@ -62,7 +62,7 @@ Medzi modrou a červenou sa líši **spôsob, akým sú zabalené v App Store**,
 
 ### Stiahnuť z App Store
 
-{{< ls-app-details ids="885367198, 905746421, 1564384601" >}}
+{{< ls-app-details ids="885367198, 905746421, 1564384601" notes="false" >}}
 
 ### Balenie v App Store
 

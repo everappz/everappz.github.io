@@ -124,10 +124,7 @@ readingTime: 3
 
 เพื่อเล่นไฟล์ `.m3u` ที่ดาวน์โหลดบนอุปกรณ์ Apple ของคุณ ใช้แอป **Evermusic** (ดาวน์โหลดฟรี):
 
-{{< cards cols="1">}}
-{{< ls-card link="https://apps.apple.com/app/apple-store/id1564384601?pt=95781850&ct=everappzcom&mt=8" title="Evermusic macOS" icon="download" tag="Free" >}}
-{{< ls-card link="https://apps.apple.com/app/apple-store/id885367198?pt=95781850&ct=everappzcom&mt=8" title="Evermusic iOS" icon="download" tag="Free" >}}
-{{< /cards >}}
+{{< ls-app-details ids="1564384601, 885367198" notes="false" >}}
 
 ### 1. เปิด Evermusic และไปที่เพลย์ลิสต์
 

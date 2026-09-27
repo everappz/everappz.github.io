@@ -62,7 +62,7 @@ Wat verschilt tussen blauw en rood is **hoe ze worden verpakt in de App Store**,
 
 ### Downloaden in de App Store
 
-{{< ls-app-details ids="885367198, 905746421, 1564384601" >}}
+{{< ls-app-details ids="885367198, 905746421, 1564384601" notes="false" >}}
 
 ### App Store-verpakking
 

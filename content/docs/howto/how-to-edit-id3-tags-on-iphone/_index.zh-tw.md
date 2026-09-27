@@ -20,18 +20,13 @@ readingTime: 2
 
 雖然許多桌面應用程式提供元數據編輯功能，但 Evermusic 和 Flacbox 透過內建 ID3 標籤編輯器將簡便性提升到了新的層次。現在，您可以使用一個應用程式來建立音樂資料庫、享受音樂並修正音訊標籤。
 
-{{< cards cols="2">}}
-{{< ls-card link="https://apps.apple.com/app/apple-store/id885367198?pt=95781850&ct=everappzcom&mt=8" title="下載 Evermusic" icon="download" tag="Free" >}}
-{{< ls-card link="https://apps.apple.com/app/apple-store/id1097564256?pt=95781850&ct=everappzcom&mt=8" title="下載 Flacbox" icon="download" tag="Free" >}}
-{{< /cards >}}
+{{< ls-app-details ids="885367198, 1097564256" notes="false" >}}
 
 ## 專業編輯器
 
 在開始之前，請先了解 **Evertag** 應用程式——它支援 **120 多個音訊標籤**、**30 多種音訊格式**，並提供強大的**批次編輯**功能。如果您需要功能完整的標籤管理工具，Evertag 是最佳選擇。不過，如果您只需要一個**簡單的標籤編輯器**，請繼續閱讀本指南。
 
-{{< cards >}}
-{{< ls-card link="https://apps.apple.com/app/apple-store/id1450763230?pt=95781850&ct=everappzcom&mt=8" title="下載 Evertag" icon="download" tag="Free" >}}
-{{< /cards >}}
+{{< ls-app-details ids="1450763230" notes="false" >}}
 
 
 ## 連接您的雲端帳號  

@@ -20,18 +20,13 @@ readingTime: 2
 
 بينما تقدم العديد من تطبيقات سطح المكتب تحرير البيانات الوصفية، يأخذ Evermusic و Flacbox البساطة إلى المستوى التالي من خلال تضمين محرر علامات ID3. الآن، يمكنك استخدام تطبيق واحد لبناء مكتبة الموسيقى الخاصة بك والاستمتاع بمساراتك وإصلاح علامات الصوت.
 
-{{< cards cols="2">}}
-{{< ls-card link="https://apps.apple.com/app/apple-store/id885367198?pt=95781850&ct=everappzcom&mt=8" title="تنزيل Evermusic" icon="download" tag="Free" >}}
-{{< ls-card link="https://apps.apple.com/app/apple-store/id1097564256?pt=95781850&ct=everappzcom&mt=8" title="تنزيل Flacbox" icon="download" tag="Free" >}}
-{{< /cards >}}
+{{< ls-app-details ids="885367198, 1097564256" notes="false" >}}
 
 ## محرر احترافي
 
 ولكن قبل أن تبدأ، تحقق من تطبيق **Evertag** — فهو يدعم **أكثر من 120 علامة صوتية** و**أكثر من 30 تنسيقاً صوتياً** ويوفر **تحريراً دفعياً** قوياً. إذا كنت تبحث عن أداة إدارة علامات كاملة الميزات، فإن Evertag هو الخيار الأمثل. ومع ذلك، إذا كنت تحتاج فقط إلى **محرر علامات بسيط**، فلا تتردد في متابعة هذا الدليل.
 
-{{< cards >}}
-{{< ls-card link="https://apps.apple.com/app/apple-store/id1450763230?pt=95781850&ct=everappzcom&mt=8" title="تنزيل Evertag" icon="download" tag="Free" >}}
-{{< /cards >}}
+{{< ls-app-details ids="1450763230" notes="false" >}}
 
 
 ## ربط حسابك السحابي  

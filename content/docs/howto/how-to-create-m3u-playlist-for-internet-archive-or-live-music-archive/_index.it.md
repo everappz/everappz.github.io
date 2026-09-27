@@ -124,10 +124,7 @@ Clicca su **Download Playlist** per salvare il file `.m3u` sul tuo dispositivo. 
 
 Per riprodurre il file `.m3u` scaricato sul tuo dispositivo Apple, usa l'app **Evermusic** (download gratuito):
 
-{{< cards cols="1">}}
-{{< ls-card link="https://apps.apple.com/app/apple-store/id1564384601?pt=95781850&ct=everappzcom&mt=8" title="Evermusic macOS" icon="download" tag="Free" >}}
-{{< ls-card link="https://apps.apple.com/app/apple-store/id885367198?pt=95781850&ct=everappzcom&mt=8" title="Evermusic iOS" icon="download" tag="Free" >}}
-{{< /cards >}}
+{{< ls-app-details ids="1564384601, 885367198" notes="false" >}}
 
 ### 1. Apri Evermusic e vai alle Playlist
 

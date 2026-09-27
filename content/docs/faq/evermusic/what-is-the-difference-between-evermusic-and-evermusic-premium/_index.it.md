@@ -62,7 +62,7 @@ Ciò che differisce tra blu e rossa è **il modo in cui sono confezionate sull'A
 
 ### Scarica dall'App Store
 
-{{< ls-app-details ids="885367198, 905746421, 1564384601" >}}
+{{< ls-app-details ids="885367198, 905746421, 1564384601" notes="false" >}}
 
 ### Confezionamento sull'App Store
 

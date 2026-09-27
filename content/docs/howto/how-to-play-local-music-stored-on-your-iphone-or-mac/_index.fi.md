@@ -23,12 +23,7 @@ Tutkimme menetelmiä ja työkaluja paikallisen musiikkisi saumattomaan toistoon 
 
 Aloittaaksesi matkasi paikallisen musiikin maailmaan iPhonellasi ja Macillasi, aloita asentamalla joko Evermusic (tavallisille äänimuodoille kuten mp3 ja wav) tai Flacbox (häviöttömälle musiikille dsd- ja flac-muodoissa). Molemmat sovellukset ovat saatavilla iOS:lle ja macOS:lle, ja voit ladata ne ilmaiseksi.
 
-{{< cards >}}
-  {{< ls-card link="https://apps.apple.com/us/app/evermusic-cloud-music-player/id885367198?pt=95781850&ct=everappzcom&mt=8" title="Lataa Evermusic iOS:lle" tag="iOS" >}}
-  {{< ls-card link="https://apps.apple.com/us/app/flacbox-hi-res-equalizer/id1097564256?pt=95781850&ct=everappzcom&mt=8" title="Lataa Flacbox iOS:lle" tag="iOS" >}}
-  {{< ls-card link="https://apps.apple.com/us/app/evermusic-hi-res-music-player/id1564384601?pt=95781850&ct=everappzcom&mt=8" title="Lataa Evermusic Macille" tag="macOS" >}}
-  {{< ls-card link="https://apps.apple.com/us/app/flacbox-hi-res-music-player/id1594027432?pt=95781850&ct=everappzcom&mt=8" title="Lataa Flacbox Macille" tag="macOS" >}}
-{{< /cards >}}
+{{< ls-app-details ids="885367198, 1097564256, 1564384601, 1594027432" notes="false" >}}
 
 
 ## Vaihe 2: Laitteellasi olevien paikallisten tiedostojen toistaminen

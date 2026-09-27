@@ -34,7 +34,7 @@ Flacbox es un reproductor de música hi-res para iPhone, iPad y Mac. Convierte t
 
 Flacbox es una descarga gratuita y funciona en iPhone, iPad y Mac.
 
-{{< ls-app-details product="flacbox" >}}
+{{< ls-app-details product="flacbox" notes="false" >}}
 
 ### Paso 2. Introduce tus archivos FLAC
 
@@ -127,7 +127,7 @@ Cuando quieras llevar tu música contigo, el gestor de descargas integrado guard
 
 Flacbox es de descarga gratuita. Premium elimina los límites de la versión gratuita en cuentas en la nube, listas de reproducción y carpetas sin conexión, y está disponible como compra única de por vida o como suscripción mensual o anual, con En familia.
 
-{{< ls-app-details product="flacbox" >}}
+{{< ls-app-details product="flacbox" notes="false" >}}
 
 ## Opción 2: Convertir FLAC a ALAC para la app Música
 

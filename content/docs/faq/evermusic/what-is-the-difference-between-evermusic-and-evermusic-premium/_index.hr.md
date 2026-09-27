@@ -62,7 +62,7 @@ Ono što se razlikuje između plave i crvene verzije jest **kako su pakirane u A
 
 ### Preuzmite u App Storeu
 
-{{< ls-app-details ids="885367198, 905746421, 1564384601" >}}
+{{< ls-app-details ids="885367198, 905746421, 1564384601" notes="false" >}}
 
 ### Pakiranje u App Storeu
 

@@ -23,12 +23,7 @@ Appleデバイスでローカル音楽をシームレスに再生するための
 
 iPhoneとMacでローカル音楽の世界への旅を始めるには、まずEvermusic（mp3やwavなどの標準オーディオフォーマット用）またはFlacbox（dsdやflacのロスレス音楽用）をインストールします。これらのアプリはiOSとmacOSの両方で利用でき、無料でダウンロードできます。
 
-{{< cards >}}
-  {{< ls-card link="https://apps.apple.com/us/app/evermusic-cloud-music-player/id885367198?pt=95781850&ct=everappzcom&mt=8" title="iOS用Evermusicをダウンロード" tag="iOS" >}}
-  {{< ls-card link="https://apps.apple.com/us/app/flacbox-hi-res-equalizer/id1097564256?pt=95781850&ct=everappzcom&mt=8" title="iOS用Flacboxをダウンロード" tag="iOS" >}}
-  {{< ls-card link="https://apps.apple.com/us/app/evermusic-hi-res-music-player/id1564384601?pt=95781850&ct=everappzcom&mt=8" title="Mac用Evermusicをダウンロード" tag="macOS" >}}
-  {{< ls-card link="https://apps.apple.com/us/app/flacbox-hi-res-music-player/id1594027432?pt=95781850&ct=everappzcom&mt=8" title="Mac用Flacboxをダウンロード" tag="macOS" >}}
-{{< /cards >}}
+{{< ls-app-details ids="885367198, 1097564256, 1564384601, 1594027432" notes="false" >}}
 
 
 ## ステップ2：デバイス上のローカルファイルを再生する

@@ -22,10 +22,7 @@ To demonstrate, we’ll use the **Evertag** app. It supports **120+ audio tags**
 
 Start by downloading the **Evertag** app from the App Store. It's available for both **iOS** and **macOS**, and free to use.
 
-{{< cards cols="2">}}
-{{< ls-card link="https://apps.apple.com/app/apple-store/id1450763230?pt=95781850&ct=everappzcom&mt=8" title="Evertag for iOS" icon="download" tag="Free" >}}
-{{< ls-card link="https://apps.apple.com/app/apple-store/id1594027661?pt=95781850&ct=everappzcom&mt=8" title="Evertag for macOS" icon="download" tag="Free" >}}
-{{< /cards >}}
+{{< ls-app-details ids="1450763230, 1594027661" notes="false" >}}
 
 ## Connect Your Cloud Account 
 

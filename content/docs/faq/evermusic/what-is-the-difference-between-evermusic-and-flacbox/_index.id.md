@@ -11,7 +11,7 @@ Evermusic dan Flacbox adalah dua pemutar musik canggih dari Everappz untuk iPhon
 
 **Jawaban singkat:** pilih **Evermusic** jika Anda menginginkan pengalaman mendengarkan serbaguna yang paling mulus, transisi gapless dan crossfade yang mulus, serta akses ke pustaka Apple Music Anda. Pilih **Flacbox** jika Anda seorang audiophile yang menginginkan pembentukan suara mendalam (rak efek dan rantai DSP), mesin audio profesional yang dapat dipilih, serta cakupan format hi-res dan lossless maksimal, termasuk DSD, APE, dan WavPack.
 
-{{< ls-app-details ids="885367198, 1097564256" >}}
+{{< ls-app-details ids="885367198, 1097564256" notes="false" >}}
 
 ## Tabel Perbandingan Fitur
 

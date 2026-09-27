@@ -13,7 +13,7 @@ Evermusic and Flacbox are two advanced music players from Everappz for iPhone, i
 
 **Short answer:** choose **Evermusic** if you want the smoothest all-round listening, seamless gapless and crossfade transitions, and access to your Apple Music library. Choose **Flacbox** if you are an audiophile who wants deep sound shaping (an effects rack and a DSP chain), a selectable professional audio engine, and maximum hi-res and lossless format coverage, including DSD, APE, and WavPack.
 
-{{< ls-app-details ids="885367198, 1097564256" >}}
+{{< ls-app-details ids="885367198, 1097564256" notes="false" >}}
 
 ## Feature Comparison Table
 

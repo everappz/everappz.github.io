@@ -62,7 +62,7 @@ El que difereix entre el blau i el vermell és **com s'empaqueten a l'App Store*
 
 ### Baixa'l a l'App Store
 
-{{< ls-app-details ids="885367198, 905746421, 1564384601" >}}
+{{< ls-app-details ids="885367198, 905746421, 1564384601" notes="false" >}}
 
 ### Empaquetatge a l'App Store
 

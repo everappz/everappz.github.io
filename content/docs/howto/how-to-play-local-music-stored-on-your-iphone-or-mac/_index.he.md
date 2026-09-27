@@ -23,12 +23,7 @@ keywords: ["כיצד להשמיע מוזיקה מקומית ב-iPhone", "השמ�
 
 כדי להתחיל את המסע שלך בעולם המוזיקה המקומית ב-iPhone וב-Mac שלך, התחל בהתקנת Evermusic (לפורמטי אודיו סטנדרטיים כמו mp3 ו-wav) או Flacbox (למוזיקה ללא אובדן ב-dsd ו-flac). שתי האפליקציות זמינות ל-iOS ול-macOS, ותוכל להוריד אותן בחינם.
 
-{{< cards >}}
-  {{< ls-card link="https://apps.apple.com/us/app/evermusic-cloud-music-player/id885367198?pt=95781850&ct=everappzcom&mt=8" title="הורד Evermusic ל-iOS" tag="iOS" >}}
-  {{< ls-card link="https://apps.apple.com/us/app/flacbox-hi-res-equalizer/id1097564256?pt=95781850&ct=everappzcom&mt=8" title="הורד Flacbox ל-iOS" tag="iOS" >}}
-  {{< ls-card link="https://apps.apple.com/us/app/evermusic-hi-res-music-player/id1564384601?pt=95781850&ct=everappzcom&mt=8" title="הורד Evermusic ל-Mac" tag="macOS" >}}
-  {{< ls-card link="https://apps.apple.com/us/app/flacbox-hi-res-music-player/id1594027432?pt=95781850&ct=everappzcom&mt=8" title="הורד Flacbox ל-Mac" tag="macOS" >}}
-{{< /cards >}}
+{{< ls-app-details ids="885367198, 1097564256, 1564384601, 1594027432" notes="false" >}}
 
 
 ## שלב 2: השמעת קבצים מקומיים הנמצאים במכשיר שלך

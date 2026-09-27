@@ -23,12 +23,7 @@ We verkennen methoden en tools om je lokale muziek naadloos af te spelen op je A
 
 Om je reis in de wereld van lokale muziek op je iPhone en Mac te beginnen, installeer eerst Evermusic (voor standaard audioformaten zoals mp3 en wav) of Flacbox (voor lossless muziek in dsd en flac). Beide apps zijn beschikbaar voor iOS en MacOS en je kunt ze gratis downloaden.
 
-{{< cards >}}
-  {{< ls-card link="https://apps.apple.com/us/app/evermusic-cloud-music-player/id885367198?pt=95781850&ct=everappzcom&mt=8" title="Download Evermusic voor iOS" tag="iOS" >}}
-  {{< ls-card link="https://apps.apple.com/us/app/flacbox-hi-res-equalizer/id1097564256?pt=95781850&ct=everappzcom&mt=8" title="Download Flacbox voor iOS" tag="iOS" >}}
-  {{< ls-card link="https://apps.apple.com/us/app/evermusic-hi-res-music-player/id1564384601?pt=95781850&ct=everappzcom&mt=8" title="Download Evermusic voor Mac" tag="macOS" >}}
-  {{< ls-card link="https://apps.apple.com/us/app/flacbox-hi-res-music-player/id1594027432?pt=95781850&ct=everappzcom&mt=8" title="Download Flacbox voor Mac" tag="macOS" >}}
-{{< /cards >}}
+{{< ls-app-details ids="885367198, 1097564256, 1564384601, 1594027432" notes="false" >}}
 
 
 ## Stap 2: Lokale bestanden op je apparaat afspelen

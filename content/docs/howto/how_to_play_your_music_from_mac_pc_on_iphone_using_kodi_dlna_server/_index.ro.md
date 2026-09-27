@@ -145,10 +145,7 @@ Obține o aplicație client DLNA gratuită pentru iOS care îți permite să tra
 
 Ambele aplicații sunt disponibile pentru **iOS** și **macOS**, și sunt gratuite.
 
-{{< cards cols="1">}}
-{{< ls-card link="https://apps.apple.com/app/apple-store/id885367198?pt=95781850&ct=everappzcom&mt=8" title="Descarcă Evermusic" icon="download" tag="Free" >}}
-{{< ls-card link="https://apps.apple.com/app/apple-store/id1097564256?pt=95781850&ct=everappzcom&mt=8" title="Descarcă Flacbox" icon="download" tag="Free" >}}
-{{< /cards >}}
+{{< ls-app-details ids="885367198, 1097564256" notes="false" >}}
 
 ## Adaugă sursă DLNA
 
@@ -296,10 +293,7 @@ Cu **Evermusic** și **Flacbox**, transformarea iPhone-ului, iPad-ului sau Mac-u
 
 Fie că ești un audiofil sau un ascultător ocazional, Evermusic și Flacbox oferă tot ce ai nevoie pentru streaming și organizare muzicală fără întreruperi.
 
-{{< cards cols="1">}}
-{{< ls-card link="https://apps.apple.com/app/apple-store/id885367198?pt=95781850&ct=everappzcom&mt=8" title="Descarcă Evermusic" icon="download" tag="Free" >}}
-{{< ls-card link="https://apps.apple.com/app/apple-store/id1097564256?pt=95781850&ct=everappzcom&mt=8" title="Descarcă Flacbox" icon="download" tag="Free" >}}
-{{< /cards >}}
+{{< ls-app-details ids="885367198, 1097564256" notes="false" >}}
 
 Începe să construiești experiența ta muzicală personală astăzi.
 

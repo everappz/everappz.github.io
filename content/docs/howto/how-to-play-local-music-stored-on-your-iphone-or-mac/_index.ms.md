@@ -23,12 +23,7 @@ Kami akan meneroka kaedah dan alat untuk memainkan muzik tempatan anda dengan la
 
 Untuk memulakan perjalanan anda ke dunia muzik tempatan di iPhone dan Mac, mulakan dengan memasang sama ada Evermusic (untuk format audio standard seperti mp3 dan wav) atau Flacbox (untuk muzik tanpa rugi dalam dsd dan flac). Kedua-dua aplikasi ini tersedia untuk iOS dan MacOS, dan anda boleh memuat turunnya secara percuma.
 
-{{< cards >}}
-  {{< ls-card link="https://apps.apple.com/us/app/evermusic-cloud-music-player/id885367198?pt=95781850&ct=everappzcom&mt=8" title="Muat Turun Evermusic untuk iOS" tag="iOS" >}}
-  {{< ls-card link="https://apps.apple.com/us/app/flacbox-hi-res-equalizer/id1097564256?pt=95781850&ct=everappzcom&mt=8" title="Muat Turun Flacbox untuk iOS" tag="iOS" >}}
-  {{< ls-card link="https://apps.apple.com/us/app/evermusic-hi-res-music-player/id1564384601?pt=95781850&ct=everappzcom&mt=8" title="Muat Turun Evermusic untuk Mac" tag="macOS" >}}
-  {{< ls-card link="https://apps.apple.com/us/app/flacbox-hi-res-music-player/id1594027432?pt=95781850&ct=everappzcom&mt=8" title="Muat Turun Flacbox untuk Mac" tag="macOS" >}}
-{{< /cards >}}
+{{< ls-app-details ids="885367198, 1097564256, 1564384601, 1594027432" notes="false" >}}
 
 
 ## Langkah 2: Memainkan Fail Tempatan yang Terdapat pada Peranti Anda

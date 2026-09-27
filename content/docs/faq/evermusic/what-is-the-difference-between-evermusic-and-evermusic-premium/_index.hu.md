@@ -62,7 +62,7 @@ Ami a kék és a piros között eltér, az az, **hogyan vannak csomagolva az App
 
 ### Töltse le az App Store-ból
 
-{{< ls-app-details ids="885367198, 905746421, 1564384601" >}}
+{{< ls-app-details ids="885367198, 905746421, 1564384601" notes="false" >}}
 
 ### App Store csomagolás
 

@@ -20,18 +20,13 @@ readingTime: 2
 
 ในขณะที่แอปเดสก์ท็อปหลายตัวมีการแก้ไขข้อมูลเมตา Evermusic และ Flacbox ยกระดับความเรียบง่ายไปอีกขั้นด้วยการรวมโปรแกรมแก้ไขแท็ก ID3 ตอนนี้คุณสามารถใช้แอปเดียวเพื่อสร้างคลังเพลง เพลิดเพลินกับแทร็กของคุณ และแก้ไขแท็กเสียง
 
-{{< cards cols="2">}}
-{{< ls-card link="https://apps.apple.com/app/apple-store/id885367198?pt=95781850&ct=everappzcom&mt=8" title="ดาวน์โหลด Evermusic" icon="download" tag="Free" >}}
-{{< ls-card link="https://apps.apple.com/app/apple-store/id1097564256?pt=95781850&ct=everappzcom&mt=8" title="ดาวน์โหลด Flacbox" icon="download" tag="Free" >}}
-{{< /cards >}}
+{{< ls-app-details ids="885367198, 1097564256" notes="false" >}}
 
 ## โปรแกรมแก้ไขระดับมืออาชีพ
 
 แต่ก่อนที่คุณจะเริ่ม ลองดูแอป **Evertag** — รองรับ **แท็กเสียงมากกว่า 120 รายการ**, **รูปแบบเสียงมากกว่า 30 รูปแบบ** และมี **การแก้ไขเป็นชุด** ที่ทรงพลัง หากคุณกำลังมองหาเครื่องมือจัดการแท็กที่ครบครัน Evertag คือทางเลือกที่เหมาะสม อย่างไรก็ตาม หากคุณต้องการเพียง **โปรแกรมแก้ไขแท็กง่ายๆ** ก็ดำเนินการต่อด้วยคู่มือนี้
 
-{{< cards >}}
-{{< ls-card link="https://apps.apple.com/app/apple-store/id1450763230?pt=95781850&ct=everappzcom&mt=8" title="ดาวน์โหลด Evertag" icon="download" tag="Free" >}}
-{{< /cards >}}
+{{< ls-app-details ids="1450763230" notes="false" >}}
 
 
 ## เชื่อมต่อบัญชีคลาวด์ของคุณ  

@@ -28,19 +28,13 @@ Innan du kan börja njuta av din iCloud Drive-musik på din iPhone eller Mac beh
 
 1. Gå till App Store och ladda ner **Evermusic** om din musik är lagrad i standardljudformat som mp3 eller wav. Om du har förlustfri musik i dsd eller flac, välj **Flacbox**. Båda apparna finns tillgängliga för iOS och MacOS.
 
-{{< cards >}}
-  {{< ls-card link="https://apps.apple.com/us/app/evermusic-cloud-music-player/id885367198" title="Ladda ner Evermusic för iOS" icon="download" tag="Gratis" >}}
-  {{< ls-card link="https://apps.apple.com/us/app/flacbox-flac-player-equalizer/id1097564256" title="Ladda ner Flacbox för iOS" icon="download" tag="Gratis" >}}
-{{< /cards >}}
+{{< ls-app-details ids="885367198, 1097564256" notes="false" >}}
 
 - För MacOS:
 
 1. Besök App Store på din Mac och installera **Evermusic** eller **Flacbox** baserat på dina musikformatpreferenser.
 
-{{< cards >}}
-  {{< ls-card link="https://apps.apple.com/us/app/evermusic-cloud-music-player/id1564384601" title="Ladda ner Evermusic för Mac" icon="download" tag="Gratis" >}}
-  {{< ls-card link="https://apps.apple.com/us/app/flacbox-hires-music-player/id1594027432" title="Ladda ner Flacbox för Mac" icon="download" tag="Gratis" >}}
-{{< /cards >}}
+{{< ls-app-details ids="1564384601, 1594027432" notes="false" >}}
 
 När du har installerat appen på din iPhone eller Mac är du redo att fortsätta.
 

@@ -20,18 +20,13 @@ Kada uvezete pjesme u svoju glazbenu knjižnicu, one se inteligentno grupiraju p
 
 Dok mnoge desktop aplikacije nude uređivanje metapodataka, Evermusic i Flacbox podižu jednostavnost na višu razinu uključivanjem ID3 uređivača oznaka. Sada možete koristiti jednu aplikaciju za izgradnju glazbene knjižnice, uživanje u svojim pjesmama i ispravljanje audio oznaka.
 
-{{< cards cols="2">}}
-{{< ls-card link="https://apps.apple.com/app/apple-store/id885367198?pt=95781850&ct=everappzcom&mt=8" title="Preuzmi Evermusic" icon="download" tag="Free" >}}
-{{< ls-card link="https://apps.apple.com/app/apple-store/id1097564256?pt=95781850&ct=everappzcom&mt=8" title="Preuzmi Flacbox" icon="download" tag="Free" >}}
-{{< /cards >}}
+{{< ls-app-details ids="885367198, 1097564256" notes="false" >}}
 
 ## Profesionalni uređivač
 
 Ali prije nego što počnete, pogledajte aplikaciju **Evertag** — podržava **120+ audio oznaka**, **30+ audio formata** i nudi moćno **skupno uređivanje**. Ako tražite potpuno opremljen alat za upravljanje oznakama, Evertag je pravi izbor. Međutim, ako vam treba samo **jednostavan uređivač oznaka**, slobodno nastavite s ovim vodičem.
 
-{{< cards >}}
-{{< ls-card link="https://apps.apple.com/app/apple-store/id1450763230?pt=95781850&ct=everappzcom&mt=8" title="Preuzmi Evertag" icon="download" tag="Free" >}}
-{{< /cards >}}
+{{< ls-app-details ids="1450763230" notes="false" >}}
 
 
 ## Povežite svoj račun u oblaku  

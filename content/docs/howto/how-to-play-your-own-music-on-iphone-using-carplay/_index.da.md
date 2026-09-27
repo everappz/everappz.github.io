@@ -24,10 +24,7 @@ I denne guide viser vi dig, hvordan du forbereder dine musikfiler til CarPlay, o
 
 Disse apps er perfekte for alle, der ønsker fuld kontrol over deres musikbibliotek.
 
-{{< cards cols="2">}}
-{{< ls-card link="https://apps.apple.com/app/apple-store/id885367198?pt=95781850&ct=everappzcom&mt=8" title="Download Evermusic" icon="download" tag="Free" >}}
-{{< ls-card link="https://apps.apple.com/app/apple-store/id1097564256?pt=95781850&ct=everappzcom&mt=8" title="Download Flacbox" icon="download" tag="Free" >}}
-{{< /cards >}}
+{{< ls-app-details ids="885367198, 1097564256" notes="false" >}}
 
 ## Tilføj filer til appen
 

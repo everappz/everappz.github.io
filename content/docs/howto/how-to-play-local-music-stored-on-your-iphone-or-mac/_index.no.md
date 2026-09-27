@@ -23,12 +23,7 @@ Vi utforsker metoder og verktoy for a spille lokal musikk somplost pa Apple-enhe
 
 For a begynne reisen inn i verden av lokal musikk pa iPhone og Mac, start med a installere enten Evermusic (for standard lydformater som mp3 og wav) eller Flacbox (for tapsfri musikk i dsd og flac). Begge appene er tilgjengelige for iOS og MacOS, og du kan laste dem ned gratis.
 
-{{< cards >}}
-  {{< ls-card link="https://apps.apple.com/us/app/evermusic-cloud-music-player/id885367198?pt=95781850&ct=everappzcom&mt=8" title="Last ned Evermusic for iOS" tag="iOS" >}}
-  {{< ls-card link="https://apps.apple.com/us/app/flacbox-hi-res-equalizer/id1097564256?pt=95781850&ct=everappzcom&mt=8" title="Last ned Flacbox for iOS" tag="iOS" >}}
-  {{< ls-card link="https://apps.apple.com/us/app/evermusic-hi-res-music-player/id1564384601?pt=95781850&ct=everappzcom&mt=8" title="Last ned Evermusic for Mac" tag="macOS" >}}
-  {{< ls-card link="https://apps.apple.com/us/app/flacbox-hi-res-music-player/id1594027432?pt=95781850&ct=everappzcom&mt=8" title="Last ned Flacbox for Mac" tag="macOS" >}}
-{{< /cards >}}
+{{< ls-app-details ids="885367198, 1097564256, 1564384601, 1594027432" notes="false" >}}
 
 
 ## Trinn 2: Spille lokale filer pa enheten din

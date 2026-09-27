@@ -145,10 +145,7 @@ Pobierz darmową aplikację klienta DLNA na iOS, która pozwala strumieniować m
 
 Obie aplikacje są dostępne na **iOS** i **macOS**, i są darmowe.
 
-{{< cards cols="1">}}
-{{< ls-card link="https://apps.apple.com/app/apple-store/id885367198?pt=95781850&ct=everappzcom&mt=8" title="Pobierz Evermusic" icon="download" tag="Free" >}}
-{{< ls-card link="https://apps.apple.com/app/apple-store/id1097564256?pt=95781850&ct=everappzcom&mt=8" title="Pobierz Flacbox" icon="download" tag="Free" >}}
-{{< /cards >}}
+{{< ls-app-details ids="885367198, 1097564256" notes="false" >}}
 
 ## Dodaj źródło DLNA
 
@@ -296,10 +293,7 @@ Z **Evermusic** i **Flacbox** zamiana iPhone, iPad lub Mac w potężny odtwarzac
 
 Niezależnie od tego, czy jesteś audiofilem, czy przypadkowym słuchaczem, Evermusic i Flacbox oferują wszystko, czego potrzebujesz do płynnego strumieniowania i organizacji muzyki.
 
-{{< cards cols="1">}}
-{{< ls-card link="https://apps.apple.com/app/apple-store/id885367198?pt=95781850&ct=everappzcom&mt=8" title="Pobierz Evermusic" icon="download" tag="Free" >}}
-{{< ls-card link="https://apps.apple.com/app/apple-store/id1097564256?pt=95781850&ct=everappzcom&mt=8" title="Pobierz Flacbox" icon="download" tag="Free" >}}
-{{< /cards >}}
+{{< ls-app-details ids="885367198, 1097564256" notes="false" >}}
 
 Zacznij budować swoje osobiste doświadczenie muzyczne już dziś.
 

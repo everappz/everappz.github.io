@@ -64,7 +64,7 @@ What differs between blue and red is **how they’re packaged on the App Store**
 
 ### Download on the App Store
 
-{{< ls-app-details ids="885367198, 905746421, 1564384601" >}}
+{{< ls-app-details ids="885367198, 905746421, 1564384601" notes="false" >}}
 
 ### App Store packaging
 

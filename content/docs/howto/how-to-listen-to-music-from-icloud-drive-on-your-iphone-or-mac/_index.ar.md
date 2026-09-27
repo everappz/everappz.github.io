@@ -28,19 +28,13 @@ readingTime: 5
 
 1. توجه إلى App Store وقم بتنزيل **Evermusic** إذا كانت موسيقاك مخزنة بتنسيقات صوتية قياسية مثل mp3 أو wav. إذا كانت لديك موسيقى بجودة عالية بتنسيق dsd أو flac، اختر **Flacbox**. كلا التطبيقين متاحان لنظامي iOS وMacOS.
 
-{{< cards >}}
-  {{< ls-card link="https://apps.apple.com/us/app/evermusic-cloud-music-player/id885367198" title="تحميل Evermusic لنظام iOS" icon="download" tag="مجاني" >}}
-  {{< ls-card link="https://apps.apple.com/us/app/flacbox-flac-player-equalizer/id1097564256" title="تحميل Flacbox لنظام iOS" icon="download" tag="مجاني" >}}
-{{< /cards >}}
+{{< ls-app-details ids="885367198, 1097564256" notes="false" >}}
 
 - لنظام MacOS:
 
 1. قم بزيارة App Store على جهاز Mac وثبّت **Evermusic** أو **Flacbox** حسب تفضيلاتك لتنسيقات الموسيقى.
 
-{{< cards >}}
-  {{< ls-card link="https://apps.apple.com/us/app/evermusic-cloud-music-player/id1564384601" title="تحميل Evermusic لنظام Mac" icon="download" tag="مجاني" >}}
-  {{< ls-card link="https://apps.apple.com/us/app/flacbox-hires-music-player/id1594027432" title="تحميل Flacbox لنظام Mac" icon="download" tag="مجاني" >}}
-{{< /cards >}}
+{{< ls-app-details ids="1564384601, 1594027432" notes="false" >}}
 
 بمجرد تثبيت التطبيق على iPhone أو Mac، ستكون جاهزًا للمتابعة.
 

@@ -24,10 +24,7 @@ En aquesta guia, et mostrarem com preparar els teus fitxers de música per a Car
 
 Aquestes aplicacions són perfectes per a qualsevol persona que vulgui un control total sobre la seva biblioteca musical.
 
-{{< cards cols="2">}}
-{{< ls-card link="https://apps.apple.com/app/apple-store/id885367198?pt=95781850&ct=everappzcom&mt=8" title="Descarregar Evermusic" icon="download" tag="Free" >}}
-{{< ls-card link="https://apps.apple.com/app/apple-store/id1097564256?pt=95781850&ct=everappzcom&mt=8" title="Descarregar Flacbox" icon="download" tag="Free" >}}
-{{< /cards >}}
+{{< ls-app-details ids="885367198, 1097564256" notes="false" >}}
 
 ## Afegir fitxers a l'aplicació
 

@@ -24,10 +24,7 @@ Um es einfacher zu machen, zeigen wir, wie Sie Albumcover mit der **Evertag**-Ap
 
 Laden Sie zunächst die **Evertag**-App aus dem App Store herunter. Sie ist kostenlos und für **iOS** und **macOS** verfügbar.
 
-{{< cards cols="2">}}
-{{< ls-card link="https://apps.apple.com/app/apple-store/id1450763230?pt=95781850&ct=everappzcom&mt=8" title="Evertag für iOS" icon="download" tag="Free" >}}
-{{< ls-card link="https://apps.apple.com/app/apple-store/id1594027661?pt=95781850&ct=everappzcom&mt=8" title="Evertag für macOS" icon="download" tag="Free" >}}
-{{< /cards >}}
+{{< ls-app-details ids="1450763230, 1594027661" notes="false" >}}
 
 ## Lokale Bibliothek in Spotify aktivieren
 

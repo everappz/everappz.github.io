@@ -28,19 +28,13 @@ Sebelum Anda dapat mulai menikmati musik iCloud Drive di iPhone atau Mac, Anda p
 
 1. Buka App Store dan unduh **Evermusic** jika musik Anda disimpan dalam format audio standar seperti mp3 atau wav. Jika Anda memiliki musik lossless dalam format dsd atau flac, pilih **Flacbox**. Kedua aplikasi tersedia untuk iOS dan MacOS.
 
-{{< cards >}}
-  {{< ls-card link="https://apps.apple.com/us/app/evermusic-cloud-music-player/id885367198" title="Unduh Evermusic untuk iOS" icon="download" tag="Gratis" >}}
-  {{< ls-card link="https://apps.apple.com/us/app/flacbox-flac-player-equalizer/id1097564256" title="Unduh Flacbox untuk iOS" icon="download" tag="Gratis" >}}
-{{< /cards >}}
+{{< ls-app-details ids="885367198, 1097564256" notes="false" >}}
 
 - Untuk MacOS:
 
 1. Kunjungi App Store di Mac Anda dan instal **Evermusic** atau **Flacbox** berdasarkan preferensi format musik Anda.
 
-{{< cards >}}
-  {{< ls-card link="https://apps.apple.com/us/app/evermusic-cloud-music-player/id1564384601" title="Unduh Evermusic untuk Mac" icon="download" tag="Gratis" >}}
-  {{< ls-card link="https://apps.apple.com/us/app/flacbox-hires-music-player/id1594027432" title="Unduh Flacbox untuk Mac" icon="download" tag="Gratis" >}}
-{{< /cards >}}
+{{< ls-app-details ids="1564384601, 1594027432" notes="false" >}}
 
 Setelah Anda menginstal aplikasi di iPhone atau Mac, Anda siap untuk melanjutkan.
 

@@ -24,10 +24,7 @@ readingTime: 3
 
 App Store से **Evertag** ऐप डाउनलोड करके शुरुआत करें। यह मुफ़्त है और **iOS** तथा **macOS** दोनों पर उपलब्ध है।
 
-{{< cards cols="2">}}
-{{< ls-card link="https://apps.apple.com/app/apple-store/id1450763230?pt=95781850&ct=everappzcom&mt=8" title="Evertag iOS के लिए" icon="download" tag="Free" >}}
-{{< ls-card link="https://apps.apple.com/app/apple-store/id1594027661?pt=95781850&ct=everappzcom&mt=8" title="Evertag macOS के लिए" icon="download" tag="Free" >}}
-{{< /cards >}}
+{{< ls-app-details ids="1450763230, 1594027661" notes="false" >}}
 
 ## Spotify में स्थानीय लाइब्रेरी सक्रिय करें
 

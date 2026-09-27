@@ -145,10 +145,7 @@ Kodi 现在作为 DLNA 服务器在您的本地 Wi-Fi 网络上运行。
 
 两个应用都可在 **iOS** 和 **macOS** 上使用，且免费。
 
-{{< cards cols="1">}}
-{{< ls-card link="https://apps.apple.com/app/apple-store/id885367198?pt=95781850&ct=everappzcom&mt=8" title="下载 Evermusic" icon="download" tag="Free" >}}
-{{< ls-card link="https://apps.apple.com/app/apple-store/id1097564256?pt=95781850&ct=everappzcom&mt=8" title="下载 Flacbox" icon="download" tag="Free" >}}
-{{< /cards >}}
+{{< ls-app-details ids="885367198, 1097564256" notes="false" >}}
 
 ## 添加 DLNA 源
 
@@ -296,10 +293,7 @@ Evermusic 将显示通过 Kodi 共享的媒体库文件夹。
 
 无论您是发烧友还是普通听众，Evermusic 和 Flacbox 都能为您提供无缝音乐流媒体和组织所需的一切。
 
-{{< cards cols="1">}}
-{{< ls-card link="https://apps.apple.com/app/apple-store/id885367198?pt=95781850&ct=everappzcom&mt=8" title="下载 Evermusic" icon="download" tag="Free" >}}
-{{< ls-card link="https://apps.apple.com/app/apple-store/id1097564256?pt=95781850&ct=everappzcom&mt=8" title="下载 Flacbox" icon="download" tag="Free" >}}
-{{< /cards >}}
+{{< ls-app-details ids="885367198, 1097564256" notes="false" >}}
 
 立即开始构建您的个人音乐体验。
 

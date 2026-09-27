@@ -146,10 +146,7 @@ readingTime: 5
 
 Και οι δύο εφαρμογές είναι διαθέσιμες για **iOS** και **macOS**, και είναι δωρεάν.
 
-{{< cards cols="1">}}
-{{< ls-card link="https://apps.apple.com/app/apple-store/id885367198?pt=95781850&ct=everappzcom&mt=8" title="Λήψη Evermusic" icon="download" tag="Free" >}}
-{{< ls-card link="https://apps.apple.com/app/apple-store/id1097564256?pt=95781850&ct=everappzcom&mt=8" title="Λήψη Flacbox" icon="download" tag="Free" >}}
-{{< /cards >}}
+{{< ls-app-details ids="885367198, 1097564256" notes="false" >}}
 
 ## Προσθήκη πηγής DLNA
 
@@ -297,10 +294,7 @@ readingTime: 5
 
 Είτε είστε audiophile είτε casual ακροατής, το Evermusic και το Flacbox προσφέρουν ό,τι χρειάζεστε για απρόσκοπτο streaming και οργάνωση μουσικής.
 
-{{< cards cols="1">}}
-{{< ls-card link="https://apps.apple.com/app/apple-store/id885367198?pt=95781850&ct=everappzcom&mt=8" title="Λήψη Evermusic" icon="download" tag="Free" >}}
-{{< ls-card link="https://apps.apple.com/app/apple-store/id1097564256?pt=95781850&ct=everappzcom&mt=8" title="Λήψη Flacbox" icon="download" tag="Free" >}}
-{{< /cards >}}
+{{< ls-app-details ids="885367198, 1097564256" notes="false" >}}
 
 Ξεκινήστε να χτίζετε την προσωπική σας μουσική εμπειρία σήμερα.
 

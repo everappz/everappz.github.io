@@ -11,7 +11,7 @@ Evermusic i Flacbox dva su napredna glazbena playera tvrtke Everappz za iPhone, 
 
 **Kratak odgovor:** odaberite **Evermusic** ako želite najglađe svestrano slušanje, neprimjetne besprekidne i crossfade prijelaze te pristup svojoj Apple Music biblioteci. Odaberite **Flacbox** ako ste audiofil koji želi duboko oblikovanje zvuka (skup efekata i DSP lanac), odabirni profesionalni audio pogon te maksimalnu pokrivenost hi-res i lossless formata, uključujući DSD, APE i WavPack.
 
-{{< ls-app-details ids="885367198, 1097564256" >}}
+{{< ls-app-details ids="885367198, 1097564256" notes="false" >}}
 
 ## Tablica usporedbe značajki
 

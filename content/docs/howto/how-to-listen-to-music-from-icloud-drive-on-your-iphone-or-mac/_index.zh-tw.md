@@ -28,19 +28,13 @@ readingTime: 5
 
 1. 前往 App Store，如果您的音樂以 mp3 或 wav 等標準音訊格式儲存，請下載 **Evermusic**。如果您有 dsd 或 flac 格式的無損音樂，請選擇 **Flacbox**。兩款應用程式均適用於 iOS 和 MacOS。
 
-{{< cards >}}
-  {{< ls-card link="https://apps.apple.com/us/app/evermusic-cloud-music-player/id885367198" title="下載 iOS 版 Evermusic" icon="download" tag="免費" >}}
-  {{< ls-card link="https://apps.apple.com/us/app/flacbox-flac-player-equalizer/id1097564256" title="下載 iOS 版 Flacbox" icon="download" tag="免費" >}}
-{{< /cards >}}
+{{< ls-app-details ids="885367198, 1097564256" notes="false" >}}
 
 - 適用於 MacOS：
 
 1. 在 Mac 上造訪 App Store，根據您的音樂格式偏好安裝 **Evermusic** 或 **Flacbox**。
 
-{{< cards >}}
-  {{< ls-card link="https://apps.apple.com/us/app/evermusic-cloud-music-player/id1564384601" title="下載 Mac 版 Evermusic" icon="download" tag="免費" >}}
-  {{< ls-card link="https://apps.apple.com/us/app/flacbox-hires-music-player/id1594027432" title="下載 Mac 版 Flacbox" icon="download" tag="免費" >}}
-{{< /cards >}}
+{{< ls-app-details ids="1564384601, 1594027432" notes="false" >}}
 
 在 iPhone 或 Mac 上安裝應用程式後，您就可以繼續了。
 

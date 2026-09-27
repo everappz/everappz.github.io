@@ -23,12 +23,7 @@ keywords: ["iPhone पर स्थानीय संगीत कैसे च
 
 अपने iPhone और Mac पर स्थानीय संगीत की दुनिया में अपनी यात्रा शुरू करने के लिए, Evermusic (mp3 और wav जैसे मानक ऑडियो प्रारूपों के लिए) या Flacbox (dsd और flac में लॉसलेस संगीत के लिए) इंस्टॉल करके शुरू करें। ये दोनों ऐप iOS और macOS के लिए उपलब्ध हैं, और आप उन्हें मुफ्त में डाउनलोड कर सकते हैं।
 
-{{< cards >}}
-  {{< ls-card link="https://apps.apple.com/us/app/evermusic-cloud-music-player/id885367198?pt=95781850&ct=everappzcom&mt=8" title="iOS के लिए Evermusic डाउनलोड करें" tag="iOS" >}}
-  {{< ls-card link="https://apps.apple.com/us/app/flacbox-hi-res-equalizer/id1097564256?pt=95781850&ct=everappzcom&mt=8" title="iOS के लिए Flacbox डाउनलोड करें" tag="iOS" >}}
-  {{< ls-card link="https://apps.apple.com/us/app/evermusic-hi-res-music-player/id1564384601?pt=95781850&ct=everappzcom&mt=8" title="Mac के लिए Evermusic डाउनलोड करें" tag="macOS" >}}
-  {{< ls-card link="https://apps.apple.com/us/app/flacbox-hi-res-music-player/id1594027432?pt=95781850&ct=everappzcom&mt=8" title="Mac के लिए Flacbox डाउनलोड करें" tag="macOS" >}}
-{{< /cards >}}
+{{< ls-app-details ids="885367198, 1097564256, 1564384601, 1594027432" notes="false" >}}
 
 
 ## चरण 2: अपने डिवाइस पर स्थित स्थानीय फ़ाइलें चलाना

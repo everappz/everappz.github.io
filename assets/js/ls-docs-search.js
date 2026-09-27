@@ -558,7 +558,7 @@
     if (!resultsElement) return;
 
     if ((!groups || !groups.length) && (!answers || !answers.length)) {
-      resultsElement.innerHTML = `<span class="hextra-search-no-result">{{ $noResultsFound | safeHTML }}</span>`;
+      resultsElement.innerHTML = `<div class="ls-docs-search-no-result">{{ $noResultsFound | safeHTML }}</div>`;
       resultsElement.dataset.count = 0;
       return;
     }

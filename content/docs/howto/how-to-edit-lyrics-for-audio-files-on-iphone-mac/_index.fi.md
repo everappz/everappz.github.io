@@ -22,10 +22,7 @@ Esittelyyn käytämme **Evertag**-sovellusta. Se tukee **yli 120 äänitagia**, 
 
 Aloita lataamalla **Evertag**-sovellus App Storesta. Se on saatavilla sekä **iOS**:lle että **macOS**:lle ja on ilmainen.
 
-{{< cards cols="2">}}
-{{< ls-card link="https://apps.apple.com/app/apple-store/id1450763230?pt=95781850&ct=everappzcom&mt=8" title="Evertag iOS:lle" icon="download" tag="Free" >}}
-{{< ls-card link="https://apps.apple.com/app/apple-store/id1594027661?pt=95781850&ct=everappzcom&mt=8" title="Evertag macOS:lle" icon="download" tag="Free" >}}
-{{< /cards >}}
+{{< ls-app-details ids="1450763230, 1594027661" notes="false" >}}
 
 ## Yhdistä pilvitilisi
 

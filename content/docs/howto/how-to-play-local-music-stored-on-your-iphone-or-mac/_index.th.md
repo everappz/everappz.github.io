@@ -23,12 +23,7 @@ keywords: ["วิธีเล่นเพลงในเครื่องบ�
 
 เพื่อเริ่มต้นการเดินทางในโลกของเพลงในเครื่องบน iPhone และ Mac ให้เริ่มด้วยการติดตั้ง Evermusic (สำหรับรูปแบบเสียงมาตรฐานเช่น mp3 และ wav) หรือ Flacbox (สำหรับเพลงแบบไม่สูญเสียคุณภาพใน dsd และ flac) แอปทั้งสองมีให้ใช้งานบน iOS และ MacOS และคุณสามารถดาวน์โหลดได้ฟรี
 
-{{< cards >}}
-  {{< ls-card link="https://apps.apple.com/us/app/evermusic-cloud-music-player/id885367198?pt=95781850&ct=everappzcom&mt=8" title="ดาวน์โหลด Evermusic สำหรับ iOS" tag="iOS" >}}
-  {{< ls-card link="https://apps.apple.com/us/app/flacbox-hi-res-equalizer/id1097564256?pt=95781850&ct=everappzcom&mt=8" title="ดาวน์โหลด Flacbox สำหรับ iOS" tag="iOS" >}}
-  {{< ls-card link="https://apps.apple.com/us/app/evermusic-hi-res-music-player/id1564384601?pt=95781850&ct=everappzcom&mt=8" title="ดาวน์โหลด Evermusic สำหรับ Mac" tag="macOS" >}}
-  {{< ls-card link="https://apps.apple.com/us/app/flacbox-hi-res-music-player/id1594027432?pt=95781850&ct=everappzcom&mt=8" title="ดาวน์โหลด Flacbox สำหรับ Mac" tag="macOS" >}}
-{{< /cards >}}
+{{< ls-app-details ids="885367198, 1097564256, 1564384601, 1594027432" notes="false" >}}
 
 
 ## ขั้นตอนที่ 2: เล่นไฟล์ในเครื่องบนอุปกรณ์ของคุณ

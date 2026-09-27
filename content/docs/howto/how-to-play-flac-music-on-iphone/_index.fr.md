@@ -34,7 +34,7 @@ Flacbox est un lecteur de musique haute résolution pour iPhone, iPad et Mac. Il
 
 Flacbox se télécharge gratuitement et fonctionne sur iPhone, iPad et Mac.
 
-{{< ls-app-details product="flacbox" >}}
+{{< ls-app-details product="flacbox" notes="false" >}}
 
 ### Étape 2. Importer vos fichiers FLAC
 
@@ -127,7 +127,7 @@ Quand vous voulez emporter votre musique, le gestionnaire de téléchargements i
 
 Flacbox se télécharge gratuitement. Premium supprime les limites de la version gratuite sur les comptes cloud, les playlists et les dossiers hors ligne, et il est disponible sous forme d'achat unique à vie ou d'abonnement mensuel ou annuel, avec le Partage familial.
 
-{{< ls-app-details product="flacbox" >}}
+{{< ls-app-details product="flacbox" notes="false" >}}
 
 ## Option 2 : convertir le FLAC en ALAC pour l'application Musique
 

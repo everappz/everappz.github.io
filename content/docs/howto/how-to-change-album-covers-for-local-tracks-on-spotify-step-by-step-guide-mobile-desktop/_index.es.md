@@ -24,10 +24,7 @@ Para facilitar las cosas, mostraremos cómo editar las carátulas de álbumes us
 
 Comienza descargando la app **Evertag** de la App Store. Es gratuita y está disponible tanto para **iOS** como para **macOS**.
 
-{{< cards cols="2">}}
-{{< ls-card link="https://apps.apple.com/app/apple-store/id1450763230?pt=95781850&ct=everappzcom&mt=8" title="Evertag para iOS" icon="download" tag="Free" >}}
-{{< ls-card link="https://apps.apple.com/app/apple-store/id1594027661?pt=95781850&ct=everappzcom&mt=8" title="Evertag para macOS" icon="download" tag="Free" >}}
-{{< /cards >}}
+{{< ls-app-details ids="1450763230, 1594027661" notes="false" >}}
 
 ## Activar la biblioteca local en Spotify
 

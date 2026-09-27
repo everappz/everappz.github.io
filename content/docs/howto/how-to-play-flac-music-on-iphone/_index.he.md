@@ -34,7 +34,7 @@ Flacbox הוא נגן מוזיקה ברזולוציה גבוהה לאייפון,
 
 Flacbox ניתן להורדה בחינם ופועל באייפון, באייפד וב-Mac.
 
-{{< ls-app-details product="flacbox" >}}
+{{< ls-app-details product="flacbox" notes="false" >}}
 
 ### שלב 2. הכנסת קבצי ה-FLAC שלכם
 
@@ -127,7 +127,7 @@ Flacbox כולל אקולייזר גרפי 10 פסים עם presets בסגנון
 
 Flacbox ניתן להורדה בחינם. Premium מסיר את מגבלות הגרסה החינמית על חשבונות ענן, רשימות השמעה ותיקיות לא מקוונות, והוא זמין כרכישה חד-פעמית לכל החיים או כמנוי חודשי או שנתי, עם שיתוף משפחתי.
 
-{{< ls-app-details product="flacbox" >}}
+{{< ls-app-details product="flacbox" notes="false" >}}
 
 ## אפשרות 2: המרת FLAC ל-ALAC עבור אפליקציית המוזיקה
 

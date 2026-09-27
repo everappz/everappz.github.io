@@ -145,10 +145,7 @@ Kodi ตอนนี้ทำงานเป็นเซิร์ฟเวอร
 
 ทั้งสองแอปมีให้สำหรับ **iOS** และ **macOS** และใช้ได้ฟรี
 
-{{< cards cols="1">}}
-{{< ls-card link="https://apps.apple.com/app/apple-store/id885367198?pt=95781850&ct=everappzcom&mt=8" title="ดาวน์โหลด Evermusic" icon="download" tag="Free" >}}
-{{< ls-card link="https://apps.apple.com/app/apple-store/id1097564256?pt=95781850&ct=everappzcom&mt=8" title="ดาวน์โหลด Flacbox" icon="download" tag="Free" >}}
-{{< /cards >}}
+{{< ls-app-details ids="885367198, 1097564256" notes="false" >}}
 
 ## เพิ่มแหล่ง DLNA
 
@@ -296,10 +293,7 @@ Evermusic จะแสดงโฟลเดอร์คลังที่แช�
 
 ไม่ว่าคุณจะเป็นนักฟังเสียงหรือผู้ฟังทั่วไป Evermusic และ Flacbox มอบทุกสิ่งที่คุณต้องการสำหรับการสตรีมและจัดระเบียบเพลงอย่างราบรื่น
 
-{{< cards cols="1">}}
-{{< ls-card link="https://apps.apple.com/app/apple-store/id885367198?pt=95781850&ct=everappzcom&mt=8" title="ดาวน์โหลด Evermusic" icon="download" tag="Free" >}}
-{{< ls-card link="https://apps.apple.com/app/apple-store/id1097564256?pt=95781850&ct=everappzcom&mt=8" title="ดาวน์โหลด Flacbox" icon="download" tag="Free" >}}
-{{< /cards >}}
+{{< ls-app-details ids="885367198, 1097564256" notes="false" >}}
 
 เริ่มสร้างประสบการณ์เพลงส่วนตัวของคุณวันนี้
 

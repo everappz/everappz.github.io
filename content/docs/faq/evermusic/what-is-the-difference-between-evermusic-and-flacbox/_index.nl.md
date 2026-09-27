@@ -11,7 +11,7 @@ Evermusic en Flacbox zijn twee geavanceerde muziekspelers van Everappz voor iPho
 
 **Kort antwoord:** kies **Evermusic** als je de soepelste allround luisterervaring wilt, naadloze gapless- en crossfade-overgangen, en toegang tot je Apple Music-bibliotheek. Kies **Flacbox** als je een audiofiel bent die diepgaande geluidsvormgeving wil (een effectenrack en een DSP-keten), een selecteerbare professionele audio-engine, en maximale dekking van hi-res- en lossless-formaten, inclusief DSD, APE en WavPack.
 
-{{< ls-app-details ids="885367198, 1097564256" >}}
+{{< ls-app-details ids="885367198, 1097564256" notes="false" >}}
 
 ## Functievergelijkingstabel
 

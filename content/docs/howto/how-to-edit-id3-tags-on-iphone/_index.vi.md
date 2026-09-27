@@ -20,18 +20,13 @@ Khi bạn nhập bài hát vào thư viện nhạc, chúng được nhóm thông
 
 Trong khi nhiều ứng dụng desktop cung cấp chỉnh sửa siêu dữ liệu, Evermusic và Flacbox đưa sự đơn giản lên tầm cao mới bằng cách tích hợp trình chỉnh sửa thẻ ID3. Giờ đây, bạn có thể sử dụng một ứng dụng duy nhất để xây dựng thư viện nhạc, thưởng thức các bản nhạc và sửa thẻ âm thanh.
 
-{{< cards cols="2">}}
-{{< ls-card link="https://apps.apple.com/app/apple-store/id885367198?pt=95781850&ct=everappzcom&mt=8" title="Tải Evermusic" icon="download" tag="Free" >}}
-{{< ls-card link="https://apps.apple.com/app/apple-store/id1097564256?pt=95781850&ct=everappzcom&mt=8" title="Tải Flacbox" icon="download" tag="Free" >}}
-{{< /cards >}}
+{{< ls-app-details ids="885367198, 1097564256" notes="false" >}}
 
 ## Trình chỉnh sửa chuyên nghiệp
 
 Nhưng trước khi bắt đầu, hãy xem ứng dụng **Evertag** — hỗ trợ **hơn 120 thẻ âm thanh**, **hơn 30 định dạng âm thanh** và cung cấp **chỉnh sửa hàng loạt** mạnh mẽ. Nếu bạn đang tìm kiếm công cụ quản lý thẻ đầy đủ tính năng, Evertag là lựa chọn phù hợp. Tuy nhiên, nếu bạn chỉ cần một **trình chỉnh sửa thẻ đơn giản**, hãy tiếp tục với hướng dẫn này.
 
-{{< cards >}}
-{{< ls-card link="https://apps.apple.com/app/apple-store/id1450763230?pt=95781850&ct=everappzcom&mt=8" title="Tải Evertag" icon="download" tag="Free" >}}
-{{< /cards >}}
+{{< ls-app-details ids="1450763230" notes="false" >}}
 
 
 ## Kết nối tài khoản đám mây  

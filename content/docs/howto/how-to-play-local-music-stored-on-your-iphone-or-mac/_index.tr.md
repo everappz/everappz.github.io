@@ -23,12 +23,7 @@ Apple cihazlarinizda yerel muziginizi sorunsuz bir sekilde oynatmak icin yontem 
 
 iPhone ve Mac'inizde yerel muzik dunyasina yolculugunuza baslamak icin Evermusic (mp3 ve wav gibi standart ses formatlari icin) veya Flacbox (dsd ve flac'da kayipsiz muzik icin) yukleyerek baslayin. Her iki uygulama da iOS ve MacOS icin mevcuttur ve ucretsiz olarak indirebilirsiniz.
 
-{{< cards >}}
-  {{< ls-card link="https://apps.apple.com/us/app/evermusic-cloud-music-player/id885367198?pt=95781850&ct=everappzcom&mt=8" title="iOS icin Evermusic'i Indirin" tag="iOS" >}}
-  {{< ls-card link="https://apps.apple.com/us/app/flacbox-hi-res-equalizer/id1097564256?pt=95781850&ct=everappzcom&mt=8" title="iOS icin Flacbox'i Indirin" tag="iOS" >}}
-  {{< ls-card link="https://apps.apple.com/us/app/evermusic-hi-res-music-player/id1564384601?pt=95781850&ct=everappzcom&mt=8" title="Mac icin Evermusic'i Indirin" tag="macOS" >}}
-  {{< ls-card link="https://apps.apple.com/us/app/flacbox-hi-res-music-player/id1594027432?pt=95781850&ct=everappzcom&mt=8" title="Mac icin Flacbox'i Indirin" tag="macOS" >}}
-{{< /cards >}}
+{{< ls-app-details ids="885367198, 1097564256, 1564384601, 1594027432" notes="false" >}}
 
 
 ## Adim 2: Cihazinizdaki Yerel Dosyalari Oynatma

@@ -124,10 +124,7 @@ Klik **Download Playlist** untuk menyimpan fail `.m3u` ke peranti anda. Tiada lo
 
 Untuk memainkan fail `.m3u` yang dimuat turun pada peranti Apple anda, gunakan aplikasi **Evermusic** (muat turun percuma):
 
-{{< cards cols="1">}}
-{{< ls-card link="https://apps.apple.com/app/apple-store/id1564384601?pt=95781850&ct=everappzcom&mt=8" title="Evermusic macOS" icon="download" tag="Free" >}}
-{{< ls-card link="https://apps.apple.com/app/apple-store/id885367198?pt=95781850&ct=everappzcom&mt=8" title="Evermusic iOS" icon="download" tag="Free" >}}
-{{< /cards >}}
+{{< ls-app-details ids="1564384601, 885367198" notes="false" >}}
 
 ### 1. Buka Evermusic dan Pergi ke Senarai Main
 

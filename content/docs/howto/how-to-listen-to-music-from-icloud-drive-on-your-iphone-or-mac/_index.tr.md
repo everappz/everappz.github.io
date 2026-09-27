@@ -28,19 +28,13 @@ iPhone veya Mac'inizde iCloud Drive müziğinizin keyfini çıkarmaya başlamada
 
 1. App Store'a gidin ve müzikleriniz mp3 veya wav gibi standart ses formatlarında depolanmışsa **Evermusic** uygulamasını indirin. Kayıpsız müzikleriniz dsd veya flac formatındaysa **Flacbox** uygulamasını tercih edin. Her iki uygulama da iOS ve MacOS için mevcuttur.
 
-{{< cards >}}
-  {{< ls-card link="https://apps.apple.com/us/app/evermusic-cloud-music-player/id885367198" title="iOS için Evermusic İndir" icon="download" tag="Ücretsiz" >}}
-  {{< ls-card link="https://apps.apple.com/us/app/flacbox-flac-player-equalizer/id1097564256" title="iOS için Flacbox İndir" icon="download" tag="Ücretsiz" >}}
-{{< /cards >}}
+{{< ls-app-details ids="885367198, 1097564256" notes="false" >}}
 
 - MacOS için:
 
 1. Mac'inizdeki App Store'u ziyaret edin ve müzik format tercihlerinize göre **Evermusic** veya **Flacbox** uygulamasını yükleyin.
 
-{{< cards >}}
-  {{< ls-card link="https://apps.apple.com/us/app/evermusic-cloud-music-player/id1564384601" title="Mac için Evermusic İndir" icon="download" tag="Ücretsiz" >}}
-  {{< ls-card link="https://apps.apple.com/us/app/flacbox-hires-music-player/id1594027432" title="Mac için Flacbox İndir" icon="download" tag="Ücretsiz" >}}
-{{< /cards >}}
+{{< ls-app-details ids="1564384601, 1594027432" notes="false" >}}
 
 Uygulamayı iPhone veya Mac'inize yükledikten sonra devam etmeye hazırsınız.
 

@@ -34,7 +34,7 @@ Flacbox는 아이폰, 아이패드, 맥을 위한 하이레스 음악 플레이�
 
 Flacbox는 무료로 다운로드할 수 있으며 아이폰, 아이패드, 맥에서 실행됩니다.
 
-{{< ls-app-details product="flacbox" >}}
+{{< ls-app-details product="flacbox" notes="false" >}}
 
 ### 2단계. FLAC 파일 가져오기
 
@@ -127,7 +127,7 @@ iCloud Drive, Google Drive, Dropbox, OneDrive, Box, MEGA, pCloud, Proton Drive, 
 
 Flacbox는 무료로 다운로드할 수 있습니다. Premium은 클라우드 계정, 재생 목록, 오프라인 폴더에 대한 무료 버전 제한을 없애며, 일회성 평생 구매 또는 월간 또는 연간 구독으로 제공되고 가족 공유가 가능합니다.
 
-{{< ls-app-details product="flacbox" >}}
+{{< ls-app-details product="flacbox" notes="false" >}}
 
 ## 옵션 2: 음악 앱을 위해 FLAC을 ALAC으로 변환하기
 

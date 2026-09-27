@@ -124,10 +124,7 @@ M3U 재생목록 생성기 웹사이트를 방문하여 시작하세요:
 
 다운로드한 `.m3u` 파일을 Apple 기기에서 재생하려면 **Evermusic** 앱(무료 다운로드)을 사용하세요:
 
-{{< cards cols="1">}}
-{{< ls-card link="https://apps.apple.com/app/apple-store/id1564384601?pt=95781850&ct=everappzcom&mt=8" title="Evermusic macOS" icon="download" tag="Free" >}}
-{{< ls-card link="https://apps.apple.com/app/apple-store/id885367198?pt=95781850&ct=everappzcom&mt=8" title="Evermusic iOS" icon="download" tag="Free" >}}
-{{< /cards >}}
+{{< ls-app-details ids="1564384601, 885367198" notes="false" >}}
 
 ### 1. Evermusic을 열고 재생목록으로 이동
 

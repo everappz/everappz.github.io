@@ -62,7 +62,7 @@ Tym, co różni niebieską i czerwoną wersję, jest **sposób, w jaki są pakow
 
 ### Pobierz z App Store
 
-{{< ls-app-details ids="885367198, 905746421, 1564384601" >}}
+{{< ls-app-details ids="885367198, 905746421, 1564384601" notes="false" >}}
 
 ### Pakowanie w App Store
 

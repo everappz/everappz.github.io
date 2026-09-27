@@ -62,7 +62,7 @@ EvermusicとEvermusic Premiumは、同じ音楽プレーヤーアプリケーシ
 
 ### App Storeでダウンロード
 
-{{< ls-app-details ids="885367198, 905746421, 1564384601" >}}
+{{< ls-app-details ids="885367198, 905746421, 1564384601" notes="false" >}}
 
 ### App Storeのパッケージ化
 

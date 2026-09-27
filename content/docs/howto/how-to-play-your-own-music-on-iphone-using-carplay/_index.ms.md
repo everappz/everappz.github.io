@@ -24,10 +24,7 @@ Dalam panduan ini, kami akan menunjukkan cara menyediakan fail muzik anda untuk 
 
 Aplikasi ini sesuai untuk sesiapa yang mahukan kawalan penuh ke atas pustaka muzik mereka.
 
-{{< cards cols="2">}}
-{{< ls-card link="https://apps.apple.com/app/apple-store/id885367198?pt=95781850&ct=everappzcom&mt=8" title="Muat Turun Evermusic" icon="download" tag="Free" >}}
-{{< ls-card link="https://apps.apple.com/app/apple-store/id1097564256?pt=95781850&ct=everappzcom&mt=8" title="Muat Turun Flacbox" icon="download" tag="Free" >}}
-{{< /cards >}}
+{{< ls-app-details ids="885367198, 1097564256" notes="false" >}}
 
 ## Masukkan Fail ke dalam Aplikasi
 

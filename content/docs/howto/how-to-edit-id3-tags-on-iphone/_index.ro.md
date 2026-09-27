@@ -20,18 +20,13 @@ Când importi melodii în biblioteca ta muzicală, acestea sunt grupate intelige
 
 În timp ce multe aplicații desktop oferă editarea metadatelor, Evermusic și Flacbox duc simplitatea la nivelul următor prin includerea unui editor de etichete ID3. Acum, poți folosi o singură aplicație pentru a construi biblioteca muzicală, a te bucura de piese și a corecta etichetele audio.
 
-{{< cards cols="2">}}
-{{< ls-card link="https://apps.apple.com/app/apple-store/id885367198?pt=95781850&ct=everappzcom&mt=8" title="Descarcă Evermusic" icon="download" tag="Free" >}}
-{{< ls-card link="https://apps.apple.com/app/apple-store/id1097564256?pt=95781850&ct=everappzcom&mt=8" title="Descarcă Flacbox" icon="download" tag="Free" >}}
-{{< /cards >}}
+{{< ls-app-details ids="885367198, 1097564256" notes="false" >}}
 
 ## Editor profesional
 
 Dar înainte de a începe, verifică aplicația **Evertag** — suportă **peste 120 de etichete audio**, **peste 30 de formate audio** și oferă **editare în lot** puternică. Dacă cauți un instrument complet de gestionare a etichetelor, Evertag este alegerea potrivită. Totuși, dacă ai nevoie doar de un **editor simplu de etichete**, continuă cu acest ghid.
 
-{{< cards >}}
-{{< ls-card link="https://apps.apple.com/app/apple-store/id1450763230?pt=95781850&ct=everappzcom&mt=8" title="Descarcă Evertag" icon="download" tag="Free" >}}
-{{< /cards >}}
+{{< ls-app-details ids="1450763230" notes="false" >}}
 
 
 ## Conectează contul tău cloud  

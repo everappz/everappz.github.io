@@ -34,7 +34,7 @@ Flacbox iPhone, iPad और Mac के लिए एक हाई-रेस म�
 
 Flacbox मुफ़्त डाउनलोड है और iPhone, iPad और Mac पर चलता है।
 
-{{< ls-app-details product="flacbox" >}}
+{{< ls-app-details product="flacbox" notes="false" >}}
 
 ### चरण 2. अपनी FLAC फ़ाइलें अंदर लाएँ
 
@@ -127,7 +127,7 @@ Flacbox में एक अंतर्निहित म्यूज़िक
 
 Flacbox मुफ़्त डाउनलोड है। Premium क्लाउड खातों, प्लेलिस्ट और ऑफ़लाइन फ़ोल्डर पर मुफ़्त-संस्करण की सीमाओं को हटा देता है, और यह एक बार की आजीवन खरीद या एक मासिक या वार्षिक सब्सक्रिप्शन के रूप में उपलब्ध है, फ़ैमिली शेयरिंग के साथ।
 
-{{< ls-app-details product="flacbox" >}}
+{{< ls-app-details product="flacbox" notes="false" >}}
 
 ## विकल्प 2: Music ऐप के लिए FLAC को ALAC में बदलें
 

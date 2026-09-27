@@ -62,7 +62,7 @@ Evermusic و Evermusic Premium هما نسختان مختلفتان من تطب�
 
 ### التنزيل على App Store
 
-{{< ls-app-details ids="885367198, 905746421, 1564384601" >}}
+{{< ls-app-details ids="885367198, 905746421, 1564384601" notes="false" >}}
 
 ### تغليف App Store
 

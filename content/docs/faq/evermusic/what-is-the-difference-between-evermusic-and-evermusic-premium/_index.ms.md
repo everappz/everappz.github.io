@@ -62,7 +62,7 @@ Apa yang berbeza antara biru dan merah ialah **cara ia dibungkus di App Store**,
 
 ### Muat Turun di App Store
 
-{{< ls-app-details ids="885367198, 905746421, 1564384601" >}}
+{{< ls-app-details ids="885367198, 905746421, 1564384601" notes="false" >}}
 
 ### Pembungkusan App Store
 

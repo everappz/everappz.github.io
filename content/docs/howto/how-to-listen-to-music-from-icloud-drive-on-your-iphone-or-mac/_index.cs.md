@@ -28,19 +28,13 @@ Než budete moci začít užívat hudbu z iCloud Drive na vašem iPhonu nebo Mac
 
 1. Přejděte do App Store a stáhněte **Evermusic**, pokud je vaše hudba uložena ve standardních zvukových formátech jako mp3 nebo wav. Pokud máte bezeztrátovou hudbu ve formátu dsd nebo flac, zvolte **Flacbox**. Obě aplikace jsou dostupné pro iOS a MacOS.
 
-{{< cards >}}
-  {{< ls-card link="https://apps.apple.com/us/app/evermusic-cloud-music-player/id885367198" title="Stáhnout Evermusic pro iOS" icon="download" tag="Zdarma" >}}
-  {{< ls-card link="https://apps.apple.com/us/app/flacbox-flac-player-equalizer/id1097564256" title="Stáhnout Flacbox pro iOS" icon="download" tag="Zdarma" >}}
-{{< /cards >}}
+{{< ls-app-details ids="885367198, 1097564256" notes="false" >}}
 
 - Pro MacOS:
 
 1. Navštivte App Store na vašem Macu a nainstalujte **Evermusic** nebo **Flacbox** podle vašich preferencí hudebních formátů.
 
-{{< cards >}}
-  {{< ls-card link="https://apps.apple.com/us/app/evermusic-cloud-music-player/id1564384601" title="Stáhnout Evermusic pro Mac" icon="download" tag="Zdarma" >}}
-  {{< ls-card link="https://apps.apple.com/us/app/flacbox-hires-music-player/id1594027432" title="Stáhnout Flacbox pro Mac" icon="download" tag="Zdarma" >}}
-{{< /cards >}}
+{{< ls-app-details ids="1564384601, 1594027432" notes="false" >}}
 
 Jakmile nainstalujete aplikaci na svůj iPhone nebo Mac, jste připraveni pokračovat.
 

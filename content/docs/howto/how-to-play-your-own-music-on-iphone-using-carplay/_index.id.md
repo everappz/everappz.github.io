@@ -24,10 +24,7 @@ Dalam panduan ini, kami akan menunjukkan cara menyiapkan file musik untuk CarPla
 
 Aplikasi ini sempurna untuk siapa saja yang menginginkan kontrol penuh atas perpustakaan musik mereka.
 
-{{< cards cols="2">}}
-{{< ls-card link="https://apps.apple.com/app/apple-store/id885367198?pt=95781850&ct=everappzcom&mt=8" title="Unduh Evermusic" icon="download" tag="Free" >}}
-{{< ls-card link="https://apps.apple.com/app/apple-store/id1097564256?pt=95781850&ct=everappzcom&mt=8" title="Unduh Flacbox" icon="download" tag="Free" >}}
-{{< /cards >}}
+{{< ls-app-details ids="885367198, 1097564256" notes="false" >}}
 
 ## Masukkan File ke Aplikasi
 

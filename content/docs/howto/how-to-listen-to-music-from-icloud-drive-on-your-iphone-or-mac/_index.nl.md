@@ -28,19 +28,13 @@ Voordat je kunt beginnen met het genieten van je iCloud Drive-muziek op je iPhon
 
 1. Ga naar de App Store en download **Evermusic** als je muziek is opgeslagen in standaard audioformaten zoals mp3 of wav. Als je lossless muziek hebt in dsd of flac, kies dan voor **Flacbox**. Beide apps zijn beschikbaar voor iOS en MacOS.
 
-{{< cards >}}
-  {{< ls-card link="https://apps.apple.com/us/app/evermusic-cloud-music-player/id885367198" title="Download Evermusic voor iOS" icon="download" tag="Gratis" >}}
-  {{< ls-card link="https://apps.apple.com/us/app/flacbox-flac-player-equalizer/id1097564256" title="Download Flacbox voor iOS" icon="download" tag="Gratis" >}}
-{{< /cards >}}
+{{< ls-app-details ids="885367198, 1097564256" notes="false" >}}
 
 - Voor MacOS:
 
 1. Bezoek de App Store op je Mac en installeer **Evermusic** of **Flacbox** op basis van je muziekformaatvoorkeuren.
 
-{{< cards >}}
-  {{< ls-card link="https://apps.apple.com/us/app/evermusic-cloud-music-player/id1564384601" title="Download Evermusic voor Mac" icon="download" tag="Gratis" >}}
-  {{< ls-card link="https://apps.apple.com/us/app/flacbox-hires-music-player/id1594027432" title="Download Flacbox voor Mac" icon="download" tag="Gratis" >}}
-{{< /cards >}}
+{{< ls-app-details ids="1564384601, 1594027432" notes="false" >}}
 
 Zodra je de app op je iPhone of Mac hebt geïnstalleerd, ben je klaar om verder te gaan.
 

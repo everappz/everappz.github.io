@@ -28,19 +28,13 @@ iPhone 또는 Mac에서 iCloud Drive 음악을 즐기기 전에 적합한 앱을
 
 1. App Store로 이동하여 음악이 mp3 또는 wav와 같은 표준 오디오 형식으로 저장되어 있다면 **Evermusic**을 다운로드하세요. dsd 또는 flac의 무손실 음악이 있다면 **Flacbox**를 선택하세요. 두 앱 모두 iOS 및 MacOS에서 사용할 수 있습니다.
 
-{{< cards >}}
-  {{< ls-card link="https://apps.apple.com/us/app/evermusic-cloud-music-player/id885367198" title="iOS용 Evermusic 다운로드" icon="download" tag="무료" >}}
-  {{< ls-card link="https://apps.apple.com/us/app/flacbox-flac-player-equalizer/id1097564256" title="iOS용 Flacbox 다운로드" icon="download" tag="무료" >}}
-{{< /cards >}}
+{{< ls-app-details ids="885367198, 1097564256" notes="false" >}}
 
 - MacOS의 경우:
 
 1. Mac의 App Store를 방문하여 음악 형식에 따라 **Evermusic** 또는 **Flacbox**를 설치하세요.
 
-{{< cards >}}
-  {{< ls-card link="https://apps.apple.com/us/app/evermusic-cloud-music-player/id1564384601" title="Mac용 Evermusic 다운로드" icon="download" tag="무료" >}}
-  {{< ls-card link="https://apps.apple.com/us/app/flacbox-hires-music-player/id1594027432" title="Mac용 Flacbox 다운로드" icon="download" tag="무료" >}}
-{{< /cards >}}
+{{< ls-app-details ids="1564384601, 1594027432" notes="false" >}}
 
 iPhone 또는 Mac에 앱을 설치했으면 다음 단계로 진행할 준비가 된 것입니다.
 

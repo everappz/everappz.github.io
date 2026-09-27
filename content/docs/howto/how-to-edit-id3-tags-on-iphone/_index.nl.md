@@ -20,18 +20,13 @@ Wanneer je nummers importeert in je muziekbibliotheek, worden ze intelligent geg
 
 Terwijl veel desktop-apps metadata-bewerking bieden, tillen Evermusic en Flacbox eenvoud naar een hoger niveau door een ID3-tag-editor op te nemen. Nu kun je één app gebruiken om je muziekbibliotheek op te bouwen, van je tracks te genieten en audiotags te corrigeren.
 
-{{< cards cols="2">}}
-{{< ls-card link="https://apps.apple.com/app/apple-store/id885367198?pt=95781850&ct=everappzcom&mt=8" title="Download Evermusic" icon="download" tag="Free" >}}
-{{< ls-card link="https://apps.apple.com/app/apple-store/id1097564256?pt=95781850&ct=everappzcom&mt=8" title="Download Flacbox" icon="download" tag="Free" >}}
-{{< /cards >}}
+{{< ls-app-details ids="885367198, 1097564256" notes="false" >}}
 
 ## Professionele editor
 
 Maar voordat je begint, bekijk de **Evertag**-app — deze ondersteunt **120+ audiotags**, **30+ audioformaten** en biedt krachtige **batchbewerking**. Als je op zoek bent naar een volledig uitgerust tagbeheertool, is Evertag de juiste keuze. Als je echter alleen een **eenvoudige tag-editor** nodig hebt, ga dan verder met deze handleiding.
 
-{{< cards >}}
-{{< ls-card link="https://apps.apple.com/app/apple-store/id1450763230?pt=95781850&ct=everappzcom&mt=8" title="Download Evertag" icon="download" tag="Free" >}}
-{{< /cards >}}
+{{< ls-app-details ids="1450763230" notes="false" >}}
 
 
 ## Verbind je cloudaccount  

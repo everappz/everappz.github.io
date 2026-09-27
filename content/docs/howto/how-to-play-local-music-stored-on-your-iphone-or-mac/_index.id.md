@@ -23,12 +23,7 @@ Kami akan menjelajahi metode dan alat untuk memutar musik lokal Anda dengan mulu
 
 Untuk memulai perjalanan Anda ke dunia musik lokal di iPhone dan Mac Anda, mulailah dengan menginstal Evermusic (untuk format audio standar seperti mp3 dan wav) atau Flacbox (untuk musik lossless dalam format dsd dan flac). Kedua aplikasi ini tersedia untuk iOS dan macOS, dan Anda dapat mengunduhnya secara gratis.
 
-{{< cards >}}
-  {{< ls-card link="https://apps.apple.com/us/app/evermusic-cloud-music-player/id885367198?pt=95781850&ct=everappzcom&mt=8" title="Unduh Evermusic untuk iOS" tag="iOS" >}}
-  {{< ls-card link="https://apps.apple.com/us/app/flacbox-hi-res-equalizer/id1097564256?pt=95781850&ct=everappzcom&mt=8" title="Unduh Flacbox untuk iOS" tag="iOS" >}}
-  {{< ls-card link="https://apps.apple.com/us/app/evermusic-hi-res-music-player/id1564384601?pt=95781850&ct=everappzcom&mt=8" title="Unduh Evermusic untuk Mac" tag="macOS" >}}
-  {{< ls-card link="https://apps.apple.com/us/app/flacbox-hi-res-music-player/id1594027432?pt=95781850&ct=everappzcom&mt=8" title="Unduh Flacbox untuk Mac" tag="macOS" >}}
-{{< /cards >}}
+{{< ls-app-details ids="885367198, 1097564256, 1564384601, 1594027432" notes="false" >}}
 
 
 ## Langkah 2: Memutar File Lokal yang Ada di Perangkat Anda
