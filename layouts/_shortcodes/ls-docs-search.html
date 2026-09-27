@@ -11,6 +11,7 @@
 */ -}}
 {{- $placeholder := .Get "placeholder" | default (T "searchDocsPlaceholder") | default "Search documentation, frequently asked questions, how-to guides…" -}}
 <div class="ls-docs-search-wrapper">
+  {{- partial "utils/icon.html" (dict "name" "search" "attributes" `class="ls-docs-search-icon" focusable="false" aria-hidden="true"`) -}}
   <input
     class="ls-docs-search-input"
     type="search"
