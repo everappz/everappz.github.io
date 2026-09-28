@@ -1,5 +1,155 @@
 [
   {
+    "country": "pl",
+    "id": "14596568469",
+    "author": "Stachu13",
+    "rating": 5,
+    "title": "Problem na słuchawkach",
+    "content": "Problem w programie przez słuchawki same piski bez muzyki a normalnie działa ok nowy iOS na tel",
+    "date": "2026-09-26T11:09:18-07:00",
+    "version": "8.9"
+  },
+  {
+    "country": "tr",
+    "id": "14594758964",
+    "author": "telefonhan",
+    "rating": 5,
+    "title": "Brawo",
+    "content": "Tebrikler gerçekten çok iyi 👍👏",
+    "date": "2026-09-26T08:21:02.000Z",
+    "version": null
+  },
+  {
+    "country": "jp",
+    "id": "14594542537",
+    "author": "アンチサルモネラ",
+    "rating": 5,
+    "title": "フォルダ管理可能",
+    "content": "自分のPCで管理しているフォルダ構造そのまま放り込んで扱えるのがGood。タグとか付くようになる前から持っている古い音楽ファイルでも整理された状態で操作できるので最近はこればかり使っている。",
+    "date": "2026-09-25T23:50:07-07:00",
+    "version": "8.9"
+  },
+  {
+    "country": "jp",
+    "id": "14593694033",
+    "author": "ろん2012",
+    "rating": 5,
+    "title": "使いやすい",
+    "content": "mp3曲多数をモバイル端末に保管しています。全て、ever musicであれば快適にオフラインで再生出来るので助かっています",
+    "date": "2026-09-25T17:56:36-07:00",
+    "version": "8.9"
+  },
+  {
+    "country": "br",
+    "id": "14593309498",
+    "author": "cafecombolo",
+    "rating": 5,
+    "title": "Excelente!",
+    "content": "Podem adquirir o aplicativo! É simplesmente o melhor!",
+    "date": "2026-09-25T15:22:14-07:00",
+    "version": "8.9"
+  },
+  {
+    "country": "de",
+    "id": "14592970532",
+    "author": "iPhone_user_77",
+    "rating": 5,
+    "title": "Keine Ki Bewertung !",
+    "content": "Ich nutze die App seit Jahren für Hörbücher. Im schnitt höre ich 2 Hörbücher im Monat bin also gut bei. Per usb Stick am Handy (iPhone) Daten aufs Handy ziehen und in der App neu sortieren und los geht’s.",
+    "date": "2026-09-25T13:09:14-07:00",
+    "version": "8.9"
+  },
+  {
+    "country": "ru",
+    "id": "14591655871",
+    "author": "hahlimas",
+    "rating": 5,
+    "title": "Удобный интерфейс",
+    "content": "Всё прекрасно, максимально просто как в самом обычном мп3 плеере, перешёл с AIMP для ПК и функционала вполне достаточно, всё как в старые времена, закинул музыку и спокойно слушаешь",
+    "date": "2026-09-25T06:14:46-07:00",
+    "version": "8.9"
+  },
+  {
+    "country": "do",
+    "id": "14590482340",
+    "author": "Fhersix",
+    "rating": 5,
+    "title": "Fhersix",
+    "content": "The best player",
+    "date": "2026-09-24T22:41:59-07:00",
+    "version": "8.9"
+  },
+  {
+    "country": "gb",
+    "id": "14588145009",
+    "author": "JCHTsang",
+    "rating": 4,
+    "title": "App crash",
+    "content": "The app is good, but it crashes after I’ve upgraded my iPhone to iOS 27.2. The issue was reported but nobody has responded. I’ve cancelled my annual subscription.",
+    "date": "2026-09-24T08:04:15-07:00",
+    "version": "8.8"
+  },
+  {
+    "country": "at",
+    "id": "14587332178",
+    "author": "XxTHERYOxX",
+    "rating": 1,
+    "title": "Crash",
+    "content": "Crash…please update! Ios27.2 not running this app…",
+    "date": "2026-09-24T03:55:22-07:00",
+    "version": "8.8"
+  },
+  {
+    "country": "nl",
+    "id": "14585724842",
+    "author": "alicetastic",
+    "rating": 4,
+    "title": "the app keeps crashing",
+    "content": "i am on ios 27.2",
+    "date": "2026-09-23T16:15:51-07:00",
+    "version": "8.8"
+  },
+  {
+    "country": "it",
+    "id": "14585718010",
+    "author": "MorbiduzZ..",
+    "rating": 4,
+    "title": "stopped working",
+    "content": "On iOS 27.2 it stopped working, it crash at start",
+    "date": "2026-09-23T16:12:59-07:00",
+    "version": "8.8"
+  },
+  {
+    "country": "br",
+    "id": "14583483683",
+    "author": "Raniere30",
+    "rating": 5,
+    "title": "Não abre no IOS 27.2 Beta",
+    "content": "Execelente aplicativo de musicas mas: \n\nApp não está abrindo no iphone\n- Evermusic Pro\n- Evermusic \n- Flacbox\n\nNenhum desses estão abrindo no iphone \n\nNo Carplay ok ele funciona \n\nAplicativo para músicas ótimo mas está com esse problema ok",
+    "date": "2026-09-23T03:50:13-07:00",
+    "version": "8.8"
+  },
+  {
+    "country": "tw",
+    "id": "14582504144",
+    "author": "L.K-C",
+    "rating": 4,
+    "title": "藍芽耳機控制失靈",
+    "content": "藍芽耳機已無法控制前後首歌的選擇",
+    "date": "2026-09-22T20:33:34-07:00",
+    "version": "8.8"
+  },
+  {
+    "country": "in",
+    "id": "14575283932",
+    "author": "Swordalfaisal",
+    "rating": 1,
+    "title": "Glitchy app bad support",
+    "content": "Very glitch and buggy app i purchase lifetime subscription to get full benefits but what i get is bugs for example offline library not update automatically when adding new media on the linked folder , and some playlist i created not work offline despite that i chose offline mode… the player also very buggy the shuffle playing not work i must turn the repeat same song off manually every time i play my playlist , the settings are very confused and not clear.",
+    "date": "2026-09-21T00:26:42-07:00",
+    "version": "8.8"
+  },
+  {
     "country": "co",
     "id": "14570532289",
     "author": "nicopresa",

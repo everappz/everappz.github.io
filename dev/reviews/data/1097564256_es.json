@@ -528,5 +528,15 @@
     "content": "Tiene publicidad",
     "date": "2026-07-21T12:36:02-07:00",
     "version": "7.5"
+  },
+  {
+    "country": "es",
+    "id": "14580391527",
+    "author": "amarcosv",
+    "rating": 3,
+    "title": "Se cierra",
+    "content": "Se cierra al abrir la app.",
+    "date": "2026-09-22T08:00:06-07:00",
+    "version": "7.6"
   }
 ]

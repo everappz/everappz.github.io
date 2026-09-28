@@ -348,5 +348,15 @@
     "content": "After your 'big' update songs next songs don't work properly, title not displayed, and after like 3 songs the playlist goes to beginning",
     "date": "2026-07-27T01:12:46-07:00",
     "version": "7.6"
+  },
+  {
+    "country": "pl",
+    "id": "14578713771",
+    "author": "janusz.g415",
+    "rating": 1,
+    "title": "Flacbox",
+    "content": "iPhone 14 Max pro nie działa. Nie można nawet jej uruchomić. Wykupiona subskrypcja a apka nie działa.",
+    "date": "2026-09-21T21:10:34-07:00",
+    "version": "7.6"
   }
 ]

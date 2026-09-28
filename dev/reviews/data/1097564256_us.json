@@ -978,5 +978,35 @@
     "content": "I bought the trial version, then went premium. It carried over to my new phone. Great quality, easy to use. Would recommend.",
     "date": "2026-08-03T04:23:31-07:00",
     "version": "7.6"
+  },
+  {
+    "country": "us",
+    "id": "14593045646",
+    "author": "Forgets rooms and deletes jobs",
+    "rating": 3,
+    "title": "Loses recording position",
+    "content": "The app usually works well, but when listening to a long recording, a commercial will pop up. This in itself is not an issue, but it doesn’t resume where it left off and instead starts from the beginning of the recording",
+    "date": "2026-09-25T13:37:38-07:00",
+    "version": "7.6"
+  },
+  {
+    "country": "us",
+    "id": "14581090996",
+    "author": "-Ronny",
+    "rating": 5,
+    "title": "Music haptics",
+    "content": "This is all what the app needs ! This is an amazing app by far if not better than VLC because of its features and sound quality as well but need music haptics.",
+    "date": "2026-09-22T11:39:15-07:00",
+    "version": "7.6"
+  },
+  {
+    "country": "us",
+    "id": "14574228166",
+    "author": "Max!m!x",
+    "rating": 5,
+    "title": "Does not work",
+    "content": "The app isn’t working after the update. iOS  27.2",
+    "date": "2026-09-20T16:48:01-07:00",
+    "version": "7.6"
   }
 ]

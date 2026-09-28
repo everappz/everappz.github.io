@@ -528,5 +528,15 @@
     "content": "una ciofeca assoluta, piena di bachi e la connessione con dropbox non funziona… ho provato a disinstallare e reinstallare diverse volte ma nulla. una perdita di tempo assoluta",
     "date": "2026-09-08T03:11:36-07:00",
     "version": "8.8"
+  },
+  {
+    "country": "it",
+    "id": "14585718010",
+    "author": "MorbiduzZ..",
+    "rating": 4,
+    "title": "stopped working",
+    "content": "On iOS 27.2 it stopped working, it crash at start",
+    "date": "2026-09-23T16:12:59-07:00",
+    "version": "8.8"
   }
 ]

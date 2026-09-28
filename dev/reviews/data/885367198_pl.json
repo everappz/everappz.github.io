@@ -428,5 +428,15 @@
     "content": "Aplikacja dla fascynatów ustawień. Bardzo nieintuicyjne to wszystko. Plus dodawanie mojej biblioteki (ok 1,5T) zajmie pewnie z miesiąc. A uruchomienie playlisty z około 160 piosenkami trwa ponad minutę. Plus za Last Fm ale to wszystko.",
     "date": "2026-08-26T01:28:46-07:00",
     "version": "8.8"
+  },
+  {
+    "country": "pl",
+    "id": "14596568469",
+    "author": "Stachu13",
+    "rating": 5,
+    "title": "Problem na słuchawkach",
+    "content": "Problem w programie przez słuchawki same piski bez muzyki a normalnie działa ok nowy iOS na tel",
+    "date": "2026-09-26T11:09:18-07:00",
+    "version": "8.9"
   }
 ]
