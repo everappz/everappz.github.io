@@ -1,5 +1,75 @@
 [
   {
+    "country": "jp",
+    "id": "14628564745",
+    "author": "Kaneki, Ken",
+    "rating": 1,
+    "title": "Recurring bug and awkward interface",
+    "content": "All three ‘Ever…’ players have the same recurring bug: when you start listening to an album, the MP3 files don’t start from the beginning but from wherever you supposedly pressed the ‘Stop’ button previously. This ‘feature’ is absolutely annoying, and they haven’t fixed it since at least 2021.\nAlso, they changed the interface having made it awkward.",
+    "date": "2026-10-04T16:18:12-07:00",
+    "version": "8.9"
+  },
+  {
+    "country": "au",
+    "id": "14619012957",
+    "author": "Bilharzia Schistosomiasis",
+    "rating": 5,
+    "title": "110% AWESOME APP ON IPHONE",
+    "content": "I am so happy using this app on an iPhone 15 PRO MAX w IOS 27.1. Works flawlessly I love all the audio settings and EQ.   I am also using a QUESTYLE PRO 2 DONGLE in my phones usb c port and the volume output level and sound quality has doubled when playing music through this app compared to the APPLE MUSIC APP and VLC APP",
+    "date": "2026-10-02T07:10:11-07:00",
+    "version": "8.9"
+  },
+  {
+    "country": "es",
+    "id": "14605973234",
+    "author": "Es muy buena, me gusta",
+    "rating": 5,
+    "title": "Buena aplicación",
+    "content": "Genial funciona perfectamente gracias sigan mejorando",
+    "date": "2026-09-28T22:26:45-07:00",
+    "version": "8.9"
+  },
+  {
+    "country": "ua",
+    "id": "14601014536",
+    "author": "Mandible @1",
+    "rating": 5,
+    "title": "Pley music",
+    "content": "Дякую вам знайшов те що я хотів бо так як стандартний дуже класний но потрібна підписка надіюсь буде такий самий як і його стандартний працюйте у тім ж дусі",
+    "date": "2026-09-27T13:59:39-07:00",
+    "version": "8.9"
+  },
+  {
+    "country": "in",
+    "id": "14584736756",
+    "author": "hhhhhhhhh🦊🦊🦊🦊🦊🦊",
+    "rating": 1,
+    "title": "My app is not opening",
+    "content": "Kindly fix my app, I can’t open it",
+    "date": "2026-09-23T10:11:24-07:00",
+    "version": "8.8"
+  },
+  {
+    "country": "br",
+    "id": "14577666025",
+    "author": "Raniere30",
+    "rating": 5,
+    "title": "Não está abrindo o APP, usando IOS 27.2 beta",
+    "content": "Execelente aplicativo de musicas mas: \n\nApp não está abrindo no iphone\n- Evermusic Pro\n- Evermusic \n- Flacbox\n\nNenhum desses estão abrindo no iphone \n\nNo Carplay ok ele funciona \n\nAplicativo para músicas ótimo mas está com esse problema ok",
+    "date": "2026-09-21T14:09:58-07:00",
+    "version": "8.8"
+  },
+  {
+    "country": "no",
+    "id": "14572785123",
+    "author": "Kroksland",
+    "rating": 4,
+    "title": "K",
+    "content": "Fungerer veldig bra. Men husk posisjon fungerer ikke så bra.,Kan være kompatibilitetsfeil med ios27, har ikke testet på noe annet",
+    "date": "2026-09-20T08:46:33-07:00",
+    "version": "8.8"
+  },
+  {
     "country": "th",
     "id": "14571516827",
     "author": "N0nkilleR",
@@ -3337,6 +3407,16 @@
     "title": "Einfach und sehr gut",
     "content": "Sehr gute App und leicht zu bedienen",
     "date": "2020-03-03T15:20:28-07:00",
+    "version": "4.0"
+  },
+  {
+    "country": "ru",
+    "id": "5598333653",
+    "author": "LazyTool",
+    "rating": 5,
+    "title": "Хорошая замена Lazy Tool 2",
+    "content": "Хорошая замена Lazy Tool 2! Хоть и без возможности скачивания треков напрямую, но в качестве хранения и прослушивания я лучше не нашёл!",
+    "date": "2020-02-29T13:05:09-07:00",
     "version": "4.0"
   },
   {

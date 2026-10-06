@@ -708,5 +708,25 @@
     "content": "Peak app I love it, no I’m not a bot",
     "date": "2026-09-22T20:12:09-07:00",
     "version": "4.3"
+  },
+  {
+    "country": "us",
+    "id": "14627971859",
+    "author": "UnsatisfiedStill",
+    "rating": 1,
+    "title": "Tough to say what it does",
+    "content": "Other than just put a spinning icon on the screen.",
+    "date": "2026-10-04T12:33:24-07:00",
+    "version": "4.3"
+  },
+  {
+    "country": "us",
+    "id": "14604247794",
+    "author": "skullyfoo",
+    "rating": 5,
+    "title": "It’s cool",
+    "content": "I use this to add songs to my spotify local files",
+    "date": "2026-09-28T10:54:23-07:00",
+    "version": "4.3"
   }
 ]

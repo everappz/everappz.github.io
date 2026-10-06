@@ -298,5 +298,15 @@
     "content": "Me cambió la forma de escuchar mis canciones preferidas en mi carro sin pagar",
     "date": "2026-08-26T02:03:30-07:00",
     "version": "8.8"
+  },
+  {
+    "country": "co",
+    "id": "14615374878",
+    "author": "Sleeider",
+    "rating": 4,
+    "title": "se vuela 10 segundos",
+    "content": "Por favor arreglar la aplicación, se entre corta el disco a mitad de la canción, arreglen eso porfavor que es molestoso",
+    "date": "2026-10-01T08:30:40-07:00",
+    "version": "8.9"
   }
 ]

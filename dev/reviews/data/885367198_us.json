@@ -1128,5 +1128,95 @@
     "content": "Keep the audio quality well, based off of how compressed the file is. Good quality and easy to navigate. Didn't pay any attention to the tutorial. Still found what I need to click super easy!! Great app. Will use alot. Got over 600 songs in under an hour!!",
     "date": "2026-08-03T09:57:09-07:00",
     "version": "8.7"
+  },
+  {
+    "country": "us",
+    "id": "14629177221",
+    "author": "HoH SiS enjoyer",
+    "rating": 4,
+    "title": "I like the different sound options, but...",
+    "content": "I love how the audio effects are there, as well as gapless playback, but one thing is missing that I believe this app would benefit from: skipping silence. I assume \"gapless\" means no pauses, but some of my music just has long periods of silence, with me having to wait for the song to replay. Skipping silence would make it much easier, and make it something available for both Sound FX and Standard sound engines! I believe we shouldn't have to trade so many good features on one engine for one good feature on another engine, so why not include it universally? Still a good app, just a recommendation!",
+    "date": "2026-10-04T20:30:51-07:00",
+    "version": "8.9"
+  },
+  {
+    "country": "us",
+    "id": "14606830069",
+    "author": "Avrtta",
+    "rating": 4,
+    "title": "Liquid Glass",
+    "content": "Please bring back the previous Liquid Glass style for the music playback slider. These simple round dots look so outdated, like an old version of iOS, and honestly don’t look good at all. The previous glassy slider was much better!",
+    "date": "2026-09-29T04:46:40-07:00",
+    "version": "8.9"
+  },
+  {
+    "country": "us",
+    "id": "14604814402",
+    "author": "Squírtzle",
+    "rating": 1,
+    "title": "Outdated and clunky interface",
+    "content": "Also, an unskippable tutorial for a basic app? Is your user base comprised of grade schoolers?!",
+    "date": "2026-09-28T14:16:06-07:00",
+    "version": "8.9"
+  },
+  {
+    "country": "us",
+    "id": "14599182963",
+    "author": "Ache abodan",
+    "rating": 4,
+    "title": "Pls take back glass slider",
+    "content": "Hi pls pls pls pls get back to that glassy slider for music is much much better than this simple dot slider it's so little and not fun and glassy pls take back this option or add some option to enable and disable that",
+    "date": "2026-09-27T04:31:46-07:00",
+    "version": "8.9"
+  },
+  {
+    "country": "us",
+    "id": "14592844478",
+    "author": "OldManNacho",
+    "rating": 5,
+    "title": "Wow. Amazing.",
+    "content": "I pay for my music via iTunes and have traditionally listened to it via the Apple Music app. Crossfade songs used to work, until they didn’t. I stumbled upon Evermusic and wow. Super easy to use once you fiddle with it for 30 minutes or so. Sound quality is amazing. Free version as well as paid options. Crossfade works amazing. Stoked. Thank you Evermusic!!",
+    "date": "2026-09-25T12:23:36-07:00",
+    "version": "8.9"
+  },
+  {
+    "country": "us",
+    "id": "14592501510",
+    "author": "betamax999",
+    "rating": 2,
+    "title": "True gapless playback? Not so sure…",
+    "content": "This used to be my preferred offline music player for quite a while until the “true gapless playback” update was released sometime in June or thereabouts. Since then, all the gapless albums I’ve tried playing have small gaps/blips during the transition from one track to another. I’ve disabled the EQ within the app, I don’t have any extra FX enabled, and I’ve tried both audio engines within the app, but nothing has solved the problem. I never had issues with gapless playback on the versions of the app prior to that update, but now it appears that the “true gapless playback” update has actually made things go from working normally to not working at all, as intended. It’s a bummer and has forced me to find another offline music player app that can properly handle playback of continuous DJ mixes and such.",
+    "date": "2026-09-25T10:26:27-07:00",
+    "version": "8.9"
+  },
+  {
+    "country": "us",
+    "id": "14590841636",
+    "author": "IrkanHasanLabib",
+    "rating": 5,
+    "title": "App",
+    "content": "One of the best app in the appstore for music folder",
+    "date": "2026-09-25T01:20:32-07:00",
+    "version": "8.9"
+  },
+  {
+    "country": "us",
+    "id": "14579477772",
+    "author": "Lance Wyatt",
+    "rating": 2,
+    "title": "Offline cloud constant sync",
+    "content": "Love the app but it keeps re-syncing to Google Drive despite the files have already been marked offline and previously synched . As a result, previously synched files no longer play when the internet connection is not available.",
+    "date": "2026-09-22T03:06:52-07:00",
+    "version": "8.8"
+  },
+  {
+    "country": "us",
+    "id": "14574231645",
+    "author": "Max!m!x",
+    "rating": 5,
+    "title": "Does not work",
+    "content": "The app isn’t working after the update.",
+    "date": "2026-09-20T16:49:26-07:00",
+    "version": "8.8"
   }
 ]

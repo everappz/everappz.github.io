@@ -588,5 +588,15 @@
     "content": "this let go add music from your own files and it has its own equalizer..",
     "date": "2026-05-05T14:06:13-07:00",
     "version": "7.3"
+  },
+  {
+    "country": "gb",
+    "id": "14605142955",
+    "author": "Lexy027",
+    "rating": 3,
+    "title": "Almost Functional",
+    "content": "The only issue is when i press skip outside of the app it sometimes starts playing nothing and then restarts the queue from the beginning. Everything else is great, except perhaps more granular dry/wet controls needed for all audio effects and signal processing effects instead of just some.",
+    "date": "2026-09-28T16:30:08-07:00",
+    "version": "7.7"
   }
 ]

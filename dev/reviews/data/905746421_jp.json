@@ -498,5 +498,15 @@
     "content": "金とる割りに使いづらいし、広告多いしマジごみ",
     "date": "2017-03-23T21:17:52-07:00",
     "version": "2.6"
+  },
+  {
+    "country": "jp",
+    "id": "14628564745",
+    "author": "Kaneki, Ken",
+    "rating": 1,
+    "title": "Recurring bug and awkward interface",
+    "content": "All three ‘Ever…’ players have the same recurring bug: when you start listening to an album, the MP3 files don’t start from the beginning but from wherever you supposedly pressed the ‘Stop’ button previously. This ‘feature’ is absolutely annoying, and they haven’t fixed it since at least 2021.\nAlso, they changed the interface having made it awkward.",
+    "date": "2026-10-04T16:18:12-07:00",
+    "version": "8.9"
   }
 ]

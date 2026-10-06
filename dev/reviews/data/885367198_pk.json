@@ -148,5 +148,15 @@
     "content": "I purchased it's awesome",
     "date": "2016-02-02T14:02:26-07:00",
     "version": "2.1"
+  },
+  {
+    "country": "pk",
+    "id": "14627512483",
+    "author": "Chairman71",
+    "rating": 1,
+    "title": "iOS 27 optimisation Not proper",
+    "content": "1-Unable to transfer multiple songs from other applications to Evermusic after iOS 27 update..\nAlso am unable to permanently delete files from recently deleted folder.\nPlease resolve issues .",
+    "date": "2026-10-04T10:09:46-07:00",
+    "version": "8.9"
   }
 ]

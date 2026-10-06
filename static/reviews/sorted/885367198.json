@@ -1,5 +1,185 @@
 [
   {
+    "country": "us",
+    "id": "14629177221",
+    "author": "HoH SiS enjoyer",
+    "rating": 4,
+    "title": "I like the different sound options, but...",
+    "content": "I love how the audio effects are there, as well as gapless playback, but one thing is missing that I believe this app would benefit from: skipping silence. I assume \"gapless\" means no pauses, but some of my music just has long periods of silence, with me having to wait for the song to replay. Skipping silence would make it much easier, and make it something available for both Sound FX and Standard sound engines! I believe we shouldn't have to trade so many good features on one engine for one good feature on another engine, so why not include it universally? Still a good app, just a recommendation!",
+    "date": "2026-10-04T20:30:51-07:00",
+    "version": "8.9"
+  },
+  {
+    "country": "jp",
+    "id": "14628561073",
+    "author": "Kaneki, Ken",
+    "rating": 1,
+    "title": "Old recurring bug and bad interface",
+    "content": "All three ‘Ever…’ players have the same recurring bug: when you start listening to an album, the MP3 files don’t start from the beginning but from wherever you supposedly pressed the ‘Stop’ button previously. This ‘feature’ is absolutely annoying, and they haven’t fixed it since at least 2021.\nAlso, they changed the interface having made it awkward.",
+    "date": "2026-10-04T16:16:38-07:00",
+    "version": "8.9"
+  },
+  {
+    "country": "tw",
+    "id": "14627709822",
+    "author": "DHDHDH888",
+    "rating": 1,
+    "title": "無法隨機播放",
+    "content": "無法隨機播放",
+    "date": "2026-10-04T11:09:27-07:00",
+    "version": "8.9"
+  },
+  {
+    "country": "pk",
+    "id": "14627512483",
+    "author": "Chairman71",
+    "rating": 1,
+    "title": "iOS 27 optimisation Not proper",
+    "content": "1-Unable to transfer multiple songs from other applications to Evermusic after iOS 27 update..\nAlso am unable to permanently delete files from recently deleted folder.\nPlease resolve issues .",
+    "date": "2026-10-04T10:09:46-07:00",
+    "version": "8.9"
+  },
+  {
+    "country": "vn",
+    "id": "14626551689",
+    "author": "duckmp3z",
+    "rating": 4,
+    "title": "đánh giá",
+    "content": "sài ngon, tiện nhưng tui mới sài nên chưa quen thao tác lắm",
+    "date": "2026-10-04T05:31:01-07:00",
+    "version": "8.9"
+  },
+  {
+    "country": "fr",
+    "id": "14626330059",
+    "author": "kscanu",
+    "rating": 5,
+    "title": "Meilleur appli de ma vie",
+    "content": "Je vais le dire honnêtement cette appli est génial pour écouter les musique que tu veut grâce au fichier et autres c’est incroyable peu de pub et le design de lappli ressort super bien merci au développeur..",
+    "date": "2026-10-04T04:16:07-07:00",
+    "version": "8.9"
+  },
+  {
+    "country": "pe",
+    "id": "14621314433",
+    "author": "nexali",
+    "rating": 5,
+    "title": "La amo",
+    "content": "Simplemente es la mejor una aplicación extraordinariamente intuitiva",
+    "date": "2026-10-02T20:53:50-07:00",
+    "version": "8.9"
+  },
+  {
+    "country": "de",
+    "id": "14620528683",
+    "author": "meeeloooni",
+    "rating": 5,
+    "title": "good",
+    "content": "good musicplayer",
+    "date": "2026-10-02T15:41:36-07:00",
+    "version": "8.9"
+  },
+  {
+    "country": "ua",
+    "id": "14618306291",
+    "author": "мазафакер123456789",
+    "rating": 2,
+    "title": "Обмежена версія?",
+    "content": "Ви так скоро можете позбавитись клієнтів",
+    "date": "2026-10-02T03:24:23-07:00",
+    "version": "8.9"
+  },
+  {
+    "country": "co",
+    "id": "14615374878",
+    "author": "Sleeider",
+    "rating": 4,
+    "title": "se vuela 10 segundos",
+    "content": "Por favor arreglar la aplicación, se entre corta el disco a mitad de la canción, arreglen eso porfavor que es molestoso",
+    "date": "2026-10-01T08:30:40-07:00",
+    "version": "8.9"
+  },
+  {
+    "country": "gb",
+    "id": "14614258983",
+    "author": "aym_133",
+    "rating": 3,
+    "title": "Not the best",
+    "content": "It’s so buggy and really annoying to use, if you go off the app without even closing it and then come back on it will start loading and your music stops, doesn’t matter how many times if u go off the app and switch back it starts loading and the music stops. The music also has constant buffering and cutting. If there were any better apps than this one I’d use it. But ultimately this is probably the best app on the play store for its use, just needs fixes and optimisation.",
+    "date": "2026-10-01T02:40:14-07:00",
+    "version": "8.9"
+  },
+  {
+    "country": "gb",
+    "id": "14607292714",
+    "author": "Robbie ya yeet",
+    "rating": 5,
+    "title": "Parvin",
+    "content": "Like",
+    "date": "2026-09-29T07:09:11-07:00",
+    "version": "8.9"
+  },
+  {
+    "country": "us",
+    "id": "14606830069",
+    "author": "Avrtta",
+    "rating": 4,
+    "title": "Liquid Glass",
+    "content": "Please bring back the previous Liquid Glass style for the music playback slider. These simple round dots look so outdated, like an old version of iOS, and honestly don’t look good at all. The previous glassy slider was much better!",
+    "date": "2026-09-29T04:46:40-07:00",
+    "version": "8.9"
+  },
+  {
+    "country": "kr",
+    "id": "14606282663",
+    "author": "별명이고별명",
+    "rating": 4,
+    "title": "잘쓰고 있어요 근데",
+    "content": "노래 중간에 갑자기 20~30초 건너뛰고 재생이 되네요 ios 최신버전인데 확인 바랍니다",
+    "date": "2026-09-29T00:58:33-07:00",
+    "version": "8.9"
+  },
+  {
+    "country": "tw",
+    "id": "14605984332",
+    "author": "Karr Pluto",
+    "rating": 1,
+    "title": "更新",
+    "content": "還我看廣告試用premium",
+    "date": "2026-09-28T22:32:13-07:00",
+    "version": "8.9"
+  },
+  {
+    "country": "us",
+    "id": "14604814402",
+    "author": "Squírtzle",
+    "rating": 1,
+    "title": "Outdated and clunky interface",
+    "content": "Also, an unskippable tutorial for a basic app? Is your user base comprised of grade schoolers?!",
+    "date": "2026-09-28T14:16:06-07:00",
+    "version": "8.9"
+  },
+  {
+    "country": "nz",
+    "id": "14604225634",
+    "author": "Gandalf232",
+    "rating": 1,
+    "title": "FIX GAPLESS PLAYBACK!!",
+    "content": "Gapless playback is essential to me but its broken!! Please fix. I wish i never updated.",
+    "date": "2026-09-28T10:47:01-07:00",
+    "version": "8.9"
+  },
+  {
+    "country": "us",
+    "id": "14599182963",
+    "author": "Ache abodan",
+    "rating": 4,
+    "title": "Pls take back glass slider",
+    "content": "Hi pls pls pls pls get back to that glassy slider for music is much much better than this simple dot slider it's so little and not fun and glassy pls take back this option or add some option to enable and disable that",
+    "date": "2026-09-27T04:31:46-07:00",
+    "version": "8.9"
+  },
+  {
     "country": "pl",
     "id": "14596568469",
     "author": "Stachu13",
@@ -60,6 +240,26 @@
     "version": "8.9"
   },
   {
+    "country": "us",
+    "id": "14592844478",
+    "author": "OldManNacho",
+    "rating": 5,
+    "title": "Wow. Amazing.",
+    "content": "I pay for my music via iTunes and have traditionally listened to it via the Apple Music app. Crossfade songs used to work, until they didn’t. I stumbled upon Evermusic and wow. Super easy to use once you fiddle with it for 30 minutes or so. Sound quality is amazing. Free version as well as paid options. Crossfade works amazing. Stoked. Thank you Evermusic!!",
+    "date": "2026-09-25T12:23:36-07:00",
+    "version": "8.9"
+  },
+  {
+    "country": "us",
+    "id": "14592501510",
+    "author": "betamax999",
+    "rating": 2,
+    "title": "True gapless playback? Not so sure…",
+    "content": "This used to be my preferred offline music player for quite a while until the “true gapless playback” update was released sometime in June or thereabouts. Since then, all the gapless albums I’ve tried playing have small gaps/blips during the transition from one track to another. I’ve disabled the EQ within the app, I don’t have any extra FX enabled, and I’ve tried both audio engines within the app, but nothing has solved the problem. I never had issues with gapless playback on the versions of the app prior to that update, but now it appears that the “true gapless playback” update has actually made things go from working normally to not working at all, as intended. It’s a bummer and has forced me to find another offline music player app that can properly handle playback of continuous DJ mixes and such.",
+    "date": "2026-09-25T10:26:27-07:00",
+    "version": "8.9"
+  },
+  {
     "country": "ru",
     "id": "14591655871",
     "author": "hahlimas",
@@ -67,6 +267,16 @@
     "title": "Удобный интерфейс",
     "content": "Всё прекрасно, максимально просто как в самом обычном мп3 плеере, перешёл с AIMP для ПК и функционала вполне достаточно, всё как в старые времена, закинул музыку и спокойно слушаешь",
     "date": "2026-09-25T06:14:46-07:00",
+    "version": "8.9"
+  },
+  {
+    "country": "us",
+    "id": "14590841636",
+    "author": "IrkanHasanLabib",
+    "rating": 5,
+    "title": "App",
+    "content": "One of the best app in the appstore for music folder",
+    "date": "2026-09-25T01:20:32-07:00",
     "version": "8.9"
   },
   {
@@ -140,6 +350,16 @@
     "version": "8.8"
   },
   {
+    "country": "us",
+    "id": "14579477772",
+    "author": "Lance Wyatt",
+    "rating": 2,
+    "title": "Offline cloud constant sync",
+    "content": "Love the app but it keeps re-syncing to Google Drive despite the files have already been marked offline and previously synched . As a result, previously synched files no longer play when the internet connection is not available.",
+    "date": "2026-09-22T03:06:52-07:00",
+    "version": "8.8"
+  },
+  {
     "country": "in",
     "id": "14575283932",
     "author": "Swordalfaisal",
@@ -147,6 +367,16 @@
     "title": "Glitchy app bad support",
     "content": "Very glitch and buggy app i purchase lifetime subscription to get full benefits but what i get is bugs for example offline library not update automatically when adding new media on the linked folder , and some playlist i created not work offline despite that i chose offline mode… the player also very buggy the shuffle playing not work i must turn the repeat same song off manually every time i play my playlist , the settings are very confused and not clear.",
     "date": "2026-09-21T00:26:42-07:00",
+    "version": "8.8"
+  },
+  {
+    "country": "us",
+    "id": "14574231645",
+    "author": "Max!m!x",
+    "rating": 5,
+    "title": "Does not work",
+    "content": "The app isn’t working after the update.",
+    "date": "2026-09-20T16:49:26-07:00",
     "version": "8.8"
   },
   {

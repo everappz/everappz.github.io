@@ -708,5 +708,15 @@
     "content": "mp3曲多数をモバイル端末に保管しています。全て、ever musicであれば快適にオフラインで再生出来るので助かっています",
     "date": "2026-09-25T17:56:36-07:00",
     "version": "8.9"
+  },
+  {
+    "country": "jp",
+    "id": "14628561073",
+    "author": "Kaneki, Ken",
+    "rating": 1,
+    "title": "Old recurring bug and bad interface",
+    "content": "All three ‘Ever…’ players have the same recurring bug: when you start listening to an album, the MP3 files don’t start from the beginning but from wherever you supposedly pressed the ‘Stop’ button previously. This ‘feature’ is absolutely annoying, and they haven’t fixed it since at least 2021.\nAlso, they changed the interface having made it awkward.",
+    "date": "2026-10-04T16:16:38-07:00",
+    "version": "8.9"
   }
 ]

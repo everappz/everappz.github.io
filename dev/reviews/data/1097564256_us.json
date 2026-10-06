@@ -1008,5 +1008,55 @@
     "content": "The app isn’t working after the update. iOS  27.2",
     "date": "2026-09-20T16:48:01-07:00",
     "version": "7.6"
+  },
+  {
+    "country": "us",
+    "id": "14614096799",
+    "author": "Adam_Hannah",
+    "rating": 5,
+    "title": "So far so good",
+    "content": "I’ve been looking for a good graphic equalizer for a while and finally found it!  Sounds good.",
+    "date": "2026-10-01T01:31:16-07:00",
+    "version": "7.7"
+  },
+  {
+    "country": "us",
+    "id": "14609470645",
+    "author": "SahandRanjbar",
+    "rating": 5,
+    "title": "Best music app ever",
+    "content": "This app is just perfect. You can use unimaginable features and facilities for free and without getting premium! So imagine how great is this on premium. But even if you are not able to buy premium just download it and see how fascinating an app can be. Me my self was really suffering from finding an app for music but this one just saved me. I really appreciate for the producer.",
+    "date": "2026-09-29T20:11:12-07:00",
+    "version": "7.7"
+  },
+  {
+    "country": "us",
+    "id": "14600747557",
+    "author": "0GxScott",
+    "rating": 5,
+    "title": "Love your app! ❤️",
+    "content": "I just want to say, I absolutely love this app! It’s equalizer settings are unmatched and the interface is phenomenal. I have one complaint and it’s not so much a complaint as reporting an issue. I have started the public beta testing for iOS 27 and since the release of the 27.2 beta, Flacbox no longer works. As soon as I launch the app it shows the initialization screen then crashes. I hope to see this fixed in coming updates! One love 🫶🏻",
+    "date": "2026-09-27T12:25:21-07:00",
+    "version": "7.6"
+  },
+  {
+    "country": "us",
+    "id": "14599346957",
+    "author": "Z5SL",
+    "rating": 1,
+    "title": "Broken!!!!",
+    "content": "Crashes when launched on iOS 27 on iPhone 18 Pro Max. Bug report submitted and still no response after > 1 week. Don’t waste your time.",
+    "date": "2026-09-27T05:27:49-07:00",
+    "version": "7.6"
+  },
+  {
+    "country": "us",
+    "id": "14597977506",
+    "author": "gregor powell",
+    "rating": 1,
+    "title": "Flacbox not working",
+    "content": "I can’t get Flacbox to open anymore after the new beta upgrade. It was working great and sounding good.",
+    "date": "2026-09-26T20:09:14-07:00",
+    "version": "7.6"
   }
 ]

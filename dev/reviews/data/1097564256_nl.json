@@ -318,5 +318,15 @@
     "content": "Specs klinken goed maar koppeling aan een (moderne) NAS is problematisch. Opbouwen van een bibliotheek uit 1300 albums moet in kleine plukjes anders lukt het niet. En de goede albumhoezen-jpgs worden er niet bij geplaatst. Niet aan beginnen.",
     "date": "2026-06-15T11:43:38-07:00",
     "version": "7.5"
+  },
+  {
+    "country": "nl",
+    "id": "14621652934",
+    "author": "Yerohen",
+    "rating": 2,
+    "title": "bugs",
+    "content": "since last update it does not feel good. App becomes slow, skipping songs from cloud takes ages, before the last update no problems. Settings have been changed, app always starts now in library modus after closing :(",
+    "date": "2026-10-02T23:22:58-07:00",
+    "version": "7.7"
   }
 ]

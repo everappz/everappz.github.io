@@ -648,5 +648,25 @@
     "content": "藍芽耳機已無法控制前後首歌的選擇",
     "date": "2026-09-22T20:33:34-07:00",
     "version": "8.8"
+  },
+  {
+    "country": "tw",
+    "id": "14627709822",
+    "author": "DHDHDH888",
+    "rating": 1,
+    "title": "無法隨機播放",
+    "content": "無法隨機播放",
+    "date": "2026-10-04T11:09:27-07:00",
+    "version": "8.9"
+  },
+  {
+    "country": "tw",
+    "id": "14605984332",
+    "author": "Karr Pluto",
+    "rating": 1,
+    "title": "更新",
+    "content": "還我看廣告試用premium",
+    "date": "2026-09-28T22:32:13-07:00",
+    "version": "8.9"
   }
 ]

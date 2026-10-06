@@ -1,6 +1,16 @@
 [
   {
     "country": "jp",
+    "id": "14628556194",
+    "author": "Kaneki, Ken",
+    "rating": 1,
+    "title": "Old bug they don’t fix.",
+    "content": "All three ‘Ever…’ players have the same recurring bug: when you start listening to an album, the MP3 files don’t start from the beginning but from wherever you supposedly pressed the ‘Stop’ button previously. This ‘feature’ is absolutely annoying, and they haven’t fixed it since at least 2021.",
+    "date": "2026-10-04T16:14:33-07:00",
+    "version": "1.8"
+  },
+  {
+    "country": "jp",
     "id": "14474463354",
     "author": "闇・ダーク",
     "rating": 2,

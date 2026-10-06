@@ -1,5 +1,35 @@
 [
   {
+    "country": "ru",
+    "id": "14618812721",
+    "author": "@chico_cantante_",
+    "rating": 1,
+    "title": "Виснет",
+    "content": "Плеер запускает песни с задержкой непонятный интерфейс не знаешь как настроить \nЛучше чем аимп плеер нет\nжаль что нет таких функций как в нем а так бы купил полную версию увы еще дорабатывать вам его и дорабатывать",
+    "date": "2026-10-02T06:12:04-07:00",
+    "version": "7.7"
+  },
+  {
+    "country": "us",
+    "id": "14612293651",
+    "author": "Rtr8",
+    "rating": 1,
+    "title": "Data harvesting",
+    "content": "Another developer collecting data under the umbrella of “diagnostics”…supposedly to give a better user experience in the long run.\n\nYou know, there are plenty of awesome apps, better than this one, that don’t collect any data whatsoever. \n\nThere’s no need. \n\nThis kind of developer is a letdown. Stay away.",
+    "date": "2026-09-30T13:20:47-07:00",
+    "version": "7.7"
+  },
+  {
+    "country": "es",
+    "id": "14611922284",
+    "author": "jose luis menendez",
+    "rating": 1,
+    "title": "Oculta su precio",
+    "content": "Al intentar adquirir y pagar el programa, la ventana de casi medio centímetro, impide ver que diferencia la demo de la final, que incluye o deja de incluir, y también oculta los botones de pago, mostrando exclusivamente el botón de pago mensual. Bien por tener opciones, mal por no mostrarlas. Tenemos pantallas cada vez mayores, pero se emperran en diseñarlas cada vez menores para no mostrar ni el contenido ni los botones de pago. Se quedan sin nada. Punto. Programa a borrar ya que no puedo comprarlo, ni ganas que tengo, con esos diseños absurdos.",
+    "date": "2026-09-30T11:12:07-07:00",
+    "version": "7.7"
+  },
+  {
     "country": "ch",
     "id": "14529433701",
     "author": "elpito2010",

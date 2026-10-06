@@ -558,5 +558,15 @@
     "content": "Tout est dans le titre, et j’en ai testé énormément.\nBeaucoup trop de qualités :\n- prise en charge de nombreux formats audio\n- design toujours propre et complet, logique. On ne s’y perd pas 🙏\n- connexion à de nombreux services Cloud (Google Drive, Mega, Box, Dropbox, Proton, OneDrive, pCloud, MediaFire, …) et même du NAS local (QNAP, SYNOLOGY, Nextcloud, WD My Cloud Home, S3 Storage, …), ou encore des services multimédias (Plex, Subsonic, …),  et encore même en local via un import via connexion wifi (SFTP ou HTTPS je ne sais plus), ou même directement via SMB, FTP, DLNA, WebDAV, …\n- développeur très réactif, à l’écoute, et propose régulièrement des MAJ (stabilisation appli, résolution de bugs, amélioration des fonctionnalités\n- accès et modification des metadonnees possibles + affichage des propriétés de vos fichiers (permets de modifier les entrées (artiste, album, cover, … ou encore de vérifier en quelle qualité et format est votre fichiers)\n- equaliser puissant et très customisable en fonction des styles que vous écoutez\n\n\nPour moi c’est une chance et un sans faute d’avoir cette appli à dispo avec une licence perpétuelle pour si peu cher (ça vaut clairement le coup).\n\nDonc 5/5étoiles ⭐️⭐️⭐️⭐️⭐️\n\nAmélioration possible pour avoir la 6/5 étoiles 🤩\n-> avoir cette même application sur l’Apple Watch pour pouvoir écouter de la musique hors ligne, synchronisée sur la Watch 🥳\n\nTellement parfait : ça permettrait d’aller courir sans le téléphone 🤩😍🥳\n\nUn grand merci pour ce travail TITANESQUE et de qualité EXCEPTIONELLE 🔥🔥🔥",
     "date": "2026-07-22T23:45:35-07:00",
     "version": "7.6"
+  },
+  {
+    "country": "fr",
+    "id": "14621765856",
+    "author": "Gérald13300",
+    "rating": 1,
+    "title": "CarPlay ne fonctionne plus !",
+    "content": "Depuis la mise à jour, c’est le bazar sur CarPlay 😡\nLe tri des morceaux ne fonctionne plus correctement non plus  !!!",
+    "date": "2026-10-03T00:10:49-07:00",
+    "version": "7.7"
   }
 ]
