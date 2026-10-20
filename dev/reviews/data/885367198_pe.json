@@ -358,5 +358,25 @@
     "content": "Simplemente es la mejor una aplicación extraordinariamente intuitiva",
     "date": "2026-10-02T20:53:50-07:00",
     "version": "8.9"
+  },
+  {
+    "country": "pe",
+    "id": "14681554708",
+    "author": "Albenci",
+    "rating": 2,
+    "title": "Se cierra",
+    "content": "Esta última actualización se cierra cuando estoy escuchando y tengo que iniciarlo de nuevo arreglen eso",
+    "date": "2026-10-18T06:18:23-07:00",
+    "version": "8.9"
+  },
+  {
+    "country": "pe",
+    "id": "14678397623",
+    "author": "iAtesterneitor",
+    "rating": 5,
+    "title": "Excelente en nube local",
+    "content": "Me gusta mucho que te deja acceder a tu nube local del router conectado a un disco de manera sencilla. Me gustaría que me den una prueba gratuita sin registrar mi tarjeta, para ver si lo compro.",
+    "date": "2026-10-17T10:35:20-07:00",
+    "version": "8.9"
   }
 ]

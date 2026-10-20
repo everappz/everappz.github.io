@@ -1,5 +1,35 @@
 [
   {
+    "country": "ca",
+    "id": "14670705916",
+    "author": "Bloblaw",
+    "rating": 1,
+    "title": "smb is broken as of recent",
+    "content": "smb is broken as of recent",
+    "date": "2026-10-15T12:22:23-07:00",
+    "version": "8.9"
+  },
+  {
+    "country": "vn",
+    "id": "14668861169",
+    "author": "hieutale",
+    "rating": 5,
+    "title": "Quá xịn",
+    "content": "Nghe hay xịn mà còn free.",
+    "date": "2026-10-15T09:51:40.000Z",
+    "version": null
+  },
+  {
+    "country": "de",
+    "id": "14635940865",
+    "author": "Alejandro3245",
+    "rating": 1,
+    "title": "Nicht intuitiv, Hauptfunktion steht nicht im Mittelpunkt",
+    "content": "Ich weis nicht warum so viele Leute diese app so feiern? Ich dachte ich kann entspannt für 44€! Meine Musik offline hören. Vor 7 Jahren schrieb jemand, das  die Offline Player Funktion unbrauchbar ist. Das ist immer noch so! Ind beim Import kommt ein Error. Ich kann mit dieser App nichts anfangen.",
+    "date": "2026-10-06T15:12:12-07:00",
+    "version": "8.9"
+  },
+  {
     "country": "jp",
     "id": "14628564745",
     "author": "Kaneki, Ken",
@@ -1927,6 +1957,16 @@
     "title": "Some problems, otherwise a good player",
     "content": "Unfortunately, the metadata synchronization does not work reliably. Albums and artists are not recognized although the built-in metadata editor displays them.\nOtherwise, the player has good features.",
     "date": "2023-02-13T23:47:02-07:00",
+    "version": "5.0"
+  },
+  {
+    "country": "us",
+    "id": "9551016358",
+    "author": "acornsuxxxxdic",
+    "rating": 4,
+    "title": "i love this app",
+    "content": "i have 80 gigs of music i listen to on my phone all thanks to this app.. this would be a 5 star review if the app didnt crash as much as it does.. but it only really happens when i transfer files to different folders. it used to crash before 80 gigs so its not because of that. and also i wish i could select files when i search a folder.. there would be like 100 files i wish i could select all but instead have to move one by one",
+    "date": "2023-01-26T17:44:01-07:00",
     "version": "5.0"
   },
   {

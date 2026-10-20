@@ -1,5 +1,25 @@
 [
   {
+    "country": "cz",
+    "id": "14657925524",
+    "author": "iRecycler",
+    "rating": 5,
+    "title": "In my opinion it is the best",
+    "content": "Have tried a few apps like this. Most lately VOX. Flacbox has turned out as the best. In my opinion .True… it is somehow overpacked with functions I have no use for, but why not. It only shows the developer cares. Also appreciate frequent improvements. So… I am happy with it and can only recommend to everyone who owns a large hi-res music collection stored online. In my case up on Mega.",
+    "date": "2026-10-12T07:07:24-07:00",
+    "version": "7.7"
+  },
+  {
+    "country": "us",
+    "id": "14642709305",
+    "author": "delorean777",
+    "rating": 1,
+    "title": "Bad Library Management",
+    "content": "I connected a google drive folder where my flac collection is stored. It is around 20,000 songs. It has been 48 hours and Flacbox is only up to around 2K songs in my library. I’m not downloading them, Flacbox is just slowly recognizing songs 1 by 1. Also, when you look at an individual artist you can only sort the songs. You can’t look at albums. This is the weirdest layout I have ever seen. I paid for the annual and apple won’t give me my money back. Buyer BEWARE this software is half baked.",
+    "date": "2026-10-08T09:53:48-07:00",
+    "version": "7.7"
+  },
+  {
     "country": "ru",
     "id": "14618812721",
     "author": "@chico_cantante_",

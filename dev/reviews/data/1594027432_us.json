@@ -288,5 +288,15 @@
     "content": "Another developer collecting data under the umbrella of “diagnostics”…supposedly to give a better user experience in the long run.\n\nYou know, there are plenty of awesome apps, better than this one, that don’t collect any data whatsoever. \n\nThere’s no need. \n\nThis kind of developer is a letdown. Stay away.",
     "date": "2026-09-30T13:20:47-07:00",
     "version": "7.7"
+  },
+  {
+    "country": "us",
+    "id": "14642709305",
+    "author": "delorean777",
+    "rating": 1,
+    "title": "Bad Library Management",
+    "content": "I connected a google drive folder where my flac collection is stored. It is around 20,000 songs. It has been 48 hours and Flacbox is only up to around 2K songs in my library. I’m not downloading them, Flacbox is just slowly recognizing songs 1 by 1. Also, when you look at an individual artist you can only sort the songs. You can’t look at albums. This is the weirdest layout I have ever seen. I paid for the annual and apple won’t give me my money back. Buyer BEWARE this software is half baked.",
+    "date": "2026-10-08T09:53:48-07:00",
+    "version": "7.7"
   }
 ]

@@ -1,5 +1,85 @@
 [
   {
+    "country": "la",
+    "id": "14676547114",
+    "author": "ນ້ອຍ ມົນພິທັກ",
+    "rating": 5,
+    "title": "Noy Zx",
+    "content": "Noy Zx",
+    "date": "2026-10-17T00:58:24-07:00",
+    "version": "4.3"
+  },
+  {
+    "country": "us",
+    "id": "14672518454",
+    "author": "LSD209",
+    "rating": 5,
+    "title": "Love It!",
+    "content": "Great music player app! Maybe the best! Probably the best! I just haven’t tried all of them & I don’t state things inaccurately. Anyway, if your reading this to determine if you should download this app, YES! DOWNLOAD IT, YOU WON’T BE DISAPPOINTED!",
+    "date": "2026-10-16T00:51:50-07:00",
+    "version": "4.3"
+  },
+  {
+    "country": "bg",
+    "id": "14660917166",
+    "author": "osakade",
+    "rating": 5,
+    "title": "season",
+    "content": "best music editor 🍂",
+    "date": "2026-10-13T01:48:03-07:00",
+    "version": "4.3"
+  },
+  {
+    "country": "us",
+    "id": "14651568246",
+    "author": "Ron123014",
+    "rating": 5,
+    "title": "Ez",
+    "content": "Super ez",
+    "date": "2026-10-10T15:59:29-07:00",
+    "version": "4.3"
+  },
+  {
+    "country": "us",
+    "id": "14651098360",
+    "author": "haldrich1",
+    "rating": 1,
+    "title": "Really!!!",
+    "content": "Downloaded a new version and nothing is the same.  Looking them side by side can see the missing items.",
+    "date": "2026-10-10T12:57:35-07:00",
+    "version": "4.3"
+  },
+  {
+    "country": "us",
+    "id": "14651062291",
+    "author": "Bible Fan007",
+    "rating": 5,
+    "title": "Great!",
+    "content": "Easy use. Works great!",
+    "date": "2026-10-10T12:45:03-07:00",
+    "version": "4.3"
+  },
+  {
+    "country": "us",
+    "id": "14646099699",
+    "author": "Squatch91",
+    "rating": 1,
+    "title": "Data loss, unsaved changes, and I still see ads.",
+    "content": "My use case is simple. I need to add writers, lyrics, contact info, and notes to my files before I share them. \n\nIn the past 10 minutes I’ve entered metadata for the same track 3 times. First time the data failed to save, I tried again and there was another issue opening the file, and this last time I accidentally tapped the x instead of the check… instead of ASKING IF I WANTED TO SAVE MY PROGRESS it just closed. I’m tired of losing work. It’s to the point where I’ll just vibe code my own solution and ditch this all together. This app is useful, but it’s not the only way anymore. \n\nTo top it off… I’ve paid for this app, and I still see ads.",
+    "date": "2026-10-09T07:37:49-07:00",
+    "version": "4.3"
+  },
+  {
+    "country": "us",
+    "id": "14642029892",
+    "author": "neontzars",
+    "rating": 1,
+    "title": "👎",
+    "content": "The free version is effectively malware, in that the ads can be impossible to close, rendering it non-functional and forcing you to restart your device. I won’t reward developers who write software like this by buying the premium version, and nor should others",
+    "date": "2026-10-08T06:31:45-07:00",
+    "version": "4.3"
+  },
+  {
     "country": "us",
     "id": "14627971859",
     "author": "UnsatisfiedStill",

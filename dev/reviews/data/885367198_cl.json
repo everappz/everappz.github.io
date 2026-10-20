@@ -158,5 +158,15 @@
     "content": "App piolilla",
     "date": "2026-08-23T09:37:06-07:00",
     "version": "8.8"
+  },
+  {
+    "country": "cl",
+    "id": "14651909127",
+    "author": "Que sucede con la app???",
+    "rating": 3,
+    "title": "Se cierra la app",
+    "content": "Nose que sucede que está reproduciendo música y se cierra la app después de un rato??",
+    "date": "2026-10-10T18:15:51-07:00",
+    "version": "8.9"
   }
 ]

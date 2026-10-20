@@ -1,5 +1,205 @@
 [
   {
+    "country": "pe",
+    "id": "14681554708",
+    "author": "Albenci",
+    "rating": 2,
+    "title": "Se cierra",
+    "content": "Esta última actualización se cierra cuando estoy escuchando y tengo que iniciarlo de nuevo arreglen eso",
+    "date": "2026-10-18T06:18:23-07:00",
+    "version": "8.9"
+  },
+  {
+    "country": "us",
+    "id": "14678507124",
+    "author": "MsQueenn",
+    "rating": 4,
+    "title": "Perfect But Needs Audiobook Chapters",
+    "content": "This app has everything you’d need in an audio player but being that it supports m4b, you’d think it’d have chapter navigation but it doesn’t. Devs, please add this feature!",
+    "date": "2026-10-17T11:08:22-07:00",
+    "version": "8.9"
+  },
+  {
+    "country": "pe",
+    "id": "14678397623",
+    "author": "iAtesterneitor",
+    "rating": 5,
+    "title": "Excelente en nube local",
+    "content": "Me gusta mucho que te deja acceder a tu nube local del router conectado a un disco de manera sencilla. Me gustaría que me den una prueba gratuita sin registrar mi tarjeta, para ver si lo compro.",
+    "date": "2026-10-17T10:35:20-07:00",
+    "version": "8.9"
+  },
+  {
+    "country": "nl",
+    "id": "14676479395",
+    "author": "NiekoMaatjes",
+    "rating": 3,
+    "title": "Misses integration",
+    "content": "The app mostly works well, but some key integration is missing:\n\n1. Better integration with AirPods.\nCurrently music playback doesn't pause when I take one AirPod out or when I click the stem (regardless of audio output mode being \"default\" or \"mixed mode\").\n\n2. Better integration with car Bluetooth.\na. Every time I connect with my car, Evermusic switches to \"repeat 1\" (by itself). I don't know why my car sends this… Could you add an option to ignore whatever playback settings are sent over Bluetooth? (This doesn't happen when connecting, e.g., to my AirPods or AirPlay.)\nb. If I have Evermusic playing music in the car, turn the car off, and later on again (e.g., at a petrol station), Evermusic does not continue playback. Instead, often some other app kicks in that I previously used, e.g., Overcast. Could you please look at resuming playback over Bluetooth in such cases?\nc. The car doesn't see the current playlist. Next song and previous song work, but on my steering wheel I can't scroll to the song I want next. This does work for Apple Music, e.g.\n\n3. Scrubbing on the lock screen.\nThe playback progress bar on the lock screen doesn't respond to me dragging it. Some other apps, e.g., YouTube, do do this.\n\n4. Playlist files always start with the first song.\nI regularly update my playlist files (.m3u8), so rather than importing them, I just keep them as files under Documents. But when I open any .m3u8 file, it always plays the first song in the playlist, regardless of shuffle being on. With shuffle on, I'd expect it to pick a random song.",
+    "date": "2026-10-17T00:30:51-07:00",
+    "version": "8.9"
+  },
+  {
+    "country": "us",
+    "id": "14675052676",
+    "author": "Photo411",
+    "rating": 2,
+    "title": "Very buggy",
+    "content": "Some songs don’t play at all.  Very buggy.",
+    "date": "2026-10-16T14:58:58-07:00",
+    "version": "8.9"
+  },
+  {
+    "country": "kr",
+    "id": "14670919625",
+    "author": "공부하라했다",
+    "rating": 5,
+    "title": "너무좋아요",
+    "content": "드씨 파일 옮긴거 들으려고 방법 알아보다 비행기에서 썼던 이 앱 한번 써봤는데 원하는 기능 다있네요 진짜 너무 좋습니다 초심이라기엔 오래된 것 같지만 초심 잃지 않고 계속 쭉 이대로 해주셨으면 합니다 잘 이용하겠습니다",
+    "date": "2026-10-15T13:37:33-07:00",
+    "version": "8.9"
+  },
+  {
+    "country": "ca",
+    "id": "14667668149",
+    "author": "VickyMorin24",
+    "rating": 5,
+    "title": "PERFECT",
+    "content": "Perfect if you have mp3 music or iTunes music ,such a blessing for IOS 15, the only app that isn’t lagging on my iPhone 7,I’m just in 6th grade so I can’t make money😭 but anyways it’s perfect if you just live listening to music in general",
+    "date": "2026-10-14T18:15:12-07:00",
+    "version": "8.9"
+  },
+  {
+    "country": "mx",
+    "id": "14667354451",
+    "author": "PuchiMo",
+    "rating": 2,
+    "title": "Pésima actualización",
+    "content": "Pésima actualización ya que modificó los controles con IOS y bajó la calidad del audio de salida   En vez me mejorar limito las características y bajo la calidad del audio 👇👎",
+    "date": "2026-10-14T16:10:07-07:00",
+    "version": "8.9"
+  },
+  {
+    "country": "no",
+    "id": "14666583087",
+    "author": "Jevfirbrbcieknfngngbg",
+    "rating": 1,
+    "title": "Free stuff is now behind a paywall like «play this song next in the queue»",
+    "content": "Moneygrabbers",
+    "date": "2026-10-14T11:26:14-07:00",
+    "version": "8.9"
+  },
+  {
+    "country": "tr",
+    "id": "14658717865",
+    "author": "Yarramın oğulları",
+    "rating": 1,
+    "title": "Dolandıcılar",
+    "content": "İphone almayın aldırtmayın böyle bok gibi uygulamalara maruz kalırsınız herşey ücretli gereksiz pahalı",
+    "date": "2026-10-12T10:56:40-07:00",
+    "version": "8.9"
+  },
+  {
+    "country": "rw",
+    "id": "14654566844",
+    "author": "Frankiejos22",
+    "rating": 5,
+    "title": "Big up🫡🫡",
+    "content": "Amazing job! Clean, fast, and very professional,The final result is perfect,Fair price for great quality \nI highly recommend.👌✅",
+    "date": "2026-10-11T09:57:47-07:00",
+    "version": "8.9"
+  },
+  {
+    "country": "cl",
+    "id": "14651909127",
+    "author": "Que sucede con la app???",
+    "rating": 3,
+    "title": "Se cierra la app",
+    "content": "Nose que sucede que está reproduciendo música y se cierra la app después de un rato??",
+    "date": "2026-10-10T18:15:51-07:00",
+    "version": "8.9"
+  },
+  {
+    "country": "au",
+    "id": "14651642505",
+    "author": "Brock846",
+    "rating": 5,
+    "title": "Awesome app",
+    "content": "Great music app to sort out and fun ui but a bug is when i play its like 2 seconds faster",
+    "date": "2026-10-10T16:30:16-07:00",
+    "version": "8.9"
+  },
+  {
+    "country": "us",
+    "id": "14651240885",
+    "author": "grek vegas",
+    "rating": 5,
+    "title": "Good app for your music offline on demand",
+    "content": "This app has been nothing but amazing for me I got sick of paying monthly for Apple Music and Spotify premium just to have unlimited skips and play whatever song I want whenever k want but this app lets me do everything and anything i want with my music but the one thing I will mention is you have to buy you mp3 files or just your music in general to play them here but for me it’s not a problem just keep in mind in case you don’t have all your songs downloaded already in some form of a file like mp3 etc 10/10 app",
+    "date": "2026-10-10T13:49:06-07:00",
+    "version": "8.9"
+  },
+  {
+    "country": "us",
+    "id": "14650899836",
+    "author": "Scully-Fish",
+    "rating": 5,
+    "title": "Escape the Streaming Trap",
+    "content": "Great music player for all my MP3s. It can connect with cloud drives to download your music collection.",
+    "date": "2026-10-10T11:51:07-07:00",
+    "version": "8.9"
+  },
+  {
+    "country": "us",
+    "id": "14643288701",
+    "author": "V.A.T.P.",
+    "rating": 1,
+    "title": "What Happened 😕",
+    "content": "I used to love this all, but recently it hasn’t been working. My songs won’t play at all anymore, or even load. 😔",
+    "date": "2026-10-08T13:07:16-07:00",
+    "version": "8.9"
+  },
+  {
+    "country": "us",
+    "id": "14640799140",
+    "author": "Most Honest Reviewer Of Today",
+    "rating": 1,
+    "title": "Ads.",
+    "content": "I’m not sure if ads are necessary for surviving in the app store but it definitely isn’t fun to look at them, especially with these extra predatory ads nowadays.",
+    "date": "2026-10-07T22:29:51-07:00",
+    "version": "8.9"
+  },
+  {
+    "country": "ca",
+    "id": "14639946293",
+    "author": "Dantaipan",
+    "rating": 1,
+    "title": "Offline music disappears",
+    "content": "Similar to Flacbox app, the contents of my offline folders just disappears. I mainly want this app to keep a small collection of flac music local. Folder was there this morning. Go to play it in the evening and it’s just gone. Unfortunately there are not many options for this use case in the App Store. Can’t bring myself to renew this buggy app however so I guess back to Spotify.",
+    "date": "2026-10-07T16:24:17-07:00",
+    "version": "8.9"
+  },
+  {
+    "country": "ar",
+    "id": "14633090424",
+    "author": "Spartan9091",
+    "rating": 5,
+    "title": "Recomendable",
+    "content": "Muy buena app para lo que es IOS. Por supuesto, como todo ecosistema que quema $$ necesita mantenerse, asi que, hasta cierto punto es entendible las publicidades. Pero muy buena app.",
+    "date": "2026-10-05T21:32:58-07:00",
+    "version": "8.9"
+  },
+  {
+    "country": "lb",
+    "id": "14632182505",
+    "author": "ItsKayanIbrahim",
+    "rating": 4,
+    "title": "Feature",
+    "content": "Great one. Would be perfect if they give us song album covers rounded, rotating  and surrounded by interactive pulse effect with the music.  Thank you.",
+    "date": "2026-10-05T15:14:19-07:00",
+    "version": "8.9"
+  },
+  {
     "country": "us",
     "id": "14629177221",
     "author": "HoH SiS enjoyer",

@@ -548,5 +548,15 @@
     "content": "i am on ios 27.2",
     "date": "2026-09-23T16:15:51-07:00",
     "version": "8.8"
+  },
+  {
+    "country": "nl",
+    "id": "14676479395",
+    "author": "NiekoMaatjes",
+    "rating": 3,
+    "title": "Misses integration",
+    "content": "The app mostly works well, but some key integration is missing:\n\n1. Better integration with AirPods.\nCurrently music playback doesn't pause when I take one AirPod out or when I click the stem (regardless of audio output mode being \"default\" or \"mixed mode\").\n\n2. Better integration with car Bluetooth.\na. Every time I connect with my car, Evermusic switches to \"repeat 1\" (by itself). I don't know why my car sends this… Could you add an option to ignore whatever playback settings are sent over Bluetooth? (This doesn't happen when connecting, e.g., to my AirPods or AirPlay.)\nb. If I have Evermusic playing music in the car, turn the car off, and later on again (e.g., at a petrol station), Evermusic does not continue playback. Instead, often some other app kicks in that I previously used, e.g., Overcast. Could you please look at resuming playback over Bluetooth in such cases?\nc. The car doesn't see the current playlist. Next song and previous song work, but on my steering wheel I can't scroll to the song I want next. This does work for Apple Music, e.g.\n\n3. Scrubbing on the lock screen.\nThe playback progress bar on the lock screen doesn't respond to me dragging it. Some other apps, e.g., YouTube, do do this.\n\n4. Playlist files always start with the first song.\nI regularly update my playlist files (.m3u8), so rather than importing them, I just keep them as files under Documents. But when I open any .m3u8 file, it always plays the first song in the playlist, regardless of shuffle being on. With shuffle on, I'd expect it to pick a random song.",
+    "date": "2026-10-17T00:30:51-07:00",
+    "version": "8.9"
   }
 ]
